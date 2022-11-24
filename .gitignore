@@ -1,0 +1,4 @@
+src/build/
+src/logs/
+src/*__pycache__/
+src/*.egg-info
