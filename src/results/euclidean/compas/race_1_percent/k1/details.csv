@@ -1,0 +1,1056 @@
+,Robust,Stable,Classification
+0,No,Yes,{1}
+1,Do not know,Do not know,"{0, 1}"
+2,Do not know,Do not know,"{0, 1}"
+3,Do not know,Do not know,"{0, 1}"
+4,No,Yes,{1}
+5,Do not know,Do not know,"{0, 1}"
+6,Do not know,Do not know,"{0, 1}"
+7,Do not know,Do not know,"{0, 1}"
+8,Do not know,Do not know,"{0, 1}"
+9,Do not know,Do not know,"{0, 1}"
+10,Do not know,Do not know,"{0, 1}"
+11,Do not know,Do not know,"{0, 1}"
+12,Yes,Yes,{1}
+13,Do not know,Do not know,"{0, 1}"
+14,Do not know,Do not know,"{0, 1}"
+15,No,Yes,{1}
+16,Do not know,Do not know,"{0, 1}"
+17,Do not know,Do not know,"{0, 1}"
+18,No,Yes,{1}
+19,Do not know,Do not know,"{0, 1}"
+20,Do not know,Do not know,"{0, 1}"
+21,Do not know,Do not know,"{0, 1}"
+22,No,Yes,{1}
+23,Do not know,Do not know,"{0, 1}"
+24,No,Yes,{1}
+25,Do not know,Do not know,"{0, 1}"
+26,Do not know,Do not know,"{0, 1}"
+27,Do not know,Do not know,"{0, 1}"
+28,Do not know,Do not know,"{0, 1}"
+29,Do not know,Do not know,"{0, 1}"
+30,Do not know,Do not know,"{0, 1}"
+31,Do not know,Do not know,"{0, 1}"
+32,Yes,Yes,{1}
+33,Do not know,Do not know,"{0, 1}"
+34,Do not know,Do not know,"{0, 1}"
+35,No,Yes,{1}
+36,Yes,Yes,{0}
+37,No,Yes,{1}
+38,Do not know,Do not know,"{0, 1}"
+39,Do not know,Do not know,"{0, 1}"
+40,Do not know,Do not know,"{0, 1}"
+41,Do not know,Do not know,"{0, 1}"
+42,Do not know,Do not know,"{0, 1}"
+43,No,Yes,{1}
+44,Yes,Yes,{0}
+45,Do not know,Do not know,"{0, 1}"
+46,Do not know,Do not know,"{0, 1}"
+47,Do not know,Do not know,"{0, 1}"
+48,Yes,Yes,{0}
+49,Do not know,Do not know,"{0, 1}"
+50,Do not know,Do not know,"{0, 1}"
+51,Do not know,Do not know,"{0, 1}"
+52,Do not know,Do not know,"{0, 1}"
+53,Do not know,Do not know,"{0, 1}"
+54,Do not know,Do not know,"{0, 1}"
+55,Do not know,Do not know,"{0, 1}"
+56,Do not know,Do not know,"{0, 1}"
+57,Do not know,Do not know,"{0, 1}"
+58,Do not know,Do not know,"{0, 1}"
+59,Do not know,Do not know,"{0, 1}"
+60,Do not know,Do not know,"{0, 1}"
+61,Do not know,Do not know,"{0, 1}"
+62,Do not know,Do not know,"{0, 1}"
+63,Do not know,Do not know,"{0, 1}"
+64,Yes,Yes,{0}
+65,Do not know,Do not know,"{0, 1}"
+66,Do not know,Do not know,"{0, 1}"
+67,Do not know,Do not know,"{0, 1}"
+68,Do not know,Do not know,"{0, 1}"
+69,Do not know,Do not know,"{0, 1}"
+70,Do not know,Do not know,"{0, 1}"
+71,Yes,Yes,{0}
+72,No,Yes,{0}
+73,Do not know,Do not know,"{0, 1}"
+74,Do not know,Do not know,"{0, 1}"
+75,No,Yes,{0}
+76,Yes,Yes,{0}
+77,Do not know,Do not know,"{0, 1}"
+78,Do not know,Do not know,"{0, 1}"
+79,Yes,Yes,{1}
+80,Do not know,Do not know,"{0, 1}"
+81,Do not know,Do not know,"{0, 1}"
+82,Do not know,Do not know,"{0, 1}"
+83,Do not know,Do not know,"{0, 1}"
+84,No,Yes,{0}
+85,Do not know,Do not know,"{0, 1}"
+86,Do not know,Do not know,"{0, 1}"
+87,Do not know,Do not know,"{0, 1}"
+88,No,Yes,{0}
+89,Do not know,Do not know,"{0, 1}"
+90,Do not know,Do not know,"{0, 1}"
+91,Do not know,Do not know,"{0, 1}"
+92,Do not know,Do not know,"{0, 1}"
+93,Do not know,Do not know,"{0, 1}"
+94,Yes,Yes,{1}
+95,Yes,Yes,{0}
+96,Do not know,Do not know,"{0, 1}"
+97,Do not know,Do not know,"{0, 1}"
+98,Do not know,Do not know,"{0, 1}"
+99,Do not know,Do not know,"{0, 1}"
+100,No,Yes,{0}
+101,No,Yes,{0}
+102,Do not know,Do not know,"{0, 1}"
+103,Do not know,Do not know,"{0, 1}"
+104,Yes,Yes,{0}
+105,Do not know,Do not know,"{0, 1}"
+106,Do not know,Do not know,"{0, 1}"
+107,Do not know,Do not know,"{0, 1}"
+108,Yes,Yes,{0}
+109,No,Yes,{1}
+110,Do not know,Do not know,"{0, 1}"
+111,Do not know,Do not know,"{0, 1}"
+112,Yes,Yes,{1}
+113,No,Yes,{1}
+114,Do not know,Do not know,"{0, 1}"
+115,Do not know,Do not know,"{0, 1}"
+116,Do not know,Do not know,"{0, 1}"
+117,Do not know,Do not know,"{0, 1}"
+118,Do not know,Do not know,"{0, 1}"
+119,Yes,Yes,{0}
+120,Do not know,Do not know,"{0, 1}"
+121,Do not know,Do not know,"{0, 1}"
+122,Do not know,Do not know,"{0, 1}"
+123,Do not know,Do not know,"{0, 1}"
+124,Yes,Yes,{1}
+125,Do not know,Do not know,"{0, 1}"
+126,Do not know,Do not know,"{0, 1}"
+127,No,Yes,{0}
+128,Do not know,Do not know,"{0, 1}"
+129,Do not know,Do not know,"{0, 1}"
+130,Do not know,Do not know,"{0, 1}"
+131,Yes,Yes,{1}
+132,Do not know,Do not know,"{0, 1}"
+133,Do not know,Do not know,"{0, 1}"
+134,Do not know,Do not know,"{0, 1}"
+135,Do not know,Do not know,"{0, 1}"
+136,Do not know,Do not know,"{0, 1}"
+137,Do not know,Do not know,"{0, 1}"
+138,Do not know,Do not know,"{0, 1}"
+139,Do not know,Do not know,"{0, 1}"
+140,Yes,Yes,{1}
+141,Yes,Yes,{0}
+142,Yes,Yes,{1}
+143,Do not know,Do not know,"{0, 1}"
+144,Do not know,Do not know,"{0, 1}"
+145,Do not know,Do not know,"{0, 1}"
+146,Do not know,Do not know,"{0, 1}"
+147,Do not know,Do not know,"{0, 1}"
+148,Yes,Yes,{0}
+149,Do not know,Do not know,"{0, 1}"
+150,Yes,Yes,{1}
+151,Do not know,Do not know,"{0, 1}"
+152,Do not know,Do not know,"{0, 1}"
+153,Do not know,Do not know,"{0, 1}"
+154,Yes,Yes,{1}
+155,Do not know,Do not know,"{0, 1}"
+156,Do not know,Do not know,"{0, 1}"
+157,Do not know,Do not know,"{0, 1}"
+158,Do not know,Do not know,"{0, 1}"
+159,Do not know,Do not know,"{0, 1}"
+160,Do not know,Do not know,"{0, 1}"
+161,No,Yes,{1}
+162,No,Yes,{0}
+163,Do not know,Do not know,"{0, 1}"
+164,Yes,Yes,{0}
+165,Do not know,Do not know,"{0, 1}"
+166,Do not know,Do not know,"{0, 1}"
+167,Do not know,Do not know,"{0, 1}"
+168,Do not know,Do not know,"{0, 1}"
+169,Yes,Yes,{1}
+170,Do not know,Do not know,"{0, 1}"
+171,Do not know,Do not know,"{0, 1}"
+172,Do not know,Do not know,"{0, 1}"
+173,Do not know,Do not know,"{0, 1}"
+174,Yes,Yes,{1}
+175,Yes,Yes,{1}
+176,Do not know,Do not know,"{0, 1}"
+177,Do not know,Do not know,"{0, 1}"
+178,Do not know,Do not know,"{0, 1}"
+179,No,Yes,{1}
+180,Do not know,Do not know,"{0, 1}"
+181,Do not know,Do not know,"{0, 1}"
+182,Do not know,Do not know,"{0, 1}"
+183,Yes,Yes,{1}
+184,No,Yes,{1}
+185,Do not know,Do not know,"{0, 1}"
+186,Do not know,Do not know,"{0, 1}"
+187,Do not know,Do not know,"{0, 1}"
+188,Do not know,Do not know,"{0, 1}"
+189,Do not know,Do not know,"{0, 1}"
+190,No,Yes,{0}
+191,Do not know,Do not know,"{0, 1}"
+192,Do not know,Do not know,"{0, 1}"
+193,Do not know,Do not know,"{0, 1}"
+194,Do not know,Do not know,"{0, 1}"
+195,Do not know,Do not know,"{0, 1}"
+196,Do not know,Do not know,"{0, 1}"
+197,Do not know,Do not know,"{0, 1}"
+198,Do not know,Do not know,"{0, 1}"
+199,Do not know,Do not know,"{0, 1}"
+200,Do not know,Do not know,"{0, 1}"
+201,Do not know,Do not know,"{0, 1}"
+202,Yes,Yes,{0}
+203,Do not know,Do not know,"{0, 1}"
+204,Do not know,Do not know,"{0, 1}"
+205,Do not know,Do not know,"{0, 1}"
+206,Do not know,Do not know,"{0, 1}"
+207,Do not know,Do not know,"{0, 1}"
+208,Yes,Yes,{1}
+209,Yes,Yes,{1}
+210,No,Yes,{0}
+211,Do not know,Do not know,"{0, 1}"
+212,Do not know,Do not know,"{0, 1}"
+213,Do not know,Do not know,"{0, 1}"
+214,Do not know,Do not know,"{0, 1}"
+215,Do not know,Do not know,"{0, 1}"
+216,Do not know,Do not know,"{0, 1}"
+217,Do not know,Do not know,"{0, 1}"
+218,Yes,Yes,{0}
+219,Do not know,Do not know,"{0, 1}"
+220,Yes,Yes,{0}
+221,Do not know,Do not know,"{0, 1}"
+222,Do not know,Do not know,"{0, 1}"
+223,Do not know,Do not know,"{0, 1}"
+224,Do not know,Do not know,"{0, 1}"
+225,No,Yes,{1}
+226,Do not know,Do not know,"{0, 1}"
+227,Do not know,Do not know,"{0, 1}"
+228,Do not know,Do not know,"{0, 1}"
+229,No,Yes,{1}
+230,Do not know,Do not know,"{0, 1}"
+231,Do not know,Do not know,"{0, 1}"
+232,Do not know,Do not know,"{0, 1}"
+233,Do not know,Do not know,"{0, 1}"
+234,Yes,Yes,{1}
+235,Yes,Yes,{0}
+236,Do not know,Do not know,"{0, 1}"
+237,Do not know,Do not know,"{0, 1}"
+238,Yes,Yes,{1}
+239,Yes,Yes,{0}
+240,Do not know,Do not know,"{0, 1}"
+241,Do not know,Do not know,"{0, 1}"
+242,Do not know,Do not know,"{0, 1}"
+243,Do not know,Do not know,"{0, 1}"
+244,Do not know,Do not know,"{0, 1}"
+245,Do not know,Do not know,"{0, 1}"
+246,Do not know,Do not know,"{0, 1}"
+247,No,Yes,{1}
+248,No,Yes,{0}
+249,Do not know,Do not know,"{0, 1}"
+250,Do not know,Do not know,"{0, 1}"
+251,Do not know,Do not know,"{0, 1}"
+252,Do not know,Do not know,"{0, 1}"
+253,Do not know,Do not know,"{0, 1}"
+254,Do not know,Do not know,"{0, 1}"
+255,Do not know,Do not know,"{0, 1}"
+256,Do not know,Do not know,"{0, 1}"
+257,No,Yes,{1}
+258,No,Yes,{0}
+259,No,Yes,{0}
+260,Do not know,Do not know,"{0, 1}"
+261,Do not know,Do not know,"{0, 1}"
+262,Yes,Yes,{1}
+263,Do not know,Do not know,"{0, 1}"
+264,Do not know,Do not know,"{0, 1}"
+265,Do not know,Do not know,"{0, 1}"
+266,Do not know,Do not know,"{0, 1}"
+267,No,Yes,{1}
+268,Yes,Yes,{0}
+269,Do not know,Do not know,"{0, 1}"
+270,Do not know,Do not know,"{0, 1}"
+271,Yes,Yes,{0}
+272,Do not know,Do not know,"{0, 1}"
+273,No,Yes,{1}
+274,Do not know,Do not know,"{0, 1}"
+275,Do not know,Do not know,"{0, 1}"
+276,Do not know,Do not know,"{0, 1}"
+277,Yes,Yes,{0}
+278,Do not know,Do not know,"{0, 1}"
+279,Do not know,Do not know,"{0, 1}"
+280,Do not know,Do not know,"{0, 1}"
+281,Do not know,Do not know,"{0, 1}"
+282,Yes,Yes,{1}
+283,Do not know,Do not know,"{0, 1}"
+284,Do not know,Do not know,"{0, 1}"
+285,Do not know,Do not know,"{0, 1}"
+286,Do not know,Do not know,"{0, 1}"
+287,Do not know,Do not know,"{0, 1}"
+288,Yes,Yes,{0}
+289,Do not know,Do not know,"{0, 1}"
+290,No,Yes,{0}
+291,Yes,Yes,{1}
+292,No,Yes,{0}
+293,Do not know,Do not know,"{0, 1}"
+294,Yes,Yes,{0}
+295,Do not know,Do not know,"{0, 1}"
+296,Do not know,Do not know,"{0, 1}"
+297,Do not know,Do not know,"{0, 1}"
+298,Do not know,Do not know,"{0, 1}"
+299,Do not know,Do not know,"{0, 1}"
+300,Yes,Yes,{0}
+301,No,Yes,{0}
+302,No,Yes,{0}
+303,Yes,Yes,{0}
+304,Do not know,Do not know,"{0, 1}"
+305,Do not know,Do not know,"{0, 1}"
+306,Do not know,Do not know,"{0, 1}"
+307,Do not know,Do not know,"{0, 1}"
+308,Do not know,Do not know,"{0, 1}"
+309,Yes,Yes,{1}
+310,Do not know,Do not know,"{0, 1}"
+311,Yes,Yes,{0}
+312,Do not know,Do not know,"{0, 1}"
+313,Do not know,Do not know,"{0, 1}"
+314,Do not know,Do not know,"{0, 1}"
+315,Do not know,Do not know,"{0, 1}"
+316,Do not know,Do not know,"{0, 1}"
+317,Do not know,Do not know,"{0, 1}"
+318,No,Yes,{0}
+319,Yes,Yes,{1}
+320,Do not know,Do not know,"{0, 1}"
+321,Do not know,Do not know,"{0, 1}"
+322,Do not know,Do not know,"{0, 1}"
+323,Do not know,Do not know,"{0, 1}"
+324,Do not know,Do not know,"{0, 1}"
+325,Do not know,Do not know,"{0, 1}"
+326,Do not know,Do not know,"{0, 1}"
+327,Do not know,Do not know,"{0, 1}"
+328,Do not know,Do not know,"{0, 1}"
+329,Do not know,Do not know,"{0, 1}"
+330,Yes,Yes,{1}
+331,Do not know,Do not know,"{0, 1}"
+332,Do not know,Do not know,"{0, 1}"
+333,Do not know,Do not know,"{0, 1}"
+334,Yes,Yes,{1}
+335,Do not know,Do not know,"{0, 1}"
+336,Do not know,Do not know,"{0, 1}"
+337,Do not know,Do not know,"{0, 1}"
+338,Do not know,Do not know,"{0, 1}"
+339,Do not know,Do not know,"{0, 1}"
+340,Do not know,Do not know,"{0, 1}"
+341,No,Yes,{0}
+342,Do not know,Do not know,"{0, 1}"
+343,Do not know,Do not know,"{0, 1}"
+344,Do not know,Do not know,"{0, 1}"
+345,Do not know,Do not know,"{0, 1}"
+346,No,Yes,{1}
+347,Do not know,Do not know,"{0, 1}"
+348,Do not know,Do not know,"{0, 1}"
+349,Do not know,Do not know,"{0, 1}"
+350,Do not know,Do not know,"{0, 1}"
+351,Do not know,Do not know,"{0, 1}"
+352,Do not know,Do not know,"{0, 1}"
+353,Do not know,Do not know,"{0, 1}"
+354,Yes,Yes,{1}
+355,Do not know,Do not know,"{0, 1}"
+356,Do not know,Do not know,"{0, 1}"
+357,Do not know,Do not know,"{0, 1}"
+358,Do not know,Do not know,"{0, 1}"
+359,Do not know,Do not know,"{0, 1}"
+360,Do not know,Do not know,"{0, 1}"
+361,Do not know,Do not know,"{0, 1}"
+362,Do not know,Do not know,"{0, 1}"
+363,Yes,Yes,{0}
+364,Do not know,Do not know,"{0, 1}"
+365,Do not know,Do not know,"{0, 1}"
+366,Yes,Yes,{1}
+367,Do not know,Do not know,"{0, 1}"
+368,Yes,Yes,{1}
+369,Do not know,Do not know,"{0, 1}"
+370,Do not know,Do not know,"{0, 1}"
+371,No,Yes,{0}
+372,Yes,Yes,{0}
+373,No,Yes,{1}
+374,Yes,Yes,{1}
+375,Yes,Yes,{0}
+376,Do not know,Do not know,"{0, 1}"
+377,Do not know,Do not know,"{0, 1}"
+378,No,Yes,{0}
+379,Yes,Yes,{1}
+380,Do not know,Do not know,"{0, 1}"
+381,Yes,Yes,{0}
+382,Do not know,Do not know,"{0, 1}"
+383,Do not know,Do not know,"{0, 1}"
+384,Do not know,Do not know,"{0, 1}"
+385,Do not know,Do not know,"{0, 1}"
+386,Do not know,Do not know,"{0, 1}"
+387,Do not know,Do not know,"{0, 1}"
+388,Do not know,Do not know,"{0, 1}"
+389,Do not know,Do not know,"{0, 1}"
+390,Do not know,Do not know,"{0, 1}"
+391,Yes,Yes,{1}
+392,Do not know,Do not know,"{0, 1}"
+393,Do not know,Do not know,"{0, 1}"
+394,Do not know,Do not know,"{0, 1}"
+395,Do not know,Do not know,"{0, 1}"
+396,Do not know,Do not know,"{0, 1}"
+397,Do not know,Do not know,"{0, 1}"
+398,Do not know,Do not know,"{0, 1}"
+399,Do not know,Do not know,"{0, 1}"
+400,Do not know,Do not know,"{0, 1}"
+401,Do not know,Do not know,"{0, 1}"
+402,Do not know,Do not know,"{0, 1}"
+403,Yes,Yes,{0}
+404,Do not know,Do not know,"{0, 1}"
+405,Do not know,Do not know,"{0, 1}"
+406,Do not know,Do not know,"{0, 1}"
+407,Do not know,Do not know,"{0, 1}"
+408,Yes,Yes,{1}
+409,No,Yes,{0}
+410,No,Yes,{0}
+411,Yes,Yes,{0}
+412,Do not know,Do not know,"{0, 1}"
+413,Do not know,Do not know,"{0, 1}"
+414,Do not know,Do not know,"{0, 1}"
+415,Do not know,Do not know,"{0, 1}"
+416,Do not know,Do not know,"{0, 1}"
+417,Do not know,Do not know,"{0, 1}"
+418,Yes,Yes,{1}
+419,Do not know,Do not know,"{0, 1}"
+420,No,Yes,{0}
+421,Do not know,Do not know,"{0, 1}"
+422,Do not know,Do not know,"{0, 1}"
+423,Yes,Yes,{1}
+424,Do not know,Do not know,"{0, 1}"
+425,Do not know,Do not know,"{0, 1}"
+426,Do not know,Do not know,"{0, 1}"
+427,Do not know,Do not know,"{0, 1}"
+428,Do not know,Do not know,"{0, 1}"
+429,Do not know,Do not know,"{0, 1}"
+430,Do not know,Do not know,"{0, 1}"
+431,Do not know,Do not know,"{0, 1}"
+432,No,Yes,{1}
+433,Do not know,Do not know,"{0, 1}"
+434,Do not know,Do not know,"{0, 1}"
+435,Yes,Yes,{1}
+436,Yes,Yes,{0}
+437,Do not know,Do not know,"{0, 1}"
+438,Yes,Yes,{1}
+439,Yes,Yes,{1}
+440,Do not know,Do not know,"{0, 1}"
+441,No,Yes,{1}
+442,Do not know,Do not know,"{0, 1}"
+443,Do not know,Do not know,"{0, 1}"
+444,Do not know,Do not know,"{0, 1}"
+445,Do not know,Do not know,"{0, 1}"
+446,Do not know,Do not know,"{0, 1}"
+447,Do not know,Do not know,"{0, 1}"
+448,Do not know,Do not know,"{0, 1}"
+449,Do not know,Do not know,"{0, 1}"
+450,Do not know,Do not know,"{0, 1}"
+451,Do not know,Do not know,"{0, 1}"
+452,Do not know,Do not know,"{0, 1}"
+453,Yes,Yes,{0}
+454,Do not know,Do not know,"{0, 1}"
+455,Do not know,Do not know,"{0, 1}"
+456,Do not know,Do not know,"{0, 1}"
+457,Do not know,Do not know,"{0, 1}"
+458,Do not know,Do not know,"{0, 1}"
+459,Do not know,Do not know,"{0, 1}"
+460,No,Yes,{0}
+461,No,Yes,{0}
+462,Do not know,Do not know,"{0, 1}"
+463,Do not know,Do not know,"{0, 1}"
+464,Do not know,Do not know,"{0, 1}"
+465,Do not know,Do not know,"{0, 1}"
+466,Do not know,Do not know,"{0, 1}"
+467,Yes,Yes,{1}
+468,Do not know,Do not know,"{0, 1}"
+469,Do not know,Do not know,"{0, 1}"
+470,No,Yes,{0}
+471,Do not know,Do not know,"{0, 1}"
+472,No,Yes,{0}
+473,Do not know,Do not know,"{0, 1}"
+474,Do not know,Do not know,"{0, 1}"
+475,Do not know,Do not know,"{0, 1}"
+476,Yes,Yes,{0}
+477,Do not know,Do not know,"{0, 1}"
+478,Do not know,Do not know,"{0, 1}"
+479,Yes,Yes,{1}
+480,No,Yes,{0}
+481,Do not know,Do not know,"{0, 1}"
+482,Do not know,Do not know,"{0, 1}"
+483,Yes,Yes,{0}
+484,Do not know,Do not know,"{0, 1}"
+485,Do not know,Do not know,"{0, 1}"
+486,Do not know,Do not know,"{0, 1}"
+487,Do not know,Do not know,"{0, 1}"
+488,Do not know,Do not know,"{0, 1}"
+489,Yes,Yes,{0}
+490,Yes,Yes,{0}
+491,Do not know,Do not know,"{0, 1}"
+492,Do not know,Do not know,"{0, 1}"
+493,Do not know,Do not know,"{0, 1}"
+494,Do not know,Do not know,"{0, 1}"
+495,Do not know,Do not know,"{0, 1}"
+496,No,Yes,{0}
+497,Do not know,Do not know,"{0, 1}"
+498,Do not know,Do not know,"{0, 1}"
+499,Yes,Yes,{0}
+500,Yes,Yes,{0}
+501,Do not know,Do not know,"{0, 1}"
+502,Do not know,Do not know,"{0, 1}"
+503,Do not know,Do not know,"{0, 1}"
+504,Do not know,Do not know,"{0, 1}"
+505,No,Yes,{1}
+506,No,Yes,{1}
+507,Do not know,Do not know,"{0, 1}"
+508,Do not know,Do not know,"{0, 1}"
+509,Do not know,Do not know,"{0, 1}"
+510,Do not know,Do not know,"{0, 1}"
+511,Do not know,Do not know,"{0, 1}"
+512,Do not know,Do not know,"{0, 1}"
+513,Do not know,Do not know,"{0, 1}"
+514,Do not know,Do not know,"{0, 1}"
+515,Do not know,Do not know,"{0, 1}"
+516,Do not know,Do not know,"{0, 1}"
+517,Do not know,Do not know,"{0, 1}"
+518,Do not know,Do not know,"{0, 1}"
+519,Do not know,Do not know,"{0, 1}"
+520,Do not know,Do not know,"{0, 1}"
+521,Do not know,Do not know,"{0, 1}"
+522,Do not know,Do not know,"{0, 1}"
+523,Do not know,Do not know,"{0, 1}"
+524,Yes,Yes,{1}
+525,No,Yes,{0}
+526,Do not know,Do not know,"{0, 1}"
+527,Do not know,Do not know,"{0, 1}"
+528,Do not know,Do not know,"{0, 1}"
+529,Do not know,Do not know,"{0, 1}"
+530,Do not know,Do not know,"{0, 1}"
+531,Do not know,Do not know,"{0, 1}"
+532,Do not know,Do not know,"{0, 1}"
+533,Do not know,Do not know,"{0, 1}"
+534,No,Yes,{0}
+535,Do not know,Do not know,"{0, 1}"
+536,Do not know,Do not know,"{0, 1}"
+537,Do not know,Do not know,"{0, 1}"
+538,Do not know,Do not know,"{0, 1}"
+539,Do not know,Do not know,"{0, 1}"
+540,Do not know,Do not know,"{0, 1}"
+541,Do not know,Do not know,"{0, 1}"
+542,Yes,Yes,{1}
+543,No,Yes,{1}
+544,Do not know,Do not know,"{0, 1}"
+545,Do not know,Do not know,"{0, 1}"
+546,Do not know,Do not know,"{0, 1}"
+547,Do not know,Do not know,"{0, 1}"
+548,No,Yes,{0}
+549,Do not know,Do not know,"{0, 1}"
+550,Do not know,Do not know,"{0, 1}"
+551,Do not know,Do not know,"{0, 1}"
+552,Do not know,Do not know,"{0, 1}"
+553,Do not know,Do not know,"{0, 1}"
+554,Do not know,Do not know,"{0, 1}"
+555,Yes,Yes,{0}
+556,Do not know,Do not know,"{0, 1}"
+557,Do not know,Do not know,"{0, 1}"
+558,Yes,Yes,{1}
+559,Yes,Yes,{1}
+560,Do not know,Do not know,"{0, 1}"
+561,Do not know,Do not know,"{0, 1}"
+562,Do not know,Do not know,"{0, 1}"
+563,Yes,Yes,{0}
+564,Do not know,Do not know,"{0, 1}"
+565,Yes,Yes,{1}
+566,Do not know,Do not know,"{0, 1}"
+567,Do not know,Do not know,"{0, 1}"
+568,Do not know,Do not know,"{0, 1}"
+569,Do not know,Do not know,"{0, 1}"
+570,Do not know,Do not know,"{0, 1}"
+571,Do not know,Do not know,"{0, 1}"
+572,Do not know,Do not know,"{0, 1}"
+573,Do not know,Do not know,"{0, 1}"
+574,Do not know,Do not know,"{0, 1}"
+575,Yes,Yes,{1}
+576,Do not know,Do not know,"{0, 1}"
+577,Yes,Yes,{0}
+578,Do not know,Do not know,"{0, 1}"
+579,Do not know,Do not know,"{0, 1}"
+580,Do not know,Do not know,"{0, 1}"
+581,Do not know,Do not know,"{0, 1}"
+582,Do not know,Do not know,"{0, 1}"
+583,Do not know,Do not know,"{0, 1}"
+584,No,Yes,{1}
+585,Do not know,Do not know,"{0, 1}"
+586,No,Yes,{0}
+587,Do not know,Do not know,"{0, 1}"
+588,Do not know,Do not know,"{0, 1}"
+589,Do not know,Do not know,"{0, 1}"
+590,Do not know,Do not know,"{0, 1}"
+591,Do not know,Do not know,"{0, 1}"
+592,No,Yes,{0}
+593,No,Yes,{1}
+594,Do not know,Do not know,"{0, 1}"
+595,Do not know,Do not know,"{0, 1}"
+596,Yes,Yes,{1}
+597,No,Yes,{1}
+598,No,Yes,{0}
+599,Yes,Yes,{1}
+600,Do not know,Do not know,"{0, 1}"
+601,Do not know,Do not know,"{0, 1}"
+602,Do not know,Do not know,"{0, 1}"
+603,Do not know,Do not know,"{0, 1}"
+604,Do not know,Do not know,"{0, 1}"
+605,Do not know,Do not know,"{0, 1}"
+606,Do not know,Do not know,"{0, 1}"
+607,Do not know,Do not know,"{0, 1}"
+608,Yes,Yes,{1}
+609,Do not know,Do not know,"{0, 1}"
+610,Yes,Yes,{0}
+611,Do not know,Do not know,"{0, 1}"
+612,Do not know,Do not know,"{0, 1}"
+613,Yes,Yes,{1}
+614,Do not know,Do not know,"{0, 1}"
+615,No,Yes,{0}
+616,Do not know,Do not know,"{0, 1}"
+617,Do not know,Do not know,"{0, 1}"
+618,Do not know,Do not know,"{0, 1}"
+619,Do not know,Do not know,"{0, 1}"
+620,Do not know,Do not know,"{0, 1}"
+621,Yes,Yes,{1}
+622,Do not know,Do not know,"{0, 1}"
+623,No,Yes,{0}
+624,Do not know,Do not know,"{0, 1}"
+625,Yes,Yes,{0}
+626,Do not know,Do not know,"{0, 1}"
+627,Do not know,Do not know,"{0, 1}"
+628,Do not know,Do not know,"{0, 1}"
+629,Do not know,Do not know,"{0, 1}"
+630,Do not know,Do not know,"{0, 1}"
+631,No,Yes,{0}
+632,Do not know,Do not know,"{0, 1}"
+633,Do not know,Do not know,"{0, 1}"
+634,Yes,Yes,{1}
+635,Do not know,Do not know,"{0, 1}"
+636,Do not know,Do not know,"{0, 1}"
+637,Yes,Yes,{1}
+638,Do not know,Do not know,"{0, 1}"
+639,No,Yes,{1}
+640,No,Yes,{0}
+641,No,Yes,{0}
+642,Do not know,Do not know,"{0, 1}"
+643,No,Yes,{1}
+644,Do not know,Do not know,"{0, 1}"
+645,Do not know,Do not know,"{0, 1}"
+646,Do not know,Do not know,"{0, 1}"
+647,Do not know,Do not know,"{0, 1}"
+648,No,Yes,{0}
+649,Do not know,Do not know,"{0, 1}"
+650,Do not know,Do not know,"{0, 1}"
+651,Do not know,Do not know,"{0, 1}"
+652,Do not know,Do not know,"{0, 1}"
+653,Do not know,Do not know,"{0, 1}"
+654,Do not know,Do not know,"{0, 1}"
+655,Do not know,Do not know,"{0, 1}"
+656,Do not know,Do not know,"{0, 1}"
+657,Do not know,Do not know,"{0, 1}"
+658,No,Yes,{1}
+659,Do not know,Do not know,"{0, 1}"
+660,No,Yes,{1}
+661,Yes,Yes,{0}
+662,Do not know,Do not know,"{0, 1}"
+663,Do not know,Do not know,"{0, 1}"
+664,Do not know,Do not know,"{0, 1}"
+665,Do not know,Do not know,"{0, 1}"
+666,Do not know,Do not know,"{0, 1}"
+667,Do not know,Do not know,"{0, 1}"
+668,Do not know,Do not know,"{0, 1}"
+669,Do not know,Do not know,"{0, 1}"
+670,Do not know,Do not know,"{0, 1}"
+671,Do not know,Do not know,"{0, 1}"
+672,No,Yes,{0}
+673,Do not know,Do not know,"{0, 1}"
+674,Do not know,Do not know,"{0, 1}"
+675,Do not know,Do not know,"{0, 1}"
+676,Do not know,Do not know,"{0, 1}"
+677,Do not know,Do not know,"{0, 1}"
+678,Do not know,Do not know,"{0, 1}"
+679,No,Yes,{1}
+680,Yes,Yes,{0}
+681,Do not know,Do not know,"{0, 1}"
+682,Do not know,Do not know,"{0, 1}"
+683,Do not know,Do not know,"{0, 1}"
+684,No,Yes,{0}
+685,Yes,Yes,{0}
+686,Do not know,Do not know,"{0, 1}"
+687,No,Yes,{0}
+688,Do not know,Do not know,"{0, 1}"
+689,Do not know,Do not know,"{0, 1}"
+690,Yes,Yes,{0}
+691,Do not know,Do not know,"{0, 1}"
+692,Do not know,Do not know,"{0, 1}"
+693,Do not know,Do not know,"{0, 1}"
+694,Do not know,Do not know,"{0, 1}"
+695,No,Yes,{0}
+696,Do not know,Do not know,"{0, 1}"
+697,Do not know,Do not know,"{0, 1}"
+698,Do not know,Do not know,"{0, 1}"
+699,Do not know,Do not know,"{0, 1}"
+700,Do not know,Do not know,"{0, 1}"
+701,Do not know,Do not know,"{0, 1}"
+702,No,Yes,{0}
+703,Do not know,Do not know,"{0, 1}"
+704,Yes,Yes,{1}
+705,Do not know,Do not know,"{0, 1}"
+706,Do not know,Do not know,"{0, 1}"
+707,Do not know,Do not know,"{0, 1}"
+708,Yes,Yes,{1}
+709,No,Yes,{1}
+710,Do not know,Do not know,"{0, 1}"
+711,Do not know,Do not know,"{0, 1}"
+712,No,Yes,{1}
+713,Do not know,Do not know,"{0, 1}"
+714,Do not know,Do not know,"{0, 1}"
+715,Yes,Yes,{0}
+716,Do not know,Do not know,"{0, 1}"
+717,Do not know,Do not know,"{0, 1}"
+718,Do not know,Do not know,"{0, 1}"
+719,Do not know,Do not know,"{0, 1}"
+720,Do not know,Do not know,"{0, 1}"
+721,Do not know,Do not know,"{0, 1}"
+722,Yes,Yes,{1}
+723,Do not know,Do not know,"{0, 1}"
+724,Yes,Yes,{1}
+725,Do not know,Do not know,"{0, 1}"
+726,Do not know,Do not know,"{0, 1}"
+727,Do not know,Do not know,"{0, 1}"
+728,Do not know,Do not know,"{0, 1}"
+729,Do not know,Do not know,"{0, 1}"
+730,Yes,Yes,{1}
+731,Do not know,Do not know,"{0, 1}"
+732,Do not know,Do not know,"{0, 1}"
+733,Do not know,Do not know,"{0, 1}"
+734,No,Yes,{1}
+735,Do not know,Do not know,"{0, 1}"
+736,Do not know,Do not know,"{0, 1}"
+737,Do not know,Do not know,"{0, 1}"
+738,Yes,Yes,{0}
+739,Do not know,Do not know,"{0, 1}"
+740,Do not know,Do not know,"{0, 1}"
+741,Do not know,Do not know,"{0, 1}"
+742,Do not know,Do not know,"{0, 1}"
+743,Yes,Yes,{1}
+744,Do not know,Do not know,"{0, 1}"
+745,Do not know,Do not know,"{0, 1}"
+746,Do not know,Do not know,"{0, 1}"
+747,Do not know,Do not know,"{0, 1}"
+748,Do not know,Do not know,"{0, 1}"
+749,Do not know,Do not know,"{0, 1}"
+750,Do not know,Do not know,"{0, 1}"
+751,Do not know,Do not know,"{0, 1}"
+752,Yes,Yes,{1}
+753,Do not know,Do not know,"{0, 1}"
+754,Do not know,Do not know,"{0, 1}"
+755,Do not know,Do not know,"{0, 1}"
+756,Do not know,Do not know,"{0, 1}"
+757,Yes,Yes,{0}
+758,Yes,Yes,{0}
+759,Do not know,Do not know,"{0, 1}"
+760,Do not know,Do not know,"{0, 1}"
+761,Do not know,Do not know,"{0, 1}"
+762,Do not know,Do not know,"{0, 1}"
+763,Do not know,Do not know,"{0, 1}"
+764,Do not know,Do not know,"{0, 1}"
+765,Do not know,Do not know,"{0, 1}"
+766,Do not know,Do not know,"{0, 1}"
+767,Do not know,Do not know,"{0, 1}"
+768,Do not know,Do not know,"{0, 1}"
+769,Do not know,Do not know,"{0, 1}"
+770,No,Yes,{1}
+771,Do not know,Do not know,"{0, 1}"
+772,Do not know,Do not know,"{0, 1}"
+773,No,Yes,{1}
+774,Do not know,Do not know,"{0, 1}"
+775,No,Yes,{0}
+776,Do not know,Do not know,"{0, 1}"
+777,Do not know,Do not know,"{0, 1}"
+778,No,Yes,{0}
+779,No,Yes,{1}
+780,Do not know,Do not know,"{0, 1}"
+781,Do not know,Do not know,"{0, 1}"
+782,Do not know,Do not know,"{0, 1}"
+783,No,Yes,{1}
+784,No,Yes,{1}
+785,Yes,Yes,{0}
+786,Do not know,Do not know,"{0, 1}"
+787,Do not know,Do not know,"{0, 1}"
+788,No,Yes,{0}
+789,Do not know,Do not know,"{0, 1}"
+790,Do not know,Do not know,"{0, 1}"
+791,Do not know,Do not know,"{0, 1}"
+792,Do not know,Do not know,"{0, 1}"
+793,Do not know,Do not know,"{0, 1}"
+794,Do not know,Do not know,"{0, 1}"
+795,Yes,Yes,{1}
+796,Do not know,Do not know,"{0, 1}"
+797,Do not know,Do not know,"{0, 1}"
+798,Yes,Yes,{1}
+799,Do not know,Do not know,"{0, 1}"
+800,Do not know,Do not know,"{0, 1}"
+801,Do not know,Do not know,"{0, 1}"
+802,Do not know,Do not know,"{0, 1}"
+803,Do not know,Do not know,"{0, 1}"
+804,Do not know,Do not know,"{0, 1}"
+805,Do not know,Do not know,"{0, 1}"
+806,Do not know,Do not know,"{0, 1}"
+807,Yes,Yes,{1}
+808,Do not know,Do not know,"{0, 1}"
+809,Do not know,Do not know,"{0, 1}"
+810,Yes,Yes,{1}
+811,Do not know,Do not know,"{0, 1}"
+812,Do not know,Do not know,"{0, 1}"
+813,Do not know,Do not know,"{0, 1}"
+814,Do not know,Do not know,"{0, 1}"
+815,Do not know,Do not know,"{0, 1}"
+816,Do not know,Do not know,"{0, 1}"
+817,Do not know,Do not know,"{0, 1}"
+818,Do not know,Do not know,"{0, 1}"
+819,Do not know,Do not know,"{0, 1}"
+820,Do not know,Do not know,"{0, 1}"
+821,Do not know,Do not know,"{0, 1}"
+822,Do not know,Do not know,"{0, 1}"
+823,Do not know,Do not know,"{0, 1}"
+824,No,Yes,{1}
+825,No,Yes,{1}
+826,Do not know,Do not know,"{0, 1}"
+827,Do not know,Do not know,"{0, 1}"
+828,Do not know,Do not know,"{0, 1}"
+829,Do not know,Do not know,"{0, 1}"
+830,Do not know,Do not know,"{0, 1}"
+831,Do not know,Do not know,"{0, 1}"
+832,Do not know,Do not know,"{0, 1}"
+833,Do not know,Do not know,"{0, 1}"
+834,Do not know,Do not know,"{0, 1}"
+835,Do not know,Do not know,"{0, 1}"
+836,Yes,Yes,{0}
+837,Do not know,Do not know,"{0, 1}"
+838,Do not know,Do not know,"{0, 1}"
+839,Do not know,Do not know,"{0, 1}"
+840,Do not know,Do not know,"{0, 1}"
+841,Do not know,Do not know,"{0, 1}"
+842,Do not know,Do not know,"{0, 1}"
+843,Do not know,Do not know,"{0, 1}"
+844,Do not know,Do not know,"{0, 1}"
+845,Do not know,Do not know,"{0, 1}"
+846,Do not know,Do not know,"{0, 1}"
+847,No,Yes,{0}
+848,Do not know,Do not know,"{0, 1}"
+849,Do not know,Do not know,"{0, 1}"
+850,Do not know,Do not know,"{0, 1}"
+851,Do not know,Do not know,"{0, 1}"
+852,Yes,Yes,{0}
+853,Do not know,Do not know,"{0, 1}"
+854,Do not know,Do not know,"{0, 1}"
+855,Do not know,Do not know,"{0, 1}"
+856,Do not know,Do not know,"{0, 1}"
+857,Do not know,Do not know,"{0, 1}"
+858,No,Yes,{0}
+859,Yes,Yes,{0}
+860,Yes,Yes,{1}
+861,Do not know,Do not know,"{0, 1}"
+862,Do not know,Do not know,"{0, 1}"
+863,No,Yes,{1}
+864,Yes,Yes,{1}
+865,No,Yes,{1}
+866,Do not know,Do not know,"{0, 1}"
+867,Do not know,Do not know,"{0, 1}"
+868,Do not know,Do not know,"{0, 1}"
+869,Yes,Yes,{1}
+870,Do not know,Do not know,"{0, 1}"
+871,Do not know,Do not know,"{0, 1}"
+872,Yes,Yes,{0}
+873,Do not know,Do not know,"{0, 1}"
+874,Do not know,Do not know,"{0, 1}"
+875,Do not know,Do not know,"{0, 1}"
+876,Do not know,Do not know,"{0, 1}"
+877,Yes,Yes,{1}
+878,Do not know,Do not know,"{0, 1}"
+879,Yes,Yes,{0}
+880,Do not know,Do not know,"{0, 1}"
+881,Do not know,Do not know,"{0, 1}"
+882,Do not know,Do not know,"{0, 1}"
+883,Do not know,Do not know,"{0, 1}"
+884,Do not know,Do not know,"{0, 1}"
+885,Yes,Yes,{1}
+886,Do not know,Do not know,"{0, 1}"
+887,Do not know,Do not know,"{0, 1}"
+888,Do not know,Do not know,"{0, 1}"
+889,Do not know,Do not know,"{0, 1}"
+890,Do not know,Do not know,"{0, 1}"
+891,No,Yes,{1}
+892,Do not know,Do not know,"{0, 1}"
+893,Do not know,Do not know,"{0, 1}"
+894,Do not know,Do not know,"{0, 1}"
+895,Yes,Yes,{1}
+896,Yes,Yes,{1}
+897,Do not know,Do not know,"{0, 1}"
+898,Do not know,Do not know,"{0, 1}"
+899,Do not know,Do not know,"{0, 1}"
+900,Do not know,Do not know,"{0, 1}"
+901,Do not know,Do not know,"{0, 1}"
+902,Yes,Yes,{1}
+903,Do not know,Do not know,"{0, 1}"
+904,Do not know,Do not know,"{0, 1}"
+905,Do not know,Do not know,"{0, 1}"
+906,Do not know,Do not know,"{0, 1}"
+907,Yes,Yes,{0}
+908,Yes,Yes,{1}
+909,Do not know,Do not know,"{0, 1}"
+910,Do not know,Do not know,"{0, 1}"
+911,Do not know,Do not know,"{0, 1}"
+912,Do not know,Do not know,"{0, 1}"
+913,Do not know,Do not know,"{0, 1}"
+914,No,Yes,{0}
+915,Do not know,Do not know,"{0, 1}"
+916,Do not know,Do not know,"{0, 1}"
+917,Do not know,Do not know,"{0, 1}"
+918,Yes,Yes,{1}
+919,Yes,Yes,{1}
+920,Do not know,Do not know,"{0, 1}"
+921,No,Yes,{0}
+922,Do not know,Do not know,"{0, 1}"
+923,Do not know,Do not know,"{0, 1}"
+924,Do not know,Do not know,"{0, 1}"
+925,Do not know,Do not know,"{0, 1}"
+926,Do not know,Do not know,"{0, 1}"
+927,Yes,Yes,{1}
+928,No,Yes,{1}
+929,Do not know,Do not know,"{0, 1}"
+930,Do not know,Do not know,"{0, 1}"
+931,Yes,Yes,{1}
+932,Do not know,Do not know,"{0, 1}"
+933,Do not know,Do not know,"{0, 1}"
+934,Do not know,Do not know,"{0, 1}"
+935,Do not know,Do not know,"{0, 1}"
+936,Do not know,Do not know,"{0, 1}"
+937,Do not know,Do not know,"{0, 1}"
+938,Do not know,Do not know,"{0, 1}"
+939,Do not know,Do not know,"{0, 1}"
+940,Do not know,Do not know,"{0, 1}"
+941,No,Yes,{1}
+942,No,Yes,{0}
+943,Do not know,Do not know,"{0, 1}"
+944,Do not know,Do not know,"{0, 1}"
+945,Do not know,Do not know,"{0, 1}"
+946,Do not know,Do not know,"{0, 1}"
+947,Do not know,Do not know,"{0, 1}"
+948,Do not know,Do not know,"{0, 1}"
+949,Do not know,Do not know,"{0, 1}"
+950,Do not know,Do not know,"{0, 1}"
+951,Do not know,Do not know,"{0, 1}"
+952,Do not know,Do not know,"{0, 1}"
+953,Do not know,Do not know,"{0, 1}"
+954,Yes,Yes,{0}
+955,Do not know,Do not know,"{0, 1}"
+956,Do not know,Do not know,"{0, 1}"
+957,Do not know,Do not know,"{0, 1}"
+958,Do not know,Do not know,"{0, 1}"
+959,Do not know,Do not know,"{0, 1}"
+960,Yes,Yes,{0}
+961,Yes,Yes,{1}
+962,Do not know,Do not know,"{0, 1}"
+963,No,Yes,{0}
+964,Do not know,Do not know,"{0, 1}"
+965,Do not know,Do not know,"{0, 1}"
+966,Yes,Yes,{1}
+967,Yes,Yes,{1}
+968,Do not know,Do not know,"{0, 1}"
+969,No,Yes,{1}
+970,Do not know,Do not know,"{0, 1}"
+971,Do not know,Do not know,"{0, 1}"
+972,Yes,Yes,{1}
+973,Yes,Yes,{0}
+974,Do not know,Do not know,"{0, 1}"
+975,Do not know,Do not know,"{0, 1}"
+976,Do not know,Do not know,"{0, 1}"
+977,Yes,Yes,{1}
+978,Do not know,Do not know,"{0, 1}"
+979,Do not know,Do not know,"{0, 1}"
+980,Do not know,Do not know,"{0, 1}"
+981,Do not know,Do not know,"{0, 1}"
+982,Do not know,Do not know,"{0, 1}"
+983,Do not know,Do not know,"{0, 1}"
+984,Do not know,Do not know,"{0, 1}"
+985,Yes,Yes,{0}
+986,Yes,Yes,{0}
+987,Do not know,Do not know,"{0, 1}"
+988,Do not know,Do not know,"{0, 1}"
+989,Do not know,Do not know,"{0, 1}"
+990,Do not know,Do not know,"{0, 1}"
+991,Do not know,Do not know,"{0, 1}"
+992,Yes,Yes,{1}
+993,Do not know,Do not know,"{0, 1}"
+994,Do not know,Do not know,"{0, 1}"
+995,Do not know,Do not know,"{0, 1}"
+996,Do not know,Do not know,"{0, 1}"
+997,Yes,Yes,{0}
+998,Yes,Yes,{1}
+999,Do not know,Do not know,"{0, 1}"
+1000,Do not know,Do not know,"{0, 1}"
+1001,Do not know,Do not know,"{0, 1}"
+1002,Do not know,Do not know,"{0, 1}"
+1003,No,Yes,{0}
+1004,Do not know,Do not know,"{0, 1}"
+1005,Do not know,Do not know,"{0, 1}"
+1006,Do not know,Do not know,"{0, 1}"
+1007,Do not know,Do not know,"{0, 1}"
+1008,Do not know,Do not know,"{0, 1}"
+1009,No,Yes,{1}
+1010,Do not know,Do not know,"{0, 1}"
+1011,Do not know,Do not know,"{0, 1}"
+1012,Do not know,Do not know,"{0, 1}"
+1013,Yes,Yes,{1}
+1014,No,Yes,{1}
+1015,No,Yes,{1}
+1016,Do not know,Do not know,"{0, 1}"
+1017,Yes,Yes,{1}
+1018,Yes,Yes,{1}
+1019,Do not know,Do not know,"{0, 1}"
+1020,Do not know,Do not know,"{0, 1}"
+1021,Do not know,Do not know,"{0, 1}"
+1022,Do not know,Do not know,"{0, 1}"
+1023,Do not know,Do not know,"{0, 1}"
+1024,Do not know,Do not know,"{0, 1}"
+1025,Do not know,Do not know,"{0, 1}"
+1026,Do not know,Do not know,"{0, 1}"
+1027,Do not know,Do not know,"{0, 1}"
+1028,Do not know,Do not know,"{0, 1}"
+1029,Do not know,Do not know,"{0, 1}"
+1030,No,Yes,{0}
+1031,Do not know,Do not know,"{0, 1}"
+1032,Yes,Yes,{1}
+1033,Do not know,Do not know,"{0, 1}"
+1034,Do not know,Do not know,"{0, 1}"
+1035,Do not know,Do not know,"{0, 1}"
+1036,Do not know,Do not know,"{0, 1}"
+1037,Yes,Yes,{1}
+1038,Yes,Yes,{1}
+1039,Do not know,Do not know,"{0, 1}"
+1040,Do not know,Do not know,"{0, 1}"
+1041,Do not know,Do not know,"{0, 1}"
+1042,Yes,Yes,{0}
+1043,Do not know,Do not know,"{0, 1}"
+1044,Do not know,Do not know,"{0, 1}"
+1045,Do not know,Do not know,"{0, 1}"
+1046,Do not know,Do not know,"{0, 1}"
+1047,Yes,Yes,{1}
+1048,Do not know,Do not know,"{0, 1}"
+1049,Do not know,Do not know,"{0, 1}"
+1050,Do not know,Do not know,"{0, 1}"
+1051,Do not know,Do not know,"{0, 1}"
+1052,Do not know,Do not know,"{0, 1}"
+1053,Yes,Yes,{0}
+1054,Do not know,Do not know,"{0, 1}"

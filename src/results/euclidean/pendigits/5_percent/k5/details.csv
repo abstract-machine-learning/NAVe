@@ -1,0 +1,3499 @@
+,Robust,Stable,Classification
+0,Yes,Yes,{8.0}
+1,Yes,Yes,{8.0}
+2,Do not know,Do not know,"{0.0, 8.0}"
+3,Do not know,Do not know,"{9.0, 5.0}"
+4,Do not know,Do not know,"{9.0, 3.0}"
+5,Do not know,Do not know,"{1.0, 5.0}"
+6,Yes,Yes,{4.0}
+7,Do not know,Do not know,"{1.0, 3.0, 7.0}"
+8,Do not know,Do not know,"{1.0, 3.0, 5.0, 9.0}"
+9,Yes,Yes,{9.0}
+10,Do not know,Do not know,"{9.0, 4.0, 5.0}"
+11,Yes,Yes,{0.0}
+12,Do not know,Do not know,"{1.0, 2.0, 3.0, 7.0}"
+13,Yes,Yes,{0.0}
+14,Do not know,Do not know,"{9.0, 5.0}"
+15,Yes,Yes,{9.0}
+16,Yes,Yes,{3.0}
+17,Do not know,Do not know,"{1.0, 7.0}"
+18,Yes,Yes,{0.0}
+19,Yes,Yes,{4.0}
+20,Yes,Yes,{6.0}
+21,Yes,Yes,{8.0}
+22,Yes,Yes,{7.0}
+23,Yes,Yes,{6.0}
+24,Yes,Yes,{6.0}
+25,Yes,Yes,{0.0}
+26,Yes,Yes,{4.0}
+27,Yes,Yes,{0.0}
+28,Yes,Yes,{4.0}
+29,Do not know,Do not know,"{1.0, 2.0, 7.0}"
+30,Yes,Yes,{9.0}
+31,Yes,Yes,{3.0}
+32,Yes,Yes,{5.0}
+33,Do not know,Do not know,"{9.0, 4.0}"
+34,Yes,Yes,{4.0}
+35,Yes,Yes,{1.0}
+36,Do not know,Do not know,"{1.0, 2.0}"
+37,Yes,Yes,{0.0}
+38,Do not know,Do not know,"{1.0, 3.0, 5.0, 9.0}"
+39,Do not know,Do not know,"{1.0, 2.0, 7.0}"
+40,Yes,Yes,{8.0}
+41,No,Do not know,"{9.0, 4.0}"
+42,Yes,Yes,{5.0}
+43,Yes,Yes,{6.0}
+44,Yes,Yes,{0.0}
+45,Yes,Yes,{8.0}
+46,Do not know,Do not know,"{1.0, 2.0}"
+47,Yes,Yes,{8.0}
+48,Yes,Yes,{7.0}
+49,Yes,Yes,{8.0}
+50,Yes,Yes,{1.0}
+51,Do not know,Do not know,"{9.0, 5.0}"
+52,Do not know,Do not know,"{1.0, 3.0, 4.0, 5.0, 9.0}"
+53,Do not know,Do not know,"{9.0, 4.0}"
+54,Do not know,Do not know,"{1.0, 2.0}"
+55,Do not know,Do not know,"{1.0, 2.0}"
+56,Do not know,Do not know,"{1.0, 5.0}"
+57,Yes,Yes,{6.0}
+58,Yes,Yes,{0.0}
+59,Yes,Yes,{8.0}
+60,Yes,Yes,{0.0}
+61,Yes,Yes,{8.0}
+62,Yes,Yes,{6.0}
+63,Do not know,Do not know,"{1.0, 2.0}"
+64,Yes,Yes,{9.0}
+65,Do not know,Do not know,"{9.0, 5.0}"
+66,Yes,Yes,{8.0}
+67,Yes,Yes,{0.0}
+68,Do not know,Do not know,"{1.0, 3.0, 7.0}"
+69,Do not know,Do not know,"{1.0, 3.0}"
+70,Yes,Yes,{8.0}
+71,Yes,Yes,{3.0}
+72,Do not know,Do not know,"{1.0, 2.0}"
+73,Do not know,Do not know,"{1.0, 2.0}"
+74,Yes,Yes,{3.0}
+75,Do not know,Do not know,"{9.0, 5.0}"
+76,Yes,Yes,{5.0}
+77,Do not know,Do not know,"{8.0, 5.0, 7.0}"
+78,Yes,Yes,{0.0}
+79,Yes,Yes,{8.0}
+80,Yes,Yes,{0.0}
+81,Yes,Yes,{0.0}
+82,Do not know,Do not know,"{9.0, 4.0, 5.0}"
+83,Yes,Yes,{1.0}
+84,Do not know,Do not know,"{9.0, 5.0}"
+85,Do not know,Do not know,"{1.0, 2.0}"
+86,Do not know,Do not know,"{1.0, 2.0}"
+87,Yes,Yes,{0.0}
+88,Yes,Yes,{8.0}
+89,Yes,Yes,{0.0}
+90,Yes,Yes,{9.0}
+91,Do not know,Do not know,"{2.0, 7.0}"
+92,Yes,Yes,{3.0}
+93,Yes,Yes,{8.0}
+94,Yes,Yes,{2.0}
+95,Yes,Yes,{9.0}
+96,Yes,Yes,{0.0}
+97,Yes,Yes,{8.0}
+98,Yes,Yes,{4.0}
+99,Do not know,Do not know,"{8.0, 7.0}"
+100,Yes,Yes,{6.0}
+101,Yes,Yes,{7.0}
+102,Yes,Yes,{4.0}
+103,Do not know,Do not know,"{1.0, 2.0}"
+104,Yes,Yes,{7.0}
+105,Yes,Yes,{9.0}
+106,Do not know,Do not know,"{9.0, 3.0, 5.0}"
+107,Do not know,Do not know,"{1.0, 2.0}"
+108,Do not know,Do not know,"{3.0, 5.0}"
+109,Yes,Yes,{1.0}
+110,Yes,Yes,{1.0}
+111,Yes,Yes,{3.0}
+112,Yes,Yes,{7.0}
+113,Do not know,Do not know,"{1.0, 2.0, 7.0}"
+114,Yes,Yes,{7.0}
+115,Do not know,Do not know,"{1.0, 2.0, 7.0}"
+116,Yes,Yes,{5.0}
+117,Yes,Yes,{3.0}
+118,Yes,Yes,{8.0}
+119,Do not know,Do not know,"{1.0, 2.0}"
+120,Yes,Yes,{6.0}
+121,Yes,Yes,{6.0}
+122,Yes,Yes,{5.0}
+123,Yes,Yes,{3.0}
+124,Yes,Yes,{0.0}
+125,Do not know,Do not know,"{1.0, 2.0, 7.0}"
+126,Yes,Yes,{5.0}
+127,Yes,Yes,{4.0}
+128,Yes,Yes,{0.0}
+129,Do not know,Do not know,"{1.0, 2.0, 7.0}"
+130,Do not know,Do not know,"{9.0, 4.0, 5.0, 6.0}"
+131,Yes,Yes,{3.0}
+132,Yes,Yes,{8.0}
+133,Do not know,Do not know,"{1.0, 2.0}"
+134,Yes,Yes,{4.0}
+135,Do not know,Do not know,"{1.0, 2.0, 3.0, 4.0, 7.0}"
+136,Yes,Yes,{4.0}
+137,Yes,Yes,{0.0}
+138,Do not know,Do not know,"{9.0, 5.0}"
+139,Do not know,Do not know,"{1.0, 2.0}"
+140,Yes,Yes,{0.0}
+141,Yes,Yes,{3.0}
+142,Do not know,Do not know,"{1.0, 2.0}"
+143,Yes,Yes,{0.0}
+144,Yes,Yes,{8.0}
+145,Do not know,Do not know,"{1.0, 2.0}"
+146,Do not know,Do not know,"{1.0, 2.0, 7.0}"
+147,Yes,Yes,{1.0}
+148,Yes,Yes,{4.0}
+149,Do not know,Do not know,"{9.0, 4.0}"
+150,Yes,Yes,{0.0}
+151,Do not know,Do not know,"{1.0, 2.0, 7.0}"
+152,Do not know,Do not know,"{1.0, 2.0}"
+153,Do not know,Do not know,"{1.0, 3.0, 4.0, 5.0, 6.0, 7.0, 8.0}"
+154,Do not know,Do not know,"{1.0, 2.0}"
+155,Yes,Yes,{8.0}
+156,Do not know,Do not know,"{1.0, 2.0, 7.0}"
+157,Yes,Yes,{4.0}
+158,Yes,Yes,{5.0}
+159,Do not know,Do not know,"{1.0, 2.0, 7.0}"
+160,Yes,Yes,{5.0}
+161,Do not know,Do not know,"{9.0, 3.0, 5.0}"
+162,Do not know,Do not know,"{9.0, 5.0}"
+163,Yes,Yes,{0.0}
+164,Do not know,Do not know,"{1.0, 2.0}"
+165,Yes,Yes,{4.0}
+166,Do not know,Do not know,"{1.0, 7.0}"
+167,Do not know,Do not know,"{1.0, 2.0, 3.0, 4.0, 7.0, 9.0}"
+168,Yes,Yes,{0.0}
+169,Do not know,Do not know,"{9.0, 3.0, 5.0}"
+170,Do not know,Do not know,"{1.0, 3.0, 5.0, 9.0}"
+171,Do not know,Do not know,"{1.0, 2.0, 7.0}"
+172,Yes,Yes,{6.0}
+173,Yes,Yes,{6.0}
+174,Do not know,Do not know,"{8.0, 5.0}"
+175,Yes,Yes,{5.0}
+176,Yes,Yes,{3.0}
+177,Do not know,Do not know,"{1.0, 7.0}"
+178,Yes,Yes,{5.0}
+179,Yes,Yes,{0.0}
+180,Do not know,Do not know,"{9.0, 4.0, 5.0}"
+181,Yes,Yes,{1.0}
+182,Yes,Yes,{6.0}
+183,Yes,Yes,{0.0}
+184,Do not know,Do not know,"{1.0, 2.0, 7.0}"
+185,Yes,Yes,{8.0}
+186,Yes,Yes,{6.0}
+187,Yes,Yes,{0.0}
+188,Yes,Yes,{6.0}
+189,Yes,Yes,{4.0}
+190,Do not know,Do not know,"{1.0, 2.0}"
+191,Do not know,Do not know,"{1.0, 5.0, 9.0}"
+192,Do not know,Do not know,"{1.0, 2.0, 7.0}"
+193,Do not know,Do not know,"{0.0, 1.0, 2.0, 4.0, 7.0, 8.0, 9.0}"
+194,Do not know,Do not know,"{1.0, 2.0}"
+195,Yes,Yes,{5.0}
+196,Yes,Yes,{0.0}
+197,Do not know,Do not know,"{1.0, 3.0, 5.0}"
+198,Yes,Yes,{0.0}
+199,Yes,Yes,{6.0}
+200,Do not know,Do not know,"{9.0, 5.0}"
+201,Yes,Yes,{7.0}
+202,Do not know,Do not know,"{1.0, 2.0, 7.0}"
+203,Yes,Yes,{6.0}
+204,Do not know,Do not know,"{1.0, 2.0}"
+205,Yes,Yes,{9.0}
+206,Yes,Yes,{8.0}
+207,Yes,Yes,{1.0}
+208,Yes,Yes,{0.0}
+209,Yes,Yes,{7.0}
+210,Yes,Yes,{1.0}
+211,Yes,Yes,{8.0}
+212,Yes,Yes,{6.0}
+213,Yes,Yes,{3.0}
+214,Do not know,Do not know,"{1.0, 2.0}"
+215,Do not know,Do not know,"{1.0, 2.0}"
+216,Do not know,Do not know,"{1.0, 2.0, 3.0, 4.0, 7.0, 9.0}"
+217,Yes,Yes,{8.0}
+218,Yes,Yes,{5.0}
+219,Yes,Yes,{4.0}
+220,Yes,Yes,{4.0}
+221,Do not know,Do not know,"{9.0, 3.0}"
+222,Yes,Yes,{8.0}
+223,Do not know,Do not know,"{8.0, 7.0}"
+224,Do not know,Do not know,"{1.0, 2.0}"
+225,Yes,Yes,{5.0}
+226,Yes,Yes,{0.0}
+227,Do not know,Do not know,"{1.0, 2.0}"
+228,Do not know,Do not know,"{1.0, 2.0}"
+229,Yes,Yes,{7.0}
+230,Do not know,Do not know,"{8.0, 7.0}"
+231,Yes,Yes,{9.0}
+232,Yes,Yes,{0.0}
+233,Yes,Yes,{6.0}
+234,Do not know,Do not know,"{1.0, 2.0}"
+235,Do not know,Do not know,"{1.0, 3.0, 7.0}"
+236,Do not know,Do not know,"{0.0, 6.0}"
+237,Yes,Yes,{6.0}
+238,Do not know,Do not know,"{9.0, 4.0, 5.0, 6.0}"
+239,Yes,Yes,{6.0}
+240,Yes,Yes,{7.0}
+241,Yes,Yes,{0.0}
+242,Yes,Yes,{9.0}
+243,Do not know,Do not know,"{1.0, 2.0, 3.0, 4.0, 7.0, 9.0}"
+244,Yes,Yes,{3.0}
+245,Yes,Yes,{6.0}
+246,Do not know,Do not know,"{4.0, 6.0}"
+247,Yes,Yes,{8.0}
+248,Do not know,Do not know,"{9.0, 3.0, 5.0}"
+249,Yes,Yes,{2.0}
+250,Yes,Yes,{1.0}
+251,Yes,Yes,{3.0}
+252,Yes,Yes,{8.0}
+253,Do not know,Do not know,"{1.0, 2.0}"
+254,Yes,Yes,{5.0}
+255,Yes,Yes,{0.0}
+256,Do not know,Do not know,"{1.0, 2.0}"
+257,Yes,Yes,{6.0}
+258,Do not know,Do not know,"{9.0, 4.0}"
+259,Yes,Yes,{7.0}
+260,Yes,Yes,{4.0}
+261,Yes,Yes,{8.0}
+262,Yes,Yes,{4.0}
+263,Yes,Yes,{6.0}
+264,Yes,Yes,{9.0}
+265,Yes,Yes,{0.0}
+266,Do not know,Do not know,"{9.0, 5.0}"
+267,Do not know,Do not know,"{0.0, 1.0, 2.0, 4.0, 5.0, 6.0, 8.0, 9.0}"
+268,Yes,Yes,{2.0}
+269,Yes,Yes,{0.0}
+270,Yes,Yes,{8.0}
+271,Yes,Yes,{4.0}
+272,Do not know,Do not know,"{1.0, 2.0}"
+273,Yes,Yes,{6.0}
+274,Do not know,Do not know,"{2.0, 7.0}"
+275,Do not know,Do not know,"{1.0, 5.0}"
+276,Yes,Yes,{8.0}
+277,Do not know,Do not know,"{1.0, 2.0, 7.0}"
+278,Do not know,Do not know,"{1.0, 2.0}"
+279,Yes,Yes,{9.0}
+280,Do not know,Do not know,"{1.0, 2.0}"
+281,Do not know,Do not know,"{1.0, 2.0, 7.0}"
+282,Do not know,Do not know,"{1.0, 2.0}"
+283,Do not know,Do not know,"{1.0, 2.0}"
+284,Yes,Yes,{0.0}
+285,Yes,Yes,{0.0}
+286,Yes,Yes,{7.0}
+287,Do not know,Do not know,"{0.0, 8.0}"
+288,Yes,Yes,{3.0}
+289,Do not know,Do not know,"{1.0, 2.0}"
+290,Yes,Yes,{3.0}
+291,Do not know,Do not know,"{1.0, 2.0, 7.0}"
+292,Yes,Yes,{0.0}
+293,Do not know,Do not know,"{1.0, 2.0}"
+294,Yes,Yes,{3.0}
+295,Do not know,Do not know,"{8.0, 5.0}"
+296,Yes,Yes,{8.0}
+297,Yes,Yes,{5.0}
+298,Yes,Yes,{1.0}
+299,Do not know,Do not know,"{1.0, 3.0}"
+300,Do not know,Do not know,"{9.0, 3.0, 5.0}"
+301,Yes,Yes,{5.0}
+302,Yes,Yes,{6.0}
+303,Yes,Yes,{0.0}
+304,Yes,Yes,{4.0}
+305,Yes,Yes,{4.0}
+306,Do not know,Do not know,"{2.0, 7.0}"
+307,Yes,Yes,{6.0}
+308,Do not know,Do not know,"{1.0, 3.0, 5.0, 8.0, 9.0}"
+309,Yes,Yes,{4.0}
+310,Yes,Yes,{6.0}
+311,Yes,Yes,{6.0}
+312,Yes,Yes,{3.0}
+313,Yes,Yes,{8.0}
+314,Do not know,Do not know,"{1.0, 2.0, 3.0, 7.0, 8.0}"
+315,Yes,Yes,{8.0}
+316,Yes,Yes,{4.0}
+317,Do not know,Do not know,"{9.0, 4.0, 5.0}"
+318,Yes,Yes,{8.0}
+319,Do not know,Do not know,"{2.0, 7.0}"
+320,Do not know,Do not know,"{1.0, 3.0}"
+321,Yes,Yes,{0.0}
+322,Do not know,Do not know,"{1.0, 2.0, 7.0}"
+323,Do not know,Do not know,"{3.0, 5.0}"
+324,Yes,Yes,{5.0}
+325,Do not know,Do not know,"{2.0, 7.0}"
+326,Yes,Yes,{7.0}
+327,Yes,Yes,{5.0}
+328,Yes,Yes,{8.0}
+329,Yes,Yes,{6.0}
+330,Yes,Yes,{3.0}
+331,Yes,Yes,{4.0}
+332,Yes,Yes,{7.0}
+333,Do not know,Do not know,"{1.0, 2.0}"
+334,Yes,Yes,{8.0}
+335,Yes,Yes,{6.0}
+336,Do not know,Do not know,"{3.0, 5.0}"
+337,Do not know,Do not know,"{9.0, 5.0}"
+338,Yes,Yes,{7.0}
+339,Yes,Yes,{7.0}
+340,Do not know,Do not know,"{8.0, 5.0}"
+341,Yes,Yes,{4.0}
+342,Yes,Yes,{0.0}
+343,Yes,Yes,{8.0}
+344,Do not know,Do not know,"{1.0, 2.0}"
+345,Yes,Yes,{9.0}
+346,Yes,Yes,{7.0}
+347,Yes,Yes,{4.0}
+348,Do not know,Do not know,"{3.0, 5.0}"
+349,Yes,Yes,{8.0}
+350,Yes,Yes,{4.0}
+351,Do not know,Do not know,"{1.0, 2.0}"
+352,Do not know,Do not know,"{9.0, 3.0, 5.0}"
+353,Do not know,Do not know,"{9.0, 5.0}"
+354,Do not know,Do not know,"{1.0, 2.0, 7.0}"
+355,Yes,Yes,{5.0}
+356,Do not know,Do not know,"{9.0, 4.0, 5.0}"
+357,Do not know,Do not know,"{1.0, 2.0, 7.0}"
+358,Yes,Yes,{9.0}
+359,Yes,Yes,{8.0}
+360,Yes,Yes,{3.0}
+361,Do not know,Do not know,"{1.0, 2.0}"
+362,Yes,Yes,{2.0}
+363,Do not know,Do not know,"{1.0, 2.0}"
+364,Do not know,Do not know,"{9.0, 5.0}"
+365,Do not know,Do not know,"{2.0, 7.0}"
+366,Do not know,Do not know,"{2.0, 7.0}"
+367,Yes,Yes,{7.0}
+368,Yes,Yes,{6.0}
+369,Yes,Yes,{0.0}
+370,Yes,Yes,{4.0}
+371,Yes,Yes,{0.0}
+372,Do not know,Do not know,"{1.0, 7.0}"
+373,Do not know,Do not know,"{8.0, 7.0}"
+374,Do not know,Do not know,"{1.0, 2.0}"
+375,Yes,Yes,{8.0}
+376,Do not know,Do not know,"{9.0, 4.0}"
+377,Yes,Yes,{8.0}
+378,Yes,Yes,{8.0}
+379,Yes,Yes,{9.0}
+380,Yes,Yes,{7.0}
+381,Yes,Yes,{1.0}
+382,Yes,Yes,{5.0}
+383,Yes,Yes,{7.0}
+384,Do not know,Do not know,"{1.0, 2.0}"
+385,Yes,Yes,{6.0}
+386,Yes,Yes,{6.0}
+387,Yes,Yes,{0.0}
+388,Do not know,Do not know,"{1.0, 7.0}"
+389,Yes,Yes,{4.0}
+390,Yes,Yes,{0.0}
+391,Do not know,Do not know,"{2.0, 7.0}"
+392,Yes,Yes,{1.0}
+393,Yes,Yes,{9.0}
+394,Yes,Yes,{1.0}
+395,Yes,Yes,{7.0}
+396,Yes,Yes,{6.0}
+397,Yes,Yes,{6.0}
+398,Yes,Yes,{6.0}
+399,Do not know,Do not know,"{1.0, 2.0, 7.0}"
+400,Yes,Yes,{6.0}
+401,Yes,Yes,{0.0}
+402,No,Do not know,"{1.0, 7.0}"
+403,Do not know,Do not know,"{9.0, 3.0, 5.0}"
+404,Do not know,Do not know,"{9.0, 4.0, 5.0, 6.0}"
+405,Do not know,Do not know,"{1.0, 3.0, 5.0}"
+406,Yes,Yes,{9.0}
+407,Yes,Yes,{7.0}
+408,Do not know,Do not know,"{1.0, 7.0}"
+409,Yes,Yes,{3.0}
+410,Do not know,Do not know,"{1.0, 2.0, 7.0}"
+411,Do not know,Do not know,"{3.0, 5.0}"
+412,Do not know,Do not know,"{1.0, 2.0}"
+413,Yes,Yes,{7.0}
+414,Do not know,Do not know,"{9.0, 3.0, 5.0}"
+415,Yes,Yes,{9.0}
+416,Yes,Yes,{0.0}
+417,Do not know,Do not know,"{1.0, 2.0, 7.0}"
+418,Yes,Yes,{4.0}
+419,Do not know,Do not know,"{1.0, 3.0, 5.0, 9.0}"
+420,Yes,Yes,{7.0}
+421,Yes,Yes,{4.0}
+422,Yes,Yes,{8.0}
+423,Do not know,Do not know,"{1.0, 3.0}"
+424,Yes,Yes,{8.0}
+425,Yes,Yes,{9.0}
+426,Yes,Yes,{0.0}
+427,Yes,Yes,{6.0}
+428,Do not know,Do not know,"{9.0, 5.0}"
+429,Yes,Yes,{0.0}
+430,Do not know,Do not know,"{0.0, 1.0, 2.0, 4.0, 6.0, 7.0, 8.0, 9.0}"
+431,Yes,Yes,{5.0}
+432,Yes,Yes,{7.0}
+433,Do not know,Do not know,"{9.0, 4.0}"
+434,Yes,Yes,{8.0}
+435,Do not know,Do not know,"{3.0, 5.0}"
+436,Do not know,Do not know,"{1.0, 2.0, 7.0}"
+437,Do not know,Do not know,"{8.0, 5.0}"
+438,Do not know,Do not know,"{8.0, 5.0, 7.0}"
+439,Yes,Yes,{0.0}
+440,Do not know,Do not know,"{9.0, 4.0, 5.0, 6.0}"
+441,Do not know,Do not know,"{9.0, 3.0, 5.0}"
+442,Do not know,Do not know,"{1.0, 3.0}"
+443,Yes,Yes,{6.0}
+444,Do not know,Do not know,"{1.0, 2.0, 7.0}"
+445,Do not know,Do not know,"{2.0, 7.0}"
+446,Yes,Yes,{1.0}
+447,Do not know,Do not know,"{9.0, 4.0, 5.0}"
+448,Do not know,Do not know,"{1.0, 7.0}"
+449,Yes,Yes,{6.0}
+450,Yes,Yes,{5.0}
+451,Yes,Yes,{8.0}
+452,Do not know,Do not know,"{1.0, 3.0, 5.0}"
+453,Yes,Yes,{0.0}
+454,Do not know,Do not know,"{1.0, 2.0}"
+455,Yes,Yes,{4.0}
+456,Yes,Yes,{0.0}
+457,Yes,Yes,{6.0}
+458,Yes,Yes,{4.0}
+459,Do not know,Do not know,"{9.0, 5.0}"
+460,Yes,Yes,{0.0}
+461,Do not know,Do not know,"{3.0, 5.0}"
+462,Do not know,Do not know,"{1.0, 3.0, 7.0}"
+463,Yes,Yes,{6.0}
+464,Do not know,Do not know,"{1.0, 2.0, 7.0}"
+465,Yes,Yes,{6.0}
+466,Do not know,Do not know,"{1.0, 9.0}"
+467,Yes,Yes,{0.0}
+468,Yes,Yes,{6.0}
+469,Yes,Yes,{8.0}
+470,Do not know,Do not know,"{1.0, 2.0}"
+471,Do not know,Do not know,"{8.0, 7.0}"
+472,Do not know,Do not know,"{9.0, 4.0, 5.0}"
+473,Do not know,Do not know,"{9.0, 5.0}"
+474,Yes,Yes,{6.0}
+475,Yes,Yes,{8.0}
+476,Yes,Yes,{4.0}
+477,Do not know,Do not know,"{9.0, 4.0, 5.0}"
+478,Do not know,Do not know,"{1.0, 2.0}"
+479,Yes,Yes,{3.0}
+480,Yes,Yes,{6.0}
+481,Do not know,Do not know,"{1.0, 2.0, 7.0}"
+482,Yes,Yes,{7.0}
+483,Do not know,Do not know,"{2.0, 4.0}"
+484,Do not know,Do not know,"{1.0, 3.0, 5.0}"
+485,Yes,Yes,{4.0}
+486,Yes,Yes,{8.0}
+487,Yes,Yes,{7.0}
+488,Yes,Yes,{3.0}
+489,Do not know,Do not know,"{1.0, 3.0, 5.0, 9.0}"
+490,Do not know,Do not know,"{1.0, 7.0}"
+491,Do not know,Do not know,"{9.0, 5.0}"
+492,Do not know,Do not know,"{9.0, 3.0, 5.0}"
+493,Yes,Yes,{6.0}
+494,Do not know,Do not know,"{3.0, 5.0}"
+495,Do not know,Do not know,"{1.0, 2.0}"
+496,Yes,Yes,{3.0}
+497,Yes,Yes,{1.0}
+498,Do not know,Do not know,"{9.0, 5.0}"
+499,Yes,Yes,{6.0}
+500,Do not know,Do not know,"{9.0, 5.0}"
+501,Do not know,Do not know,"{1.0, 3.0, 5.0, 9.0}"
+502,Do not know,Do not know,"{1.0, 3.0, 5.0}"
+503,Yes,Yes,{1.0}
+504,Yes,Yes,{4.0}
+505,Yes,Yes,{6.0}
+506,Do not know,Do not know,"{1.0, 2.0}"
+507,Do not know,Do not know,"{8.0, 5.0}"
+508,Yes,Yes,{9.0}
+509,Yes,Yes,{0.0}
+510,Yes,Yes,{7.0}
+511,Yes,Yes,{1.0}
+512,Do not know,Do not know,"{1.0, 3.0, 5.0, 9.0}"
+513,Yes,Yes,{6.0}
+514,Yes,Yes,{8.0}
+515,Yes,Yes,{2.0}
+516,Yes,Yes,{7.0}
+517,Yes,Yes,{0.0}
+518,Do not know,Do not know,"{9.0, 5.0}"
+519,Yes,Yes,{5.0}
+520,Yes,Yes,{0.0}
+521,Yes,Yes,{0.0}
+522,Yes,Yes,{9.0}
+523,Yes,Yes,{4.0}
+524,Yes,Yes,{7.0}
+525,Yes,Yes,{6.0}
+526,Yes,Yes,{0.0}
+527,Do not know,Do not know,"{9.0, 3.0}"
+528,Do not know,Do not know,"{1.0, 7.0}"
+529,Do not know,Do not know,"{0.0, 2.0, 4.0, 6.0, 8.0}"
+530,Do not know,Do not know,"{1.0, 2.0, 7.0}"
+531,Do not know,Do not know,"{1.0, 2.0}"
+532,Do not know,Do not know,"{1.0, 2.0}"
+533,Do not know,Do not know,"{9.0, 3.0, 5.0}"
+534,Do not know,Do not know,"{1.0, 2.0, 3.0, 4.0, 7.0, 9.0}"
+535,Do not know,Do not know,"{1.0, 2.0}"
+536,Do not know,Do not know,"{8.0, 5.0}"
+537,Yes,Yes,{0.0}
+538,Yes,Yes,{0.0}
+539,Yes,Yes,{9.0}
+540,Yes,Yes,{7.0}
+541,Do not know,Do not know,"{8.0, 3.0, 7.0}"
+542,Yes,Yes,{5.0}
+543,Yes,Yes,{4.0}
+544,Do not know,Do not know,"{9.0, 4.0, 5.0}"
+545,Yes,Yes,{6.0}
+546,Yes,Yes,{7.0}
+547,Do not know,Do not know,"{1.0, 2.0, 3.0, 7.0, 9.0}"
+548,Yes,Yes,{0.0}
+549,Do not know,Do not know,"{9.0, 4.0, 5.0, 6.0}"
+550,Yes,Yes,{6.0}
+551,Yes,Yes,{0.0}
+552,Do not know,Do not know,"{2.0, 4.0}"
+553,Do not know,Do not know,"{0.0, 2.0, 4.0, 6.0, 8.0}"
+554,Yes,Yes,{6.0}
+555,Yes,Yes,{9.0}
+556,Yes,Yes,{2.0}
+557,Do not know,Do not know,"{1.0, 2.0, 7.0}"
+558,Yes,Yes,{0.0}
+559,Yes,Yes,{4.0}
+560,Yes,Yes,{4.0}
+561,Yes,Yes,{6.0}
+562,Yes,Yes,{0.0}
+563,Yes,Yes,{7.0}
+564,Do not know,Do not know,"{9.0, 5.0}"
+565,Yes,Yes,{8.0}
+566,Yes,Yes,{4.0}
+567,Do not know,Do not know,"{9.0, 4.0, 5.0, 6.0}"
+568,Do not know,Do not know,"{1.0, 3.0, 7.0}"
+569,Yes,Yes,{9.0}
+570,Yes,Yes,{3.0}
+571,Yes,Yes,{0.0}
+572,Do not know,Do not know,"{9.0, 4.0}"
+573,Do not know,Do not know,"{1.0, 2.0}"
+574,Do not know,Do not know,"{1.0, 2.0}"
+575,Yes,Yes,{3.0}
+576,Yes,Yes,{3.0}
+577,Do not know,Do not know,"{1.0, 2.0}"
+578,Yes,Yes,{4.0}
+579,Do not know,Do not know,"{9.0, 3.0, 5.0}"
+580,Do not know,Do not know,"{1.0, 2.0}"
+581,Do not know,Do not know,"{1.0, 7.0}"
+582,Do not know,Do not know,"{9.0, 4.0}"
+583,Yes,Yes,{5.0}
+584,Yes,Yes,{0.0}
+585,Yes,Yes,{4.0}
+586,Yes,Yes,{0.0}
+587,Yes,Yes,{8.0}
+588,Do not know,Do not know,"{1.0, 2.0, 7.0}"
+589,Do not know,Do not know,"{1.0, 2.0}"
+590,Do not know,Do not know,"{3.0, 5.0}"
+591,Yes,Yes,{9.0}
+592,Yes,Yes,{4.0}
+593,Yes,Yes,{8.0}
+594,Do not know,Do not know,"{1.0, 3.0, 5.0, 9.0}"
+595,Yes,Yes,{0.0}
+596,Do not know,Do not know,"{1.0, 4.0, 9.0, 7.0}"
+597,Yes,Yes,{5.0}
+598,Do not know,Do not know,"{8.0, 5.0}"
+599,Do not know,Do not know,"{9.0, 4.0}"
+600,Yes,Yes,{0.0}
+601,Yes,Yes,{7.0}
+602,Yes,Yes,{8.0}
+603,Do not know,Do not know,"{1.0, 4.0, 5.0, 6.0, 9.0}"
+604,Do not know,Do not know,"{1.0, 2.0, 7.0}"
+605,Do not know,Do not know,"{1.0, 3.0}"
+606,Yes,Yes,{3.0}
+607,Do not know,Do not know,"{9.0, 3.0}"
+608,Yes,Yes,{4.0}
+609,Yes,Yes,{6.0}
+610,Do not know,Do not know,"{1.0, 6.0}"
+611,Yes,Yes,{6.0}
+612,Yes,Yes,{7.0}
+613,Do not know,Do not know,"{8.0, 5.0, 7.0}"
+614,Yes,Yes,{0.0}
+615,Yes,Yes,{7.0}
+616,Do not know,Do not know,"{1.0, 2.0, 7.0}"
+617,Do not know,Do not know,"{1.0, 3.0, 7.0}"
+618,Yes,Yes,{0.0}
+619,Yes,Yes,{9.0}
+620,Yes,Yes,{8.0}
+621,Yes,Yes,{9.0}
+622,Yes,Yes,{8.0}
+623,Yes,Yes,{0.0}
+624,Do not know,Do not know,"{1.0, 2.0}"
+625,Yes,Yes,{6.0}
+626,Yes,Yes,{8.0}
+627,Do not know,Do not know,"{0.0, 6.0}"
+628,Do not know,Do not know,"{1.0, 2.0, 3.0, 5.0, 9.0}"
+629,Yes,Yes,{7.0}
+630,Yes,Yes,{1.0}
+631,Yes,Yes,{0.0}
+632,Yes,Yes,{9.0}
+633,Yes,Yes,{0.0}
+634,Do not know,Do not know,"{1.0, 2.0}"
+635,Do not know,Do not know,"{8.0, 5.0}"
+636,Yes,Yes,{0.0}
+637,Do not know,Do not know,"{1.0, 2.0, 7.0}"
+638,Yes,Yes,{7.0}
+639,Yes,Yes,{6.0}
+640,Yes,Yes,{8.0}
+641,Yes,Yes,{4.0}
+642,Do not know,Do not know,"{1.0, 2.0, 7.0}"
+643,Yes,Yes,{3.0}
+644,Do not know,Do not know,"{1.0, 7.0}"
+645,Yes,Yes,{7.0}
+646,Do not know,Do not know,"{9.0, 4.0}"
+647,Do not know,Do not know,"{1.0, 2.0, 7.0}"
+648,Yes,Yes,{3.0}
+649,Yes,Yes,{7.0}
+650,Yes,Yes,{5.0}
+651,Yes,Yes,{6.0}
+652,Yes,Yes,{0.0}
+653,Do not know,Do not know,"{1.0, 2.0}"
+654,Yes,Yes,{5.0}
+655,Do not know,Do not know,"{1.0, 3.0, 5.0, 9.0}"
+656,Yes,Yes,{4.0}
+657,Do not know,Do not know,"{1.0, 2.0, 7.0}"
+658,Yes,Yes,{8.0}
+659,Do not know,Do not know,"{1.0, 7.0}"
+660,Yes,Yes,{8.0}
+661,Do not know,Do not know,"{1.0, 2.0, 7.0}"
+662,Yes,Yes,{6.0}
+663,Yes,Yes,{5.0}
+664,Yes,Yes,{0.0}
+665,Yes,Yes,{0.0}
+666,Yes,Yes,{6.0}
+667,Yes,Yes,{7.0}
+668,Yes,Yes,{6.0}
+669,Yes,Yes,{8.0}
+670,Yes,Yes,{7.0}
+671,Do not know,Do not know,"{1.0, 2.0}"
+672,Yes,Yes,{8.0}
+673,Yes,Yes,{8.0}
+674,Yes,Yes,{6.0}
+675,Yes,Yes,{7.0}
+676,Yes,Yes,{0.0}
+677,Do not know,Do not know,"{1.0, 2.0}"
+678,Yes,Yes,{5.0}
+679,Do not know,Do not know,"{8.0, 5.0}"
+680,Do not know,Do not know,"{1.0, 2.0}"
+681,Do not know,Do not know,"{1.0, 3.0, 5.0}"
+682,Yes,Yes,{7.0}
+683,Do not know,Do not know,"{8.0, 3.0, 7.0}"
+684,Do not know,Do not know,"{1.0, 4.0, 5.0, 6.0, 9.0}"
+685,Yes,Yes,{7.0}
+686,Do not know,Do not know,"{1.0, 2.0, 3.0, 7.0}"
+687,Do not know,Do not know,"{1.0, 4.0, 7.0}"
+688,Do not know,Do not know,"{1.0, 2.0}"
+689,Do not know,Do not know,"{1.0, 2.0, 7.0}"
+690,Yes,Yes,{3.0}
+691,Do not know,Do not know,"{1.0, 2.0}"
+692,Yes,Yes,{1.0}
+693,Do not know,Do not know,"{1.0, 2.0, 7.0}"
+694,Do not know,Do not know,"{8.0, 5.0}"
+695,Yes,Yes,{4.0}
+696,Do not know,Do not know,"{1.0, 2.0}"
+697,Do not know,Do not know,"{1.0, 3.0, 5.0}"
+698,Do not know,Do not know,"{1.0, 2.0}"
+699,Do not know,Do not know,"{1.0, 3.0}"
+700,Do not know,Do not know,"{1.0, 3.0, 7.0}"
+701,Yes,Yes,{5.0}
+702,Do not know,Do not know,"{1.0, 2.0, 7.0}"
+703,Yes,Yes,{4.0}
+704,Yes,Yes,{5.0}
+705,Yes,Yes,{0.0}
+706,Yes,Yes,{1.0}
+707,Yes,Yes,{1.0}
+708,Yes,Yes,{5.0}
+709,Yes,Yes,{7.0}
+710,Do not know,Do not know,"{0.0, 6.0}"
+711,Yes,Yes,{5.0}
+712,Yes,Yes,{5.0}
+713,Do not know,Do not know,"{1.0, 2.0, 7.0}"
+714,Yes,Yes,{5.0}
+715,Do not know,Do not know,"{1.0, 2.0}"
+716,Yes,Yes,{4.0}
+717,Do not know,Do not know,"{9.0, 4.0}"
+718,Do not know,Do not know,"{0.0, 8.0}"
+719,Do not know,Do not know,"{1.0, 3.0}"
+720,Do not know,Do not know,"{9.0, 4.0, 5.0}"
+721,Yes,Yes,{0.0}
+722,Do not know,Do not know,"{9.0, 5.0}"
+723,Do not know,Do not know,"{2.0, 4.0}"
+724,Yes,Yes,{9.0}
+725,Do not know,Do not know,"{1.0, 2.0, 3.0, 5.0}"
+726,Yes,Yes,{0.0}
+727,Do not know,Do not know,"{1.0, 2.0}"
+728,Yes,Yes,{6.0}
+729,Yes,Yes,{5.0}
+730,Yes,Yes,{8.0}
+731,Yes,Yes,{7.0}
+732,Do not know,Do not know,"{1.0, 2.0}"
+733,Yes,Yes,{9.0}
+734,Yes,Yes,{1.0}
+735,Do not know,Do not know,"{1.0, 2.0, 7.0}"
+736,Do not know,Do not know,"{1.0, 2.0}"
+737,Yes,Yes,{0.0}
+738,Yes,Yes,{7.0}
+739,Yes,Yes,{6.0}
+740,Do not know,Do not know,"{0.0, 6.0}"
+741,Do not know,Do not know,"{9.0, 4.0}"
+742,Do not know,Do not know,"{9.0, 5.0}"
+743,Yes,Yes,{7.0}
+744,Yes,Yes,{0.0}
+745,Yes,Yes,{8.0}
+746,Yes,Yes,{4.0}
+747,Do not know,Do not know,"{9.0, 5.0}"
+748,Yes,Yes,{7.0}
+749,Do not know,Do not know,"{9.0, 5.0}"
+750,Yes,Yes,{6.0}
+751,Do not know,Do not know,"{1.0, 2.0, 7.0}"
+752,Do not know,Do not know,"{1.0, 3.0, 4.0, 5.0, 8.0, 9.0}"
+753,Yes,Yes,{6.0}
+754,Do not know,Do not know,"{1.0, 3.0, 5.0}"
+755,Yes,Yes,{4.0}
+756,Yes,Yes,{3.0}
+757,Do not know,Do not know,"{1.0, 2.0, 7.0}"
+758,Yes,Yes,{1.0}
+759,Yes,Yes,{4.0}
+760,Yes,Yes,{5.0}
+761,Yes,Yes,{6.0}
+762,Do not know,Do not know,"{1.0, 7.0}"
+763,Yes,Yes,{8.0}
+764,Yes,Yes,{1.0}
+765,Yes,Yes,{8.0}
+766,Yes,Yes,{3.0}
+767,Yes,Yes,{5.0}
+768,No,Yes,{5.0}
+769,Yes,Yes,{3.0}
+770,Yes,Yes,{6.0}
+771,Do not know,Do not know,"{3.0, 5.0}"
+772,Yes,Yes,{0.0}
+773,Do not know,Do not know,"{1.0, 7.0}"
+774,Do not know,Do not know,"{1.0, 2.0, 7.0}"
+775,Do not know,Do not know,"{1.0, 2.0}"
+776,Yes,Yes,{6.0}
+777,Yes,Yes,{6.0}
+778,Do not know,Do not know,"{9.0, 5.0}"
+779,Do not know,Do not know,"{9.0, 5.0}"
+780,Yes,Yes,{6.0}
+781,Yes,Yes,{0.0}
+782,Yes,Yes,{8.0}
+783,Do not know,Do not know,"{1.0, 2.0}"
+784,Yes,Yes,{4.0}
+785,Yes,Yes,{7.0}
+786,Yes,Yes,{5.0}
+787,Yes,Yes,{3.0}
+788,Yes,Yes,{0.0}
+789,Do not know,Do not know,"{1.0, 3.0, 7.0}"
+790,Yes,Yes,{6.0}
+791,Yes,Yes,{6.0}
+792,Yes,Yes,{6.0}
+793,Yes,Yes,{6.0}
+794,Yes,Yes,{8.0}
+795,Yes,Yes,{8.0}
+796,Yes,Yes,{1.0}
+797,Do not know,Do not know,"{1.0, 2.0}"
+798,Yes,Yes,{8.0}
+799,Yes,Yes,{5.0}
+800,Do not know,Do not know,"{9.0, 4.0}"
+801,Yes,Yes,{9.0}
+802,Yes,Yes,{6.0}
+803,Yes,Yes,{8.0}
+804,Yes,Yes,{4.0}
+805,Yes,Yes,{4.0}
+806,Yes,Yes,{4.0}
+807,Yes,Yes,{5.0}
+808,Yes,Yes,{3.0}
+809,Yes,Yes,{5.0}
+810,Do not know,Do not know,"{1.0, 2.0, 7.0}"
+811,Yes,Yes,{6.0}
+812,Do not know,Do not know,"{3.0, 5.0}"
+813,Do not know,Do not know,"{1.0, 3.0}"
+814,Do not know,Do not know,"{9.0, 4.0}"
+815,Yes,Yes,{5.0}
+816,Yes,Yes,{8.0}
+817,Yes,Yes,{3.0}
+818,Yes,Yes,{9.0}
+819,Yes,Yes,{8.0}
+820,Do not know,Do not know,"{1.0, 2.0}"
+821,Yes,Yes,{5.0}
+822,Yes,Yes,{1.0}
+823,Yes,Yes,{0.0}
+824,Do not know,Do not know,"{1.0, 3.0, 5.0, 9.0}"
+825,Yes,Yes,{1.0}
+826,Do not know,Do not know,"{9.0, 5.0}"
+827,Do not know,Do not know,"{1.0, 2.0}"
+828,Yes,Yes,{5.0}
+829,Do not know,Do not know,"{1.0, 3.0, 5.0, 8.0, 9.0}"
+830,Yes,Yes,{7.0}
+831,Yes,Yes,{1.0}
+832,Do not know,Do not know,"{1.0, 2.0, 7.0}"
+833,Yes,Yes,{1.0}
+834,Yes,Yes,{6.0}
+835,Yes,Yes,{7.0}
+836,Yes,Yes,{0.0}
+837,Do not know,Do not know,"{9.0, 5.0}"
+838,Do not know,Do not know,"{1.0, 2.0, 7.0}"
+839,Yes,Yes,{6.0}
+840,Yes,Yes,{0.0}
+841,Yes,Yes,{8.0}
+842,Do not know,Do not know,"{1.0, 4.0, 9.0, 7.0}"
+843,Yes,Yes,{5.0}
+844,Do not know,Do not know,"{9.0, 5.0}"
+845,Yes,Yes,{7.0}
+846,Yes,Yes,{3.0}
+847,Yes,Yes,{9.0}
+848,Yes,Yes,{9.0}
+849,Do not know,Do not know,"{1.0, 2.0}"
+850,Yes,Yes,{9.0}
+851,Do not know,Do not know,"{1.0, 2.0}"
+852,Do not know,Do not know,"{1.0, 3.0}"
+853,Yes,Yes,{0.0}
+854,Do not know,Do not know,"{9.0, 3.0, 5.0}"
+855,Yes,Yes,{0.0}
+856,Yes,Yes,{0.0}
+857,Do not know,Do not know,"{2.0, 7.0}"
+858,Do not know,Do not know,"{1.0, 2.0}"
+859,Do not know,Do not know,"{1.0, 3.0, 5.0}"
+860,Do not know,Do not know,"{1.0, 7.0}"
+861,Yes,Yes,{6.0}
+862,Do not know,Do not know,"{0.0, 1.0, 4.0, 5.0, 6.0, 7.0}"
+863,Yes,Yes,{6.0}
+864,Do not know,Do not know,"{1.0, 2.0, 7.0}"
+865,Yes,Yes,{0.0}
+866,Do not know,Do not know,"{1.0, 2.0, 7.0}"
+867,Do not know,Do not know,"{1.0, 2.0, 7.0}"
+868,Yes,Yes,{5.0}
+869,Do not know,Do not know,"{9.0, 4.0}"
+870,Yes,Yes,{3.0}
+871,Do not know,Do not know,"{1.0, 4.0, 9.0, 7.0}"
+872,Yes,Yes,{3.0}
+873,Do not know,Do not know,"{9.0, 3.0, 5.0}"
+874,Do not know,Do not know,"{9.0, 3.0}"
+875,Yes,Yes,{4.0}
+876,Yes,Yes,{8.0}
+877,Do not know,Do not know,"{1.0, 2.0}"
+878,Do not know,Do not know,"{1.0, 2.0}"
+879,Do not know,Do not know,"{1.0, 2.0}"
+880,Yes,Yes,{9.0}
+881,Yes,Yes,{5.0}
+882,Do not know,Do not know,"{1.0, 3.0, 4.0, 7.0, 9.0}"
+883,Yes,Yes,{5.0}
+884,Do not know,Do not know,"{9.0, 5.0}"
+885,Yes,Yes,{0.0}
+886,Do not know,Do not know,"{1.0, 2.0}"
+887,Yes,Yes,{9.0}
+888,Yes,Yes,{4.0}
+889,Do not know,Do not know,"{1.0, 2.0, 7.0}"
+890,Yes,Yes,{8.0}
+891,Yes,Yes,{8.0}
+892,Do not know,Do not know,"{1.0, 2.0, 3.0, 4.0, 7.0, 9.0}"
+893,Do not know,Do not know,"{0.0, 8.0, 6.0}"
+894,Yes,Yes,{8.0}
+895,Do not know,Do not know,"{1.0, 2.0}"
+896,Do not know,Do not know,"{1.0, 2.0, 7.0}"
+897,Yes,Yes,{3.0}
+898,Do not know,Do not know,"{1.0, 3.0, 5.0, 9.0}"
+899,Do not know,Do not know,"{1.0, 2.0}"
+900,Yes,Yes,{0.0}
+901,Do not know,Do not know,"{9.0, 3.0, 4.0}"
+902,Do not know,Do not know,"{9.0, 4.0}"
+903,Yes,Yes,{3.0}
+904,Yes,Yes,{1.0}
+905,Yes,Yes,{8.0}
+906,Yes,Yes,{5.0}
+907,Do not know,Do not know,"{9.0, 4.0}"
+908,Yes,Yes,{5.0}
+909,Do not know,Do not know,"{1.0, 2.0}"
+910,Yes,Yes,{8.0}
+911,Do not know,Do not know,"{1.0, 3.0}"
+912,Yes,Yes,{8.0}
+913,Do not know,Do not know,"{1.0, 2.0}"
+914,Do not know,Do not know,"{9.0, 3.0, 5.0}"
+915,Do not know,Do not know,"{1.0, 3.0, 7.0}"
+916,Yes,Yes,{3.0}
+917,Do not know,Do not know,"{1.0, 2.0}"
+918,Yes,Yes,{0.0}
+919,Yes,Yes,{4.0}
+920,Yes,Yes,{8.0}
+921,Yes,Yes,{8.0}
+922,Yes,Yes,{0.0}
+923,Yes,Yes,{6.0}
+924,Yes,Yes,{0.0}
+925,Yes,Yes,{8.0}
+926,Yes,Yes,{0.0}
+927,Yes,Yes,{3.0}
+928,Yes,Yes,{3.0}
+929,Yes,Yes,{4.0}
+930,Yes,Yes,{4.0}
+931,Yes,Yes,{0.0}
+932,Yes,Yes,{6.0}
+933,Do not know,Do not know,"{1.0, 2.0}"
+934,Yes,Yes,{3.0}
+935,Yes,Yes,{1.0}
+936,Yes,Yes,{3.0}
+937,Do not know,Do not know,"{1.0, 3.0}"
+938,Do not know,Do not know,"{1.0, 3.0, 7.0}"
+939,Do not know,Do not know,"{1.0, 2.0}"
+940,Yes,Yes,{5.0}
+941,Yes,Yes,{9.0}
+942,Do not know,Do not know,"{1.0, 5.0}"
+943,Do not know,Do not know,"{1.0, 2.0, 3.0}"
+944,Yes,Yes,{4.0}
+945,Do not know,Do not know,"{1.0, 2.0, 7.0}"
+946,Yes,Yes,{8.0}
+947,Do not know,Do not know,"{9.0, 4.0, 5.0}"
+948,Do not know,Do not know,"{9.0, 4.0}"
+949,Yes,Yes,{1.0}
+950,Yes,Yes,{8.0}
+951,Yes,Yes,{4.0}
+952,Do not know,Do not know,"{1.0, 7.0}"
+953,Do not know,Do not know,"{1.0, 2.0, 7.0}"
+954,Yes,Yes,{0.0}
+955,Do not know,Do not know,"{1.0, 3.0, 5.0}"
+956,Do not know,Do not know,"{1.0, 2.0}"
+957,Yes,Yes,{6.0}
+958,Do not know,Do not know,"{9.0, 5.0}"
+959,Yes,Yes,{8.0}
+960,Do not know,Do not know,"{1.0, 2.0}"
+961,Yes,Yes,{4.0}
+962,Yes,Yes,{4.0}
+963,Do not know,Do not know,"{9.0, 4.0, 5.0}"
+964,Yes,Yes,{6.0}
+965,Do not know,Do not know,"{2.0, 7.0}"
+966,Do not know,Do not know,"{8.0, 5.0, 7.0}"
+967,Do not know,Do not know,"{1.0, 2.0}"
+968,Do not know,Do not know,"{1.0, 2.0}"
+969,Yes,Yes,{9.0}
+970,Yes,Yes,{2.0}
+971,Do not know,Do not know,"{1.0, 2.0}"
+972,Yes,Yes,{8.0}
+973,Do not know,Do not know,"{1.0, 2.0}"
+974,Yes,Yes,{9.0}
+975,Do not know,Do not know,"{1.0, 2.0}"
+976,Do not know,Do not know,"{8.0, 5.0, 7.0}"
+977,Yes,Yes,{8.0}
+978,Yes,Yes,{1.0}
+979,Yes,Yes,{8.0}
+980,Yes,Yes,{8.0}
+981,Yes,Yes,{3.0}
+982,Yes,Yes,{0.0}
+983,Yes,Yes,{6.0}
+984,Yes,Yes,{6.0}
+985,Do not know,Do not know,"{9.0, 5.0}"
+986,Yes,Yes,{0.0}
+987,Do not know,Do not know,"{1.0, 2.0}"
+988,Yes,Yes,{3.0}
+989,Yes,Yes,{6.0}
+990,Do not know,Do not know,"{1.0, 2.0, 7.0}"
+991,Yes,Yes,{9.0}
+992,Yes,Yes,{0.0}
+993,Yes,Yes,{6.0}
+994,Yes,Yes,{5.0}
+995,Yes,Yes,{5.0}
+996,Do not know,Do not know,"{1.0, 3.0, 9.0}"
+997,Do not know,Do not know,"{1.0, 3.0, 4.0, 5.0, 6.0, 9.0}"
+998,Do not know,Do not know,"{1.0, 2.0, 7.0}"
+999,Yes,Yes,{4.0}
+1000,Do not know,Do not know,"{9.0, 4.0, 5.0}"
+1001,Do not know,Do not know,"{1.0, 2.0}"
+1002,Yes,Yes,{6.0}
+1003,Yes,Yes,{6.0}
+1004,Yes,Yes,{3.0}
+1005,Yes,Yes,{5.0}
+1006,Yes,Yes,{1.0}
+1007,Yes,Yes,{8.0}
+1008,Yes,Yes,{0.0}
+1009,Do not know,Do not know,"{1.0, 2.0}"
+1010,Do not know,Do not know,"{1.0, 2.0}"
+1011,Do not know,Do not know,"{1.0, 9.0}"
+1012,Yes,Yes,{9.0}
+1013,Do not know,Do not know,"{1.0, 3.0}"
+1014,Yes,Yes,{3.0}
+1015,Do not know,Do not know,"{1.0, 3.0, 5.0}"
+1016,Yes,Yes,{0.0}
+1017,Yes,Yes,{1.0}
+1018,Do not know,Do not know,"{1.0, 2.0}"
+1019,Yes,Yes,{0.0}
+1020,Yes,Yes,{5.0}
+1021,Yes,Yes,{0.0}
+1022,Do not know,Do not know,"{0.0, 8.0}"
+1023,Yes,Yes,{5.0}
+1024,Yes,Yes,{4.0}
+1025,Do not know,Do not know,"{1.0, 3.0}"
+1026,Yes,Yes,{7.0}
+1027,Yes,Yes,{5.0}
+1028,Yes,Yes,{5.0}
+1029,Do not know,Do not know,"{1.0, 2.0, 3.0, 7.0, 9.0}"
+1030,Do not know,Do not know,"{1.0, 3.0}"
+1031,Do not know,Do not know,"{1.0, 2.0, 7.0}"
+1032,Yes,Yes,{6.0}
+1033,Do not know,Do not know,"{9.0, 5.0}"
+1034,Do not know,Do not know,"{1.0, 4.0, 9.0, 7.0}"
+1035,Do not know,Do not know,"{8.0, 5.0}"
+1036,Do not know,Do not know,"{1.0, 2.0, 7.0}"
+1037,Do not know,Do not know,"{1.0, 2.0}"
+1038,Yes,Yes,{6.0}
+1039,Do not know,Do not know,"{1.0, 3.0, 7.0}"
+1040,Do not know,Do not know,"{9.0, 5.0}"
+1041,Yes,Yes,{0.0}
+1042,Yes,Yes,{6.0}
+1043,Yes,Yes,{6.0}
+1044,Yes,Yes,{4.0}
+1045,Do not know,Do not know,"{1.0, 2.0}"
+1046,Do not know,Do not know,"{1.0, 2.0}"
+1047,Do not know,Do not know,"{1.0, 3.0, 9.0}"
+1048,Do not know,Do not know,"{9.0, 5.0}"
+1049,Yes,Yes,{4.0}
+1050,Do not know,Do not know,"{1.0, 2.0}"
+1051,Do not know,Do not know,"{9.0, 4.0, 5.0}"
+1052,Yes,Yes,{7.0}
+1053,Do not know,Do not know,"{1.0, 2.0, 7.0}"
+1054,Yes,Yes,{0.0}
+1055,Do not know,Do not know,"{1.0, 2.0}"
+1056,Do not know,Do not know,"{1.0, 3.0, 7.0}"
+1057,Do not know,Do not know,"{9.0, 4.0}"
+1058,Do not know,Do not know,"{3.0, 5.0}"
+1059,Yes,Yes,{5.0}
+1060,Do not know,Do not know,"{1.0, 3.0}"
+1061,Yes,Yes,{7.0}
+1062,Yes,Yes,{3.0}
+1063,Yes,Yes,{0.0}
+1064,Do not know,Do not know,"{4.0, 6.0}"
+1065,Yes,Yes,{0.0}
+1066,Yes,Yes,{0.0}
+1067,Do not know,Do not know,"{1.0, 2.0, 3.0, 7.0, 9.0}"
+1068,Yes,Yes,{4.0}
+1069,Yes,Yes,{8.0}
+1070,Yes,Yes,{7.0}
+1071,Do not know,Do not know,"{1.0, 4.0, 9.0, 7.0}"
+1072,Yes,Yes,{0.0}
+1073,Yes,Yes,{0.0}
+1074,Do not know,Do not know,"{9.0, 4.0}"
+1075,Yes,Yes,{8.0}
+1076,Yes,Yes,{9.0}
+1077,Do not know,Do not know,"{1.0, 2.0}"
+1078,Yes,Yes,{7.0}
+1079,Yes,Yes,{3.0}
+1080,Do not know,Do not know,"{9.0, 5.0}"
+1081,Yes,Yes,{1.0}
+1082,Yes,Yes,{6.0}
+1083,Yes,Yes,{0.0}
+1084,Yes,Yes,{5.0}
+1085,Do not know,Do not know,"{9.0, 3.0, 5.0}"
+1086,Yes,Yes,{8.0}
+1087,Yes,Yes,{7.0}
+1088,Do not know,Do not know,"{9.0, 4.0}"
+1089,Do not know,Do not know,"{9.0, 5.0}"
+1090,Yes,Yes,{7.0}
+1091,Do not know,Do not know,"{1.0, 2.0}"
+1092,Do not know,Do not know,"{8.0, 5.0}"
+1093,Do not know,Do not know,"{9.0, 5.0}"
+1094,Yes,Yes,{6.0}
+1095,Yes,Yes,{4.0}
+1096,Yes,Yes,{7.0}
+1097,Do not know,Do not know,"{1.0, 3.0, 7.0}"
+1098,Do not know,Do not know,"{1.0, 2.0}"
+1099,Do not know,Do not know,"{2.0, 7.0}"
+1100,Do not know,Do not know,"{1.0, 2.0}"
+1101,Do not know,Do not know,"{1.0, 2.0, 7.0}"
+1102,Yes,Yes,{6.0}
+1103,Do not know,Do not know,"{1.0, 2.0}"
+1104,Yes,Yes,{8.0}
+1105,Do not know,Do not know,"{1.0, 3.0}"
+1106,Do not know,Do not know,"{1.0, 5.0, 9.0}"
+1107,Yes,Yes,{0.0}
+1108,Do not know,Do not know,"{1.0, 2.0}"
+1109,Yes,Yes,{1.0}
+1110,Do not know,Do not know,"{9.0, 5.0}"
+1111,Yes,Yes,{5.0}
+1112,Yes,Yes,{0.0}
+1113,Do not know,Do not know,"{9.0, 5.0}"
+1114,Yes,Yes,{1.0}
+1115,Yes,Yes,{6.0}
+1116,Yes,Yes,{8.0}
+1117,Do not know,Do not know,"{1.0, 2.0}"
+1118,Do not know,Do not know,"{1.0, 2.0}"
+1119,Do not know,Do not know,"{9.0, 4.0, 5.0, 6.0}"
+1120,Do not know,Do not know,"{1.0, 7.0}"
+1121,Yes,Yes,{4.0}
+1122,Yes,Yes,{6.0}
+1123,No,Do not know,"{2.0, 3.0, 4.0}"
+1124,Yes,Yes,{8.0}
+1125,Yes,Yes,{7.0}
+1126,Yes,Yes,{9.0}
+1127,Yes,Yes,{2.0}
+1128,Do not know,Do not know,"{1.0, 2.0, 3.0, 7.0}"
+1129,Yes,Yes,{8.0}
+1130,Do not know,Do not know,"{1.0, 3.0, 5.0, 9.0}"
+1131,Do not know,Do not know,"{1.0, 3.0}"
+1132,Yes,Yes,{3.0}
+1133,Do not know,Do not know,"{1.0, 2.0}"
+1134,Yes,Yes,{8.0}
+1135,Yes,Yes,{9.0}
+1136,Do not know,Do not know,"{1.0, 3.0, 5.0}"
+1137,Yes,Yes,{9.0}
+1138,Yes,Yes,{5.0}
+1139,Yes,Yes,{8.0}
+1140,Do not know,Do not know,"{9.0, 4.0}"
+1141,Yes,Yes,{4.0}
+1142,Do not know,Do not know,"{2.0, 7.0}"
+1143,Do not know,Do not know,"{1.0, 3.0}"
+1144,Yes,Yes,{6.0}
+1145,Yes,Yes,{5.0}
+1146,Yes,Yes,{7.0}
+1147,Yes,Yes,{2.0}
+1148,Yes,Yes,{7.0}
+1149,Do not know,Do not know,"{8.0, 5.0}"
+1150,Do not know,Do not know,"{1.0, 3.0, 5.0, 8.0, 9.0}"
+1151,Yes,Yes,{7.0}
+1152,Yes,Yes,{8.0}
+1153,Yes,Yes,{0.0}
+1154,Yes,Yes,{8.0}
+1155,Yes,Yes,{6.0}
+1156,Yes,Yes,{4.0}
+1157,Do not know,Do not know,"{1.0, 3.0, 7.0}"
+1158,Yes,Yes,{6.0}
+1159,Yes,Yes,{0.0}
+1160,Yes,Yes,{4.0}
+1161,Yes,Yes,{4.0}
+1162,Do not know,Do not know,"{1.0, 3.0}"
+1163,Do not know,Do not know,"{1.0, 3.0, 5.0}"
+1164,Yes,Yes,{1.0}
+1165,Yes,Yes,{3.0}
+1166,Do not know,Do not know,"{1.0, 2.0}"
+1167,Do not know,Do not know,"{8.0, 5.0}"
+1168,Yes,Yes,{8.0}
+1169,Yes,Yes,{6.0}
+1170,Yes,Yes,{5.0}
+1171,Yes,Yes,{5.0}
+1172,Do not know,Do not know,"{1.0, 2.0}"
+1173,Yes,Yes,{4.0}
+1174,Yes,Yes,{1.0}
+1175,Yes,Yes,{0.0}
+1176,Yes,Yes,{9.0}
+1177,Yes,Yes,{6.0}
+1178,Do not know,Do not know,"{1.0, 2.0}"
+1179,Do not know,Do not know,"{1.0, 2.0, 7.0}"
+1180,Do not know,Do not know,"{1.0, 2.0}"
+1181,Do not know,Do not know,"{1.0, 2.0}"
+1182,Do not know,Do not know,"{1.0, 2.0}"
+1183,Do not know,Do not know,"{1.0, 2.0, 7.0}"
+1184,Yes,Yes,{7.0}
+1185,Yes,Yes,{6.0}
+1186,Do not know,Do not know,"{9.0, 4.0, 5.0}"
+1187,Yes,Yes,{0.0}
+1188,Do not know,Do not know,"{1.0, 2.0}"
+1189,Do not know,Do not know,"{1.0, 3.0}"
+1190,Do not know,Do not know,"{1.0, 2.0}"
+1191,Yes,Yes,{6.0}
+1192,Do not know,Do not know,"{1.0, 2.0, 3.0, 7.0}"
+1193,Yes,Yes,{3.0}
+1194,Yes,Yes,{7.0}
+1195,Do not know,Do not know,"{1.0, 2.0}"
+1196,Yes,Yes,{8.0}
+1197,Yes,Yes,{3.0}
+1198,Yes,Yes,{4.0}
+1199,Yes,Yes,{8.0}
+1200,Yes,Yes,{6.0}
+1201,Yes,Yes,{5.0}
+1202,Do not know,Do not know,"{2.0, 7.0}"
+1203,Do not know,Do not know,"{1.0, 2.0}"
+1204,Do not know,Do not know,"{1.0, 3.0, 7.0}"
+1205,Yes,Yes,{4.0}
+1206,Yes,Yes,{8.0}
+1207,Do not know,Do not know,"{9.0, 3.0, 5.0}"
+1208,Yes,Yes,{7.0}
+1209,Do not know,Do not know,"{1.0, 2.0}"
+1210,Do not know,Do not know,"{0.0, 8.0, 6.0}"
+1211,Yes,Yes,{5.0}
+1212,Yes,Yes,{4.0}
+1213,Yes,Yes,{6.0}
+1214,Do not know,Do not know,"{1.0, 2.0}"
+1215,Do not know,Do not know,"{9.0, 4.0}"
+1216,Yes,Yes,{9.0}
+1217,Do not know,Do not know,"{1.0, 2.0}"
+1218,Yes,Yes,{4.0}
+1219,Yes,Yes,{4.0}
+1220,Yes,Yes,{8.0}
+1221,Do not know,Do not know,"{1.0, 2.0}"
+1222,Yes,Yes,{7.0}
+1223,Yes,Yes,{0.0}
+1224,Yes,Yes,{7.0}
+1225,Yes,Yes,{6.0}
+1226,Do not know,Do not know,"{1.0, 2.0, 7.0}"
+1227,Yes,Yes,{3.0}
+1228,Do not know,Do not know,"{4.0, 6.0}"
+1229,Yes,Yes,{1.0}
+1230,Yes,Yes,{3.0}
+1231,Yes,Yes,{3.0}
+1232,Yes,Yes,{4.0}
+1233,Do not know,Do not know,"{1.0, 2.0}"
+1234,Yes,Yes,{0.0}
+1235,Do not know,Do not know,"{9.0, 5.0}"
+1236,Do not know,Do not know,"{1.0, 2.0}"
+1237,Yes,Yes,{5.0}
+1238,Yes,Yes,{6.0}
+1239,Do not know,Do not know,"{9.0, 3.0, 5.0}"
+1240,Do not know,Do not know,"{1.0, 2.0}"
+1241,Do not know,Do not know,"{1.0, 2.0}"
+1242,Do not know,Do not know,"{1.0, 2.0}"
+1243,Do not know,Do not know,"{1.0, 2.0, 7.0}"
+1244,Do not know,Do not know,"{8.0, 5.0}"
+1245,Yes,Yes,{0.0}
+1246,Do not know,Do not know,"{1.0, 2.0}"
+1247,Do not know,Do not know,"{8.0, 5.0, 7.0}"
+1248,Yes,Yes,{0.0}
+1249,Yes,Yes,{0.0}
+1250,Yes,Yes,{9.0}
+1251,Yes,Yes,{6.0}
+1252,Do not know,Do not know,"{1.0, 2.0}"
+1253,Yes,Yes,{0.0}
+1254,Yes,Yes,{6.0}
+1255,Do not know,Do not know,"{1.0, 2.0, 7.0}"
+1256,Yes,Yes,{7.0}
+1257,Yes,Yes,{2.0}
+1258,Do not know,Do not know,"{1.0, 3.0, 5.0, 9.0}"
+1259,Do not know,Do not know,"{1.0, 2.0}"
+1260,Do not know,Do not know,"{1.0, 3.0, 5.0, 9.0}"
+1261,Yes,Yes,{7.0}
+1262,Do not know,Do not know,"{1.0, 2.0, 7.0}"
+1263,Do not know,Do not know,"{9.0, 4.0}"
+1264,Yes,Yes,{6.0}
+1265,Do not know,Do not know,"{1.0, 3.0, 5.0, 9.0}"
+1266,Do not know,Do not know,"{1.0, 2.0}"
+1267,Yes,Yes,{3.0}
+1268,Yes,Yes,{3.0}
+1269,Yes,Yes,{5.0}
+1270,Do not know,Do not know,"{1.0, 2.0}"
+1271,Yes,Yes,{8.0}
+1272,Do not know,Do not know,"{9.0, 5.0}"
+1273,Yes,Yes,{0.0}
+1274,Do not know,Do not know,"{1.0, 5.0, 9.0}"
+1275,Yes,Yes,{3.0}
+1276,Yes,Yes,{7.0}
+1277,Yes,Yes,{1.0}
+1278,Do not know,Do not know,"{3.0, 5.0}"
+1279,Do not know,Do not know,"{3.0, 5.0}"
+1280,Yes,Yes,{3.0}
+1281,Yes,Yes,{7.0}
+1282,Yes,Yes,{3.0}
+1283,Yes,Yes,{0.0}
+1284,Yes,Yes,{6.0}
+1285,Do not know,Do not know,"{1.0, 2.0}"
+1286,Yes,Yes,{0.0}
+1287,Yes,Yes,{6.0}
+1288,Yes,Yes,{0.0}
+1289,Yes,Yes,{7.0}
+1290,Yes,Yes,{6.0}
+1291,Yes,Yes,{3.0}
+1292,Yes,Yes,{1.0}
+1293,Yes,Yes,{8.0}
+1294,Do not know,Do not know,"{1.0, 2.0}"
+1295,Yes,Yes,{4.0}
+1296,Yes,Yes,{8.0}
+1297,Yes,Yes,{7.0}
+1298,Yes,Yes,{8.0}
+1299,Yes,Yes,{7.0}
+1300,Do not know,Do not know,"{1.0, 5.0, 9.0}"
+1301,Yes,Yes,{6.0}
+1302,Yes,Yes,{7.0}
+1303,Do not know,Do not know,"{1.0, 2.0, 7.0}"
+1304,Do not know,Do not know,"{1.0, 2.0, 3.0, 4.0, 7.0, 9.0}"
+1305,Yes,Yes,{6.0}
+1306,Yes,Yes,{7.0}
+1307,Yes,Yes,{9.0}
+1308,Yes,Yes,{8.0}
+1309,Do not know,Do not know,"{1.0, 3.0, 5.0}"
+1310,Yes,Yes,{0.0}
+1311,Do not know,Do not know,"{1.0, 2.0, 7.0}"
+1312,Yes,Yes,{4.0}
+1313,Do not know,Do not know,"{1.0, 3.0, 9.0}"
+1314,Yes,Yes,{8.0}
+1315,Do not know,Do not know,"{1.0, 7.0}"
+1316,Yes,Yes,{8.0}
+1317,No,Do not know,"{1.0, 2.0, 5.0, 6.0, 7.0, 8.0, 9.0}"
+1318,Yes,Yes,{7.0}
+1319,Yes,Yes,{5.0}
+1320,Do not know,Do not know,"{8.0, 5.0}"
+1321,Yes,Yes,{0.0}
+1322,Do not know,Do not know,"{9.0, 3.0, 5.0}"
+1323,Do not know,Do not know,"{1.0, 2.0}"
+1324,Yes,Yes,{0.0}
+1325,Yes,Yes,{5.0}
+1326,Yes,Yes,{3.0}
+1327,Do not know,Do not know,"{1.0, 2.0}"
+1328,Do not know,Do not know,"{1.0, 5.0}"
+1329,Do not know,Do not know,"{1.0, 2.0, 7.0}"
+1330,Do not know,Do not know,"{1.0, 7.0}"
+1331,Yes,Yes,{6.0}
+1332,Yes,Yes,{5.0}
+1333,Yes,Yes,{0.0}
+1334,Do not know,Do not know,"{9.0, 3.0}"
+1335,Yes,Yes,{4.0}
+1336,Do not know,Do not know,"{1.0, 2.0}"
+1337,Yes,Yes,{7.0}
+1338,Yes,Yes,{5.0}
+1339,Do not know,Do not know,"{9.0, 5.0}"
+1340,Yes,Yes,{5.0}
+1341,Do not know,Do not know,"{1.0, 2.0}"
+1342,Do not know,Do not know,"{1.0, 2.0}"
+1343,Do not know,Do not know,"{1.0, 3.0}"
+1344,Yes,Yes,{4.0}
+1345,Yes,Yes,{4.0}
+1346,Do not know,Do not know,"{1.0, 2.0, 3.0, 4.0, 7.0, 9.0}"
+1347,Do not know,Do not know,"{4.0, 6.0}"
+1348,Yes,Yes,{8.0}
+1349,Yes,Yes,{6.0}
+1350,Do not know,Do not know,"{8.0, 6.0, 7.0}"
+1351,Do not know,Do not know,"{9.0, 5.0}"
+1352,Do not know,Do not know,"{9.0, 5.0}"
+1353,Do not know,Do not know,"{1.0, 3.0, 5.0, 9.0}"
+1354,Do not know,Do not know,"{9.0, 4.0, 5.0}"
+1355,Yes,Yes,{7.0}
+1356,Do not know,Do not know,"{1.0, 2.0}"
+1357,Yes,Yes,{8.0}
+1358,Do not know,Do not know,"{9.0, 4.0}"
+1359,Do not know,Do not know,"{9.0, 4.0, 5.0}"
+1360,Yes,Yes,{0.0}
+1361,Do not know,Do not know,"{1.0, 2.0}"
+1362,Yes,Yes,{0.0}
+1363,Yes,Yes,{5.0}
+1364,Do not know,Do not know,"{1.0, 2.0}"
+1365,Do not know,Do not know,"{1.0, 4.0, 9.0, 7.0}"
+1366,Do not know,Do not know,"{4.0, 7.0}"
+1367,Do not know,Do not know,"{1.0, 2.0}"
+1368,Yes,Yes,{3.0}
+1369,Yes,Yes,{0.0}
+1370,Do not know,Do not know,"{9.0, 4.0}"
+1371,Yes,Yes,{7.0}
+1372,Do not know,Do not know,"{1.0, 3.0}"
+1373,Yes,Yes,{1.0}
+1374,Yes,Yes,{0.0}
+1375,Do not know,Do not know,"{1.0, 2.0, 3.0, 4.0, 7.0}"
+1376,Yes,Yes,{7.0}
+1377,Yes,Yes,{9.0}
+1378,Do not know,Do not know,"{9.0, 4.0}"
+1379,Yes,Yes,{6.0}
+1380,Do not know,Do not know,"{8.0, 7.0}"
+1381,Do not know,Do not know,"{0.0, 6.0}"
+1382,Yes,Yes,{7.0}
+1383,Do not know,Do not know,"{0.0, 8.0}"
+1384,Yes,Yes,{1.0}
+1385,Do not know,Do not know,"{1.0, 2.0, 7.0}"
+1386,Yes,Yes,{0.0}
+1387,Yes,Yes,{4.0}
+1388,Do not know,Do not know,"{9.0, 5.0}"
+1389,Yes,Yes,{7.0}
+1390,Do not know,Do not know,"{1.0, 3.0, 5.0, 8.0, 9.0}"
+1391,Yes,Yes,{7.0}
+1392,Yes,Yes,{0.0}
+1393,Yes,Yes,{5.0}
+1394,Yes,Yes,{8.0}
+1395,Yes,Yes,{6.0}
+1396,Do not know,Do not know,"{1.0, 2.0}"
+1397,Yes,Yes,{8.0}
+1398,Yes,Yes,{4.0}
+1399,Do not know,Do not know,"{2.0, 7.0}"
+1400,Do not know,Do not know,"{1.0, 2.0, 7.0}"
+1401,Yes,Yes,{4.0}
+1402,Yes,Yes,{3.0}
+1403,Yes,Yes,{0.0}
+1404,Do not know,Do not know,"{1.0, 2.0}"
+1405,Do not know,Do not know,"{1.0, 2.0}"
+1406,Yes,Yes,{8.0}
+1407,Yes,Yes,{1.0}
+1408,Yes,Yes,{3.0}
+1409,Yes,Yes,{8.0}
+1410,Do not know,Do not know,"{9.0, 5.0}"
+1411,Do not know,Do not know,"{3.0, 5.0, 6.0}"
+1412,Yes,Yes,{8.0}
+1413,Do not know,Do not know,"{1.0, 2.0}"
+1414,Do not know,Do not know,"{9.0, 5.0}"
+1415,Do not know,Do not know,"{1.0, 2.0}"
+1416,Yes,Yes,{5.0}
+1417,Yes,Yes,{4.0}
+1418,Do not know,Do not know,"{1.0, 3.0, 4.0, 7.0, 9.0}"
+1419,Yes,Yes,{3.0}
+1420,Yes,Yes,{8.0}
+1421,Do not know,Do not know,"{0.0, 6.0}"
+1422,Do not know,Do not know,"{3.0, 5.0}"
+1423,Yes,Yes,{6.0}
+1424,Yes,Yes,{0.0}
+1425,Yes,Yes,{1.0}
+1426,Yes,Yes,{4.0}
+1427,Yes,Yes,{7.0}
+1428,Do not know,Do not know,"{1.0, 2.0}"
+1429,Yes,Yes,{5.0}
+1430,Do not know,Do not know,"{1.0, 3.0, 5.0, 9.0}"
+1431,Do not know,Do not know,"{1.0, 2.0}"
+1432,Yes,Yes,{0.0}
+1433,Yes,Yes,{8.0}
+1434,Yes,Yes,{3.0}
+1435,Yes,Yes,{0.0}
+1436,Yes,Yes,{4.0}
+1437,Yes,Yes,{0.0}
+1438,Do not know,Do not know,"{1.0, 7.0}"
+1439,Yes,Yes,{8.0}
+1440,Yes,Yes,{6.0}
+1441,Yes,Yes,{8.0}
+1442,Do not know,Do not know,"{9.0, 3.0, 5.0}"
+1443,Do not know,Do not know,"{1.0, 2.0, 7.0}"
+1444,Do not know,Do not know,"{3.0, 5.0}"
+1445,Yes,Yes,{0.0}
+1446,Yes,Yes,{0.0}
+1447,Yes,Yes,{0.0}
+1448,Yes,Yes,{1.0}
+1449,Yes,Yes,{9.0}
+1450,Do not know,Do not know,"{9.0, 5.0}"
+1451,Do not know,Do not know,"{1.0, 2.0, 7.0}"
+1452,Do not know,Do not know,"{9.0, 4.0}"
+1453,Yes,Yes,{7.0}
+1454,Yes,Yes,{8.0}
+1455,Do not know,Do not know,"{1.0, 3.0}"
+1456,Do not know,Do not know,"{1.0, 3.0, 7.0}"
+1457,Yes,Yes,{0.0}
+1458,Yes,Yes,{0.0}
+1459,Do not know,Do not know,"{1.0, 2.0}"
+1460,Yes,Yes,{4.0}
+1461,Yes,Yes,{9.0}
+1462,Yes,Yes,{9.0}
+1463,Yes,Yes,{3.0}
+1464,Yes,Yes,{1.0}
+1465,Yes,Yes,{8.0}
+1466,Do not know,Do not know,"{1.0, 2.0, 3.0, 5.0}"
+1467,Yes,Yes,{0.0}
+1468,Do not know,Do not know,"{1.0, 3.0, 5.0, 9.0}"
+1469,Yes,Yes,{6.0}
+1470,Do not know,Do not know,"{1.0, 2.0}"
+1471,Yes,Yes,{2.0}
+1472,Do not know,Do not know,"{1.0, 2.0}"
+1473,Yes,Yes,{7.0}
+1474,Do not know,Do not know,"{1.0, 2.0, 7.0}"
+1475,Do not know,Do not know,"{1.0, 2.0}"
+1476,Yes,Yes,{9.0}
+1477,Yes,Yes,{9.0}
+1478,Yes,Yes,{8.0}
+1479,Do not know,Do not know,"{9.0, 4.0}"
+1480,Yes,Yes,{6.0}
+1481,Yes,Yes,{0.0}
+1482,Yes,Yes,{4.0}
+1483,Yes,Yes,{9.0}
+1484,Yes,Yes,{1.0}
+1485,Yes,Yes,{4.0}
+1486,Yes,Yes,{4.0}
+1487,Do not know,Do not know,"{9.0, 5.0}"
+1488,Yes,Yes,{8.0}
+1489,Do not know,Do not know,"{1.0, 2.0}"
+1490,Do not know,Do not know,"{1.0, 2.0}"
+1491,Yes,Yes,{6.0}
+1492,Yes,Yes,{7.0}
+1493,Yes,Yes,{8.0}
+1494,Do not know,Do not know,"{1.0, 2.0}"
+1495,Yes,Yes,{0.0}
+1496,Yes,Yes,{0.0}
+1497,Yes,Yes,{0.0}
+1498,Do not know,Do not know,"{1.0, 3.0, 5.0}"
+1499,Do not know,Do not know,"{1.0, 2.0}"
+1500,Do not know,Do not know,"{9.0, 3.0, 5.0}"
+1501,Yes,Yes,{6.0}
+1502,Yes,Yes,{8.0}
+1503,Do not know,Do not know,"{8.0, 7.0}"
+1504,Do not know,Do not know,"{9.0, 4.0, 5.0}"
+1505,Yes,Yes,{7.0}
+1506,Do not know,Do not know,"{1.0, 3.0, 7.0}"
+1507,Yes,Yes,{9.0}
+1508,Yes,Yes,{7.0}
+1509,Yes,Yes,{4.0}
+1510,Do not know,Do not know,"{1.0, 2.0}"
+1511,Do not know,Do not know,"{8.0, 5.0}"
+1512,Yes,Yes,{4.0}
+1513,Yes,Yes,{7.0}
+1514,Yes,Yes,{4.0}
+1515,Yes,Yes,{9.0}
+1516,Do not know,Do not know,"{9.0, 5.0}"
+1517,Yes,Yes,{3.0}
+1518,Yes,Yes,{0.0}
+1519,Do not know,Do not know,"{2.0, 7.0}"
+1520,Yes,Yes,{7.0}
+1521,Yes,Yes,{8.0}
+1522,Do not know,Do not know,"{1.0, 2.0, 7.0}"
+1523,Do not know,Do not know,"{1.0, 3.0, 5.0, 9.0}"
+1524,Do not know,Do not know,"{1.0, 2.0}"
+1525,Yes,Yes,{0.0}
+1526,Do not know,Do not know,"{9.0, 3.0, 5.0}"
+1527,Yes,Yes,{5.0}
+1528,Do not know,Do not know,"{8.0, 5.0}"
+1529,Do not know,Do not know,"{1.0, 2.0}"
+1530,Yes,Yes,{4.0}
+1531,Yes,Yes,{7.0}
+1532,Yes,Yes,{3.0}
+1533,Yes,Yes,{6.0}
+1534,Yes,Yes,{9.0}
+1535,Do not know,Do not know,"{1.0, 2.0}"
+1536,Yes,Yes,{6.0}
+1537,Yes,Yes,{3.0}
+1538,Yes,Yes,{6.0}
+1539,Do not know,Do not know,"{1.0, 2.0, 7.0}"
+1540,Do not know,Do not know,"{9.0, 3.0, 5.0}"
+1541,Do not know,Do not know,"{1.0, 3.0, 5.0, 9.0}"
+1542,Yes,Yes,{9.0}
+1543,Yes,Yes,{9.0}
+1544,Yes,Yes,{9.0}
+1545,Yes,Yes,{5.0}
+1546,Yes,Yes,{7.0}
+1547,Do not know,Do not know,"{1.0, 2.0, 7.0}"
+1548,Yes,Yes,{7.0}
+1549,Yes,Yes,{6.0}
+1550,Yes,Yes,{9.0}
+1551,Yes,Yes,{4.0}
+1552,Yes,Yes,{0.0}
+1553,Yes,Yes,{4.0}
+1554,Yes,Yes,{3.0}
+1555,Yes,Yes,{8.0}
+1556,Do not know,Do not know,"{1.0, 2.0}"
+1557,Do not know,Do not know,"{9.0, 5.0}"
+1558,Do not know,Do not know,"{9.0, 5.0}"
+1559,Do not know,Do not know,"{9.0, 5.0}"
+1560,Yes,Yes,{3.0}
+1561,Yes,Yes,{8.0}
+1562,Yes,Yes,{3.0}
+1563,Do not know,Do not know,"{1.0, 2.0}"
+1564,Yes,Yes,{6.0}
+1565,Do not know,Do not know,"{3.0, 5.0}"
+1566,Yes,Yes,{6.0}
+1567,Do not know,Do not know,"{1.0, 3.0, 4.0, 7.0, 9.0}"
+1568,Do not know,Do not know,"{5.0, 7.0}"
+1569,Yes,Yes,{3.0}
+1570,Do not know,Do not know,"{1.0, 2.0, 7.0}"
+1571,Yes,Yes,{4.0}
+1572,Yes,Yes,{4.0}
+1573,Yes,Yes,{5.0}
+1574,Yes,Yes,{1.0}
+1575,Do not know,Do not know,"{1.0, 2.0, 7.0}"
+1576,Do not know,Do not know,"{9.0, 4.0}"
+1577,Yes,Yes,{7.0}
+1578,Yes,Yes,{3.0}
+1579,Yes,Yes,{5.0}
+1580,Do not know,Do not know,"{9.0, 5.0}"
+1581,Do not know,Do not know,"{9.0, 5.0}"
+1582,Do not know,Do not know,"{4.0, 6.0}"
+1583,Yes,Yes,{6.0}
+1584,Yes,Yes,{9.0}
+1585,Do not know,Do not know,"{1.0, 2.0}"
+1586,Yes,Yes,{8.0}
+1587,Yes,Yes,{5.0}
+1588,Do not know,Do not know,"{9.0, 3.0, 5.0}"
+1589,Do not know,Do not know,"{9.0, 3.0, 5.0}"
+1590,Yes,Yes,{0.0}
+1591,Do not know,Do not know,"{1.0, 2.0}"
+1592,Do not know,Do not know,"{1.0, 3.0, 5.0}"
+1593,Do not know,Do not know,"{1.0, 3.0, 5.0}"
+1594,Yes,Yes,{1.0}
+1595,Do not know,Do not know,"{1.0, 2.0}"
+1596,Yes,Yes,{0.0}
+1597,Do not know,Do not know,"{1.0, 2.0}"
+1598,Do not know,Do not know,"{9.0, 3.0, 5.0}"
+1599,Yes,Yes,{8.0}
+1600,Yes,Yes,{4.0}
+1601,Do not know,Do not know,"{1.0, 3.0, 5.0}"
+1602,Yes,Yes,{0.0}
+1603,Yes,Yes,{5.0}
+1604,Yes,Yes,{0.0}
+1605,Yes,Yes,{1.0}
+1606,Yes,Yes,{4.0}
+1607,Do not know,Do not know,"{1.0, 2.0}"
+1608,No,Do not know,"{1.0, 3.0, 7.0}"
+1609,Yes,Yes,{3.0}
+1610,Do not know,Do not know,"{1.0, 7.0}"
+1611,Yes,Yes,{6.0}
+1612,Yes,Yes,{4.0}
+1613,Do not know,Do not know,"{1.0, 2.0}"
+1614,Do not know,Do not know,"{1.0, 2.0}"
+1615,Yes,Yes,{6.0}
+1616,Yes,Yes,{3.0}
+1617,Do not know,Do not know,"{9.0, 3.0, 5.0}"
+1618,Yes,Yes,{5.0}
+1619,Yes,Yes,{4.0}
+1620,Do not know,Do not know,"{1.0, 3.0, 5.0}"
+1621,Do not know,Do not know,"{9.0, 5.0}"
+1622,Yes,Yes,{4.0}
+1623,Yes,Yes,{6.0}
+1624,Do not know,Do not know,"{9.0, 4.0}"
+1625,Yes,Yes,{6.0}
+1626,Yes,Yes,{5.0}
+1627,Yes,Yes,{8.0}
+1628,Do not know,Do not know,"{1.0, 2.0}"
+1629,Yes,Yes,{2.0}
+1630,Yes,Yes,{0.0}
+1631,Yes,Yes,{0.0}
+1632,Do not know,Do not know,"{8.0, 7.0}"
+1633,Do not know,Do not know,"{1.0, 2.0}"
+1634,Do not know,Do not know,"{1.0, 3.0, 7.0}"
+1635,Yes,Yes,{6.0}
+1636,Do not know,Do not know,"{1.0, 2.0}"
+1637,Do not know,Do not know,"{3.0, 5.0}"
+1638,Do not know,Do not know,"{1.0, 3.0, 5.0, 9.0}"
+1639,Yes,Yes,{8.0}
+1640,Do not know,Do not know,"{1.0, 2.0}"
+1641,Yes,Yes,{6.0}
+1642,Do not know,Do not know,"{2.0, 7.0}"
+1643,Do not know,Do not know,"{1.0, 4.0, 7.0}"
+1644,Yes,Yes,{3.0}
+1645,Yes,Yes,{4.0}
+1646,Do not know,Do not know,"{1.0, 4.0, 9.0, 7.0}"
+1647,Do not know,Do not know,"{8.0, 7.0}"
+1648,Yes,Yes,{6.0}
+1649,Do not know,Do not know,"{1.0, 2.0, 7.0}"
+1650,Yes,Yes,{7.0}
+1651,Yes,Yes,{0.0}
+1652,Do not know,Do not know,"{1.0, 2.0, 7.0}"
+1653,Do not know,Do not know,"{0.0, 6.0}"
+1654,Yes,Yes,{5.0}
+1655,Yes,Yes,{1.0}
+1656,Yes,Yes,{6.0}
+1657,Yes,Yes,{8.0}
+1658,Yes,Yes,{3.0}
+1659,Yes,Yes,{1.0}
+1660,Yes,Yes,{5.0}
+1661,Do not know,Do not know,"{1.0, 3.0, 5.0}"
+1662,Do not know,Do not know,"{1.0, 3.0}"
+1663,Do not know,Do not know,"{1.0, 2.0}"
+1664,Yes,Yes,{6.0}
+1665,Yes,Yes,{6.0}
+1666,Yes,Yes,{9.0}
+1667,Do not know,Do not know,"{1.0, 2.0, 3.0, 7.0, 8.0}"
+1668,Yes,Yes,{1.0}
+1669,Yes,Yes,{6.0}
+1670,Yes,Yes,{0.0}
+1671,Do not know,Do not know,"{1.0, 2.0}"
+1672,Yes,Yes,{4.0}
+1673,Yes,Yes,{6.0}
+1674,Do not know,Do not know,"{1.0, 2.0}"
+1675,Yes,Yes,{7.0}
+1676,Yes,Yes,{4.0}
+1677,Yes,Yes,{5.0}
+1678,Do not know,Do not know,"{1.0, 2.0}"
+1679,Do not know,Do not know,"{9.0, 4.0, 5.0, 6.0}"
+1680,Do not know,Do not know,"{9.0, 5.0}"
+1681,Yes,Yes,{4.0}
+1682,Yes,Yes,{7.0}
+1683,Yes,Yes,{7.0}
+1684,Yes,Yes,{9.0}
+1685,Yes,Yes,{0.0}
+1686,Yes,Yes,{9.0}
+1687,Yes,Yes,{6.0}
+1688,Yes,Yes,{6.0}
+1689,Yes,Yes,{8.0}
+1690,Yes,Yes,{7.0}
+1691,Yes,Yes,{8.0}
+1692,Do not know,Do not know,"{8.0, 5.0}"
+1693,Yes,Yes,{6.0}
+1694,Yes,Yes,{4.0}
+1695,Do not know,Do not know,"{1.0, 2.0}"
+1696,Yes,Yes,{4.0}
+1697,Yes,Yes,{9.0}
+1698,Yes,Yes,{8.0}
+1699,Do not know,Do not know,"{1.0, 2.0}"
+1700,Do not know,Do not know,"{9.0, 4.0}"
+1701,Do not know,Do not know,"{1.0, 3.0, 5.0}"
+1702,Yes,Yes,{0.0}
+1703,Do not know,Do not know,"{9.0, 3.0, 5.0}"
+1704,Do not know,Do not know,"{1.0, 3.0}"
+1705,Do not know,Do not know,"{1.0, 2.0}"
+1706,Do not know,Do not know,"{1.0, 2.0}"
+1707,Yes,Yes,{0.0}
+1708,Yes,Yes,{1.0}
+1709,Do not know,Do not know,"{1.0, 2.0}"
+1710,Do not know,Do not know,"{1.0, 7.0}"
+1711,Do not know,Do not know,"{1.0, 2.0}"
+1712,Yes,Yes,{1.0}
+1713,Do not know,Do not know,"{1.0, 2.0, 7.0}"
+1714,Do not know,Do not know,"{1.0, 4.0, 9.0, 7.0}"
+1715,Yes,Yes,{4.0}
+1716,Yes,Yes,{4.0}
+1717,Yes,Yes,{0.0}
+1718,Yes,Yes,{3.0}
+1719,Yes,Yes,{8.0}
+1720,Yes,Yes,{2.0}
+1721,Yes,Yes,{7.0}
+1722,Do not know,Do not know,"{1.0, 2.0, 7.0}"
+1723,Yes,Yes,{1.0}
+1724,Yes,Yes,{8.0}
+1725,Do not know,Do not know,"{1.0, 3.0, 5.0, 9.0}"
+1726,Yes,Yes,{4.0}
+1727,Do not know,Do not know,"{1.0, 2.0}"
+1728,Yes,Yes,{1.0}
+1729,Yes,Yes,{6.0}
+1730,Yes,Yes,{8.0}
+1731,Yes,Yes,{0.0}
+1732,Do not know,Do not know,"{3.0, 5.0}"
+1733,Do not know,Do not know,"{1.0, 2.0}"
+1734,Do not know,Do not know,"{9.0, 5.0}"
+1735,Do not know,Do not know,"{1.0, 4.0, 7.0}"
+1736,Yes,Yes,{6.0}
+1737,Yes,Yes,{5.0}
+1738,Yes,Yes,{5.0}
+1739,Do not know,Do not know,"{1.0, 2.0}"
+1740,Do not know,Do not know,"{1.0, 2.0}"
+1741,Yes,Yes,{4.0}
+1742,Yes,Yes,{6.0}
+1743,Yes,Yes,{9.0}
+1744,Do not know,Do not know,"{0.0, 6.0}"
+1745,Yes,Yes,{0.0}
+1746,Do not know,Do not know,"{1.0, 7.0}"
+1747,Yes,Yes,{4.0}
+1748,Yes,Yes,{4.0}
+1749,Yes,Yes,{8.0}
+1750,Yes,Yes,{9.0}
+1751,Do not know,Do not know,"{1.0, 3.0}"
+1752,Do not know,Do not know,"{1.0, 2.0, 7.0}"
+1753,Yes,Yes,{0.0}
+1754,Yes,Yes,{8.0}
+1755,Yes,Yes,{4.0}
+1756,Yes,Yes,{3.0}
+1757,Yes,Yes,{6.0}
+1758,Yes,Yes,{4.0}
+1759,Yes,Yes,{6.0}
+1760,Yes,Yes,{4.0}
+1761,Do not know,Do not know,"{9.0, 4.0}"
+1762,Do not know,Do not know,"{9.0, 3.0}"
+1763,Do not know,Do not know,"{3.0, 5.0}"
+1764,Do not know,Do not know,"{1.0, 2.0, 7.0}"
+1765,Do not know,Do not know,"{1.0, 3.0, 5.0}"
+1766,Do not know,Do not know,"{1.0, 3.0, 5.0, 9.0}"
+1767,Yes,Yes,{0.0}
+1768,Yes,Yes,{7.0}
+1769,Yes,Yes,{7.0}
+1770,Yes,Yes,{5.0}
+1771,Do not know,Do not know,"{9.0, 3.0, 5.0}"
+1772,Do not know,Do not know,"{1.0, 7.0}"
+1773,Yes,Yes,{8.0}
+1774,Do not know,Do not know,"{1.0, 2.0}"
+1775,Do not know,Do not know,"{1.0, 2.0}"
+1776,Yes,Yes,{0.0}
+1777,Yes,Yes,{8.0}
+1778,Yes,Yes,{1.0}
+1779,Yes,Yes,{9.0}
+1780,Do not know,Do not know,"{1.0, 2.0}"
+1781,Yes,Yes,{4.0}
+1782,Yes,Yes,{5.0}
+1783,Yes,Yes,{0.0}
+1784,Yes,Yes,{6.0}
+1785,Do not know,Do not know,"{8.0, 7.0}"
+1786,Yes,Yes,{5.0}
+1787,Do not know,Do not know,"{9.0, 4.0}"
+1788,Do not know,Do not know,"{1.0, 3.0, 5.0}"
+1789,Yes,Yes,{9.0}
+1790,Yes,Yes,{8.0}
+1791,Yes,Yes,{1.0}
+1792,Do not know,Do not know,"{1.0, 3.0, 5.0}"
+1793,Do not know,Do not know,"{1.0, 2.0}"
+1794,Yes,Yes,{6.0}
+1795,Yes,Yes,{7.0}
+1796,Yes,Yes,{6.0}
+1797,Do not know,Do not know,"{1.0, 3.0, 7.0}"
+1798,Do not know,Do not know,"{2.0, 7.0}"
+1799,Yes,Yes,{4.0}
+1800,Yes,Yes,{0.0}
+1801,Yes,Yes,{6.0}
+1802,Yes,Yes,{6.0}
+1803,Yes,Yes,{5.0}
+1804,Do not know,Do not know,"{1.0, 7.0}"
+1805,Yes,Yes,{4.0}
+1806,Do not know,Do not know,"{8.0, 7.0}"
+1807,Yes,Yes,{5.0}
+1808,Do not know,Do not know,"{1.0, 2.0, 7.0}"
+1809,Yes,Yes,{1.0}
+1810,Yes,Yes,{8.0}
+1811,Yes,Yes,{6.0}
+1812,Yes,Yes,{0.0}
+1813,Yes,Yes,{4.0}
+1814,Do not know,Do not know,"{1.0, 2.0, 7.0}"
+1815,Yes,Yes,{3.0}
+1816,Do not know,Do not know,"{1.0, 5.0}"
+1817,Do not know,Do not know,"{1.0, 2.0}"
+1818,Do not know,Do not know,"{1.0, 2.0, 7.0}"
+1819,Yes,Yes,{4.0}
+1820,Do not know,Do not know,"{9.0, 5.0}"
+1821,Yes,Yes,{0.0}
+1822,Yes,Yes,{8.0}
+1823,Yes,Yes,{0.0}
+1824,Yes,Yes,{6.0}
+1825,Do not know,Do not know,"{1.0, 2.0, 7.0}"
+1826,Yes,Yes,{0.0}
+1827,Do not know,Do not know,"{1.0, 2.0}"
+1828,Yes,Yes,{5.0}
+1829,Yes,Yes,{5.0}
+1830,Yes,Yes,{4.0}
+1831,Yes,Yes,{8.0}
+1832,Yes,Yes,{7.0}
+1833,Do not know,Do not know,"{9.0, 5.0}"
+1834,Yes,Yes,{5.0}
+1835,Do not know,Do not know,"{1.0, 2.0}"
+1836,Yes,Yes,{0.0}
+1837,Yes,Yes,{0.0}
+1838,Yes,Yes,{4.0}
+1839,Yes,Yes,{3.0}
+1840,Yes,Yes,{6.0}
+1841,Yes,Yes,{0.0}
+1842,Yes,Yes,{4.0}
+1843,Yes,Yes,{8.0}
+1844,Do not know,Do not know,"{1.0, 3.0, 5.0, 9.0}"
+1845,Yes,Yes,{7.0}
+1846,Yes,Yes,{3.0}
+1847,Yes,Yes,{0.0}
+1848,Yes,Yes,{8.0}
+1849,Yes,Yes,{1.0}
+1850,Do not know,Do not know,"{1.0, 2.0}"
+1851,Yes,Yes,{8.0}
+1852,Do not know,Do not know,"{1.0, 3.0}"
+1853,Yes,Yes,{5.0}
+1854,Yes,Yes,{1.0}
+1855,Yes,Yes,{8.0}
+1856,Do not know,Do not know,"{1.0, 2.0}"
+1857,Do not know,Do not know,"{1.0, 2.0, 7.0}"
+1858,Yes,Yes,{0.0}
+1859,Yes,Yes,{4.0}
+1860,Do not know,Do not know,"{1.0, 2.0}"
+1861,Do not know,Do not know,"{1.0, 3.0, 5.0}"
+1862,Yes,Yes,{9.0}
+1863,Yes,Yes,{3.0}
+1864,Yes,Yes,{3.0}
+1865,Do not know,Do not know,"{1.0, 2.0, 7.0}"
+1866,Yes,Yes,{7.0}
+1867,Yes,Yes,{6.0}
+1868,Yes,Yes,{6.0}
+1869,Yes,Yes,{3.0}
+1870,Yes,Yes,{7.0}
+1871,Yes,Yes,{5.0}
+1872,Do not know,Do not know,"{8.0, 5.0}"
+1873,Yes,Yes,{4.0}
+1874,Yes,Yes,{4.0}
+1875,Yes,Yes,{9.0}
+1876,Yes,Yes,{1.0}
+1877,Yes,Yes,{4.0}
+1878,Do not know,Do not know,"{3.0, 5.0, 6.0}"
+1879,Do not know,Do not know,"{1.0, 5.0, 9.0}"
+1880,Yes,Yes,{8.0}
+1881,Do not know,Do not know,"{1.0, 2.0, 7.0}"
+1882,Yes,Yes,{6.0}
+1883,Do not know,Do not know,"{3.0, 5.0}"
+1884,Yes,Yes,{9.0}
+1885,Yes,Yes,{1.0}
+1886,Yes,Yes,{5.0}
+1887,Yes,Yes,{7.0}
+1888,Do not know,Do not know,"{1.0, 7.0}"
+1889,Yes,Yes,{6.0}
+1890,Do not know,Do not know,"{9.0, 5.0}"
+1891,Do not know,Do not know,"{9.0, 4.0}"
+1892,Yes,Yes,{4.0}
+1893,Yes,Yes,{0.0}
+1894,Yes,Yes,{9.0}
+1895,Do not know,Do not know,"{1.0, 2.0}"
+1896,Do not know,Do not know,"{9.0, 4.0, 5.0}"
+1897,Yes,Yes,{6.0}
+1898,Yes,Yes,{7.0}
+1899,Yes,Yes,{0.0}
+1900,Do not know,Do not know,"{0.0, 1.0, 2.0, 4.0, 5.0, 6.0, 7.0, 8.0, 9.0}"
+1901,Yes,Yes,{3.0}
+1902,Yes,Yes,{4.0}
+1903,Yes,Yes,{5.0}
+1904,No,Do not know,"{1.0, 2.0, 6.0, 7.0, 8.0, 9.0}"
+1905,Do not know,Do not know,"{1.0, 7.0}"
+1906,Yes,Yes,{6.0}
+1907,Yes,Yes,{3.0}
+1908,Do not know,Do not know,"{1.0, 2.0}"
+1909,Do not know,Do not know,"{1.0, 3.0}"
+1910,Do not know,Do not know,"{8.0, 5.0}"
+1911,Yes,Yes,{8.0}
+1912,Yes,Yes,{0.0}
+1913,Yes,Yes,{5.0}
+1914,Yes,Yes,{3.0}
+1915,Do not know,Do not know,"{9.0, 3.0, 5.0}"
+1916,Do not know,Do not know,"{9.0, 4.0}"
+1917,Yes,Yes,{6.0}
+1918,Do not know,Do not know,"{1.0, 4.0, 7.0}"
+1919,Do not know,Do not know,"{9.0, 4.0, 5.0}"
+1920,Do not know,Do not know,"{1.0, 7.0}"
+1921,Do not know,Do not know,"{1.0, 2.0}"
+1922,Yes,Yes,{8.0}
+1923,Do not know,Do not know,"{1.0, 2.0, 7.0}"
+1924,Yes,Yes,{4.0}
+1925,Do not know,Do not know,"{1.0, 3.0, 5.0, 9.0}"
+1926,Yes,Yes,{0.0}
+1927,Do not know,Do not know,"{1.0, 2.0}"
+1928,Do not know,Do not know,"{1.0, 3.0}"
+1929,Yes,Yes,{6.0}
+1930,Do not know,Do not know,"{1.0, 2.0}"
+1931,Do not know,Do not know,"{1.0, 2.0}"
+1932,Yes,Yes,{7.0}
+1933,Do not know,Do not know,"{0.0, 3.0, 4.0, 5.0, 6.0, 9.0}"
+1934,Do not know,Do not know,"{1.0, 5.0}"
+1935,Do not know,Do not know,"{1.0, 2.0}"
+1936,Yes,Yes,{6.0}
+1937,Yes,Yes,{3.0}
+1938,Do not know,Do not know,"{1.0, 2.0}"
+1939,Do not know,Do not know,"{1.0, 3.0}"
+1940,Do not know,Do not know,"{1.0, 2.0, 3.0, 4.0, 7.0, 9.0}"
+1941,Yes,Yes,{8.0}
+1942,Yes,Yes,{8.0}
+1943,Do not know,Do not know,"{9.0, 4.0, 5.0}"
+1944,Yes,Yes,{7.0}
+1945,Do not know,Do not know,"{1.0, 3.0, 5.0, 6.0}"
+1946,Do not know,Do not know,"{8.0, 1.0, 2.0, 7.0}"
+1947,Yes,Yes,{4.0}
+1948,Yes,Yes,{0.0}
+1949,Do not know,Do not know,"{0.0, 1.0, 2.0, 4.0, 5.0, 6.0, 8.0, 9.0}"
+1950,Yes,Yes,{1.0}
+1951,Yes,Yes,{0.0}
+1952,Do not know,Do not know,"{1.0, 2.0}"
+1953,Do not know,Do not know,"{3.0, 7.0}"
+1954,Do not know,Do not know,"{1.0, 2.0, 7.0}"
+1955,Yes,Yes,{3.0}
+1956,Do not know,Do not know,"{9.0, 5.0}"
+1957,Do not know,Do not know,"{9.0, 3.0, 5.0}"
+1958,Yes,Yes,{1.0}
+1959,Yes,Yes,{3.0}
+1960,Yes,Yes,{3.0}
+1961,Do not know,Do not know,"{1.0, 2.0}"
+1962,Yes,Yes,{6.0}
+1963,Do not know,Do not know,"{0.0, 1.0, 2.0, 4.0, 5.0, 6.0, 7.0, 8.0, 9.0}"
+1964,Do not know,Do not know,"{1.0, 2.0, 7.0}"
+1965,Yes,Yes,{4.0}
+1966,Do not know,Do not know,"{1.0, 2.0}"
+1967,Yes,Yes,{0.0}
+1968,Yes,Yes,{8.0}
+1969,Yes,Yes,{5.0}
+1970,Yes,Yes,{4.0}
+1971,Yes,Yes,{5.0}
+1972,Do not know,Do not know,"{9.0, 4.0}"
+1973,Yes,Yes,{4.0}
+1974,Yes,Yes,{5.0}
+1975,Yes,Yes,{9.0}
+1976,Yes,Yes,{4.0}
+1977,Yes,Yes,{0.0}
+1978,Yes,Yes,{4.0}
+1979,Yes,Yes,{5.0}
+1980,Do not know,Do not know,"{9.0, 5.0}"
+1981,Yes,Yes,{0.0}
+1982,Yes,Yes,{6.0}
+1983,Do not know,Do not know,"{9.0, 5.0}"
+1984,Yes,Yes,{6.0}
+1985,Yes,Yes,{8.0}
+1986,Yes,Yes,{0.0}
+1987,Yes,Yes,{6.0}
+1988,Yes,Yes,{7.0}
+1989,Yes,Yes,{6.0}
+1990,Yes,Yes,{0.0}
+1991,Yes,Yes,{6.0}
+1992,Yes,Yes,{7.0}
+1993,Yes,Yes,{8.0}
+1994,Do not know,Do not know,"{9.0, 4.0}"
+1995,Yes,Yes,{5.0}
+1996,Do not know,Do not know,"{9.0, 5.0}"
+1997,Yes,Yes,{4.0}
+1998,Yes,Yes,{6.0}
+1999,Yes,Yes,{0.0}
+2000,Yes,Yes,{6.0}
+2001,Yes,Yes,{9.0}
+2002,Do not know,Do not know,"{1.0, 4.0, 9.0, 7.0}"
+2003,Yes,Yes,{5.0}
+2004,Yes,Yes,{9.0}
+2005,Do not know,Do not know,"{1.0, 2.0}"
+2006,Yes,Yes,{7.0}
+2007,Yes,Yes,{9.0}
+2008,Do not know,Do not know,"{1.0, 2.0, 7.0}"
+2009,Yes,Yes,{8.0}
+2010,Do not know,Do not know,"{1.0, 2.0}"
+2011,Yes,Yes,{5.0}
+2012,Yes,Yes,{1.0}
+2013,Yes,Yes,{6.0}
+2014,Do not know,Do not know,"{9.0, 3.0, 5.0}"
+2015,Do not know,Do not know,"{1.0, 2.0, 7.0}"
+2016,Do not know,Do not know,"{9.0, 5.0}"
+2017,Do not know,Do not know,"{1.0, 2.0, 7.0}"
+2018,Yes,Yes,{0.0}
+2019,Yes,Yes,{8.0}
+2020,Yes,Yes,{9.0}
+2021,Yes,Yes,{0.0}
+2022,Yes,Yes,{5.0}
+2023,Yes,Yes,{3.0}
+2024,Do not know,Do not know,"{1.0, 2.0}"
+2025,Yes,Yes,{3.0}
+2026,Do not know,Do not know,"{1.0, 2.0}"
+2027,Yes,Yes,{2.0}
+2028,Yes,Yes,{0.0}
+2029,Do not know,Do not know,"{1.0, 3.0, 5.0, 9.0}"
+2030,Yes,Yes,{5.0}
+2031,Yes,Yes,{1.0}
+2032,Yes,Yes,{0.0}
+2033,Yes,Yes,{5.0}
+2034,Yes,Yes,{4.0}
+2035,Yes,Yes,{8.0}
+2036,Do not know,Do not know,"{1.0, 2.0}"
+2037,Do not know,Do not know,"{1.0, 2.0}"
+2038,Yes,Yes,{3.0}
+2039,Do not know,Do not know,"{9.0, 3.0}"
+2040,Do not know,Do not know,"{9.0, 4.0}"
+2041,Yes,Yes,{0.0}
+2042,Yes,Yes,{7.0}
+2043,Do not know,Do not know,"{1.0, 2.0}"
+2044,Yes,Yes,{7.0}
+2045,Yes,Yes,{9.0}
+2046,Do not know,Do not know,"{9.0, 4.0}"
+2047,Do not know,Do not know,"{9.0, 4.0, 5.0, 6.0}"
+2048,Yes,Yes,{8.0}
+2049,Yes,Yes,{6.0}
+2050,Do not know,Do not know,"{9.0, 5.0}"
+2051,Do not know,Do not know,"{9.0, 3.0, 5.0}"
+2052,Yes,Yes,{6.0}
+2053,Yes,Yes,{3.0}
+2054,Do not know,Do not know,"{9.0, 5.0}"
+2055,Yes,Yes,{7.0}
+2056,Yes,Yes,{0.0}
+2057,Do not know,Do not know,"{1.0, 2.0}"
+2058,Yes,Yes,{3.0}
+2059,Yes,Yes,{4.0}
+2060,Do not know,Do not know,"{3.0, 5.0}"
+2061,Yes,Yes,{0.0}
+2062,Yes,Yes,{4.0}
+2063,Yes,Yes,{1.0}
+2064,Yes,Yes,{6.0}
+2065,Yes,Yes,{8.0}
+2066,Yes,Yes,{6.0}
+2067,Yes,Yes,{6.0}
+2068,Do not know,Do not know,"{3.0, 5.0}"
+2069,Yes,Yes,{6.0}
+2070,Yes,Yes,{0.0}
+2071,Do not know,Do not know,"{9.0, 5.0}"
+2072,Yes,Yes,{9.0}
+2073,Yes,Yes,{6.0}
+2074,Do not know,Do not know,"{3.0, 5.0}"
+2075,Do not know,Do not know,"{1.0, 7.0}"
+2076,Yes,Yes,{9.0}
+2077,Do not know,Do not know,"{1.0, 3.0, 7.0}"
+2078,Yes,Yes,{5.0}
+2079,Do not know,Do not know,"{8.0, 5.0}"
+2080,Do not know,Do not know,"{1.0, 2.0}"
+2081,Yes,Yes,{4.0}
+2082,Yes,Yes,{6.0}
+2083,Do not know,Do not know,"{1.0, 3.0, 5.0}"
+2084,Yes,Yes,{6.0}
+2085,Yes,Yes,{5.0}
+2086,Yes,Yes,{4.0}
+2087,Yes,Yes,{7.0}
+2088,Do not know,Do not know,"{1.0, 2.0}"
+2089,Yes,Yes,{9.0}
+2090,Do not know,Do not know,"{1.0, 3.0, 5.0}"
+2091,Yes,Yes,{6.0}
+2092,Yes,Yes,{4.0}
+2093,Do not know,Do not know,"{2.0, 7.0}"
+2094,Yes,Yes,{4.0}
+2095,Yes,Yes,{8.0}
+2096,Yes,Yes,{0.0}
+2097,Yes,Yes,{4.0}
+2098,Yes,Yes,{9.0}
+2099,Yes,Yes,{5.0}
+2100,Yes,Yes,{5.0}
+2101,Yes,Yes,{9.0}
+2102,Yes,Yes,{5.0}
+2103,Yes,Yes,{6.0}
+2104,Yes,Yes,{0.0}
+2105,Do not know,Do not know,"{3.0, 5.0}"
+2106,Do not know,Do not know,"{1.0, 3.0, 7.0}"
+2107,Yes,Yes,{4.0}
+2108,Do not know,Do not know,"{9.0, 4.0}"
+2109,Do not know,Do not know,"{1.0, 2.0}"
+2110,Yes,Yes,{9.0}
+2111,Do not know,Do not know,"{1.0, 2.0}"
+2112,Do not know,Do not know,"{1.0, 4.0, 9.0, 7.0}"
+2113,Do not know,Do not know,"{9.0, 3.0, 5.0}"
+2114,Yes,Yes,{5.0}
+2115,Yes,Yes,{6.0}
+2116,Yes,Yes,{7.0}
+2117,Do not know,Do not know,"{1.0, 2.0, 7.0}"
+2118,Yes,Yes,{5.0}
+2119,Yes,Yes,{8.0}
+2120,Yes,Yes,{7.0}
+2121,Do not know,Do not know,"{1.0, 2.0, 7.0}"
+2122,Do not know,Do not know,"{1.0, 3.0}"
+2123,Yes,Yes,{7.0}
+2124,Yes,Yes,{4.0}
+2125,Yes,Yes,{9.0}
+2126,Yes,Yes,{4.0}
+2127,Yes,Yes,{7.0}
+2128,Yes,Yes,{8.0}
+2129,Do not know,Do not know,"{9.0, 5.0}"
+2130,Do not know,Do not know,"{1.0, 3.0, 7.0}"
+2131,Do not know,Do not know,"{1.0, 3.0, 5.0}"
+2132,Do not know,Do not know,"{9.0, 5.0}"
+2133,Yes,Yes,{3.0}
+2134,Do not know,Do not know,"{1.0, 3.0}"
+2135,Yes,Yes,{0.0}
+2136,Yes,Yes,{6.0}
+2137,Do not know,Do not know,"{1.0, 2.0}"
+2138,Yes,Yes,{4.0}
+2139,Yes,Yes,{4.0}
+2140,Yes,Yes,{5.0}
+2141,Yes,Yes,{4.0}
+2142,Yes,Yes,{0.0}
+2143,Yes,Yes,{9.0}
+2144,Do not know,Do not know,"{1.0, 7.0}"
+2145,Yes,Yes,{3.0}
+2146,Do not know,Do not know,"{9.0, 3.0, 5.0}"
+2147,Do not know,Do not know,"{8.0, 5.0, 7.0}"
+2148,Yes,Yes,{0.0}
+2149,Do not know,Do not know,"{1.0, 3.0, 5.0}"
+2150,Yes,Yes,{4.0}
+2151,Yes,Yes,{5.0}
+2152,Do not know,Do not know,"{1.0, 2.0}"
+2153,Yes,Yes,{1.0}
+2154,Do not know,Do not know,"{1.0, 2.0}"
+2155,Yes,Yes,{5.0}
+2156,Yes,Yes,{6.0}
+2157,Do not know,Do not know,"{0.0, 8.0}"
+2158,Do not know,Do not know,"{2.0, 7.0}"
+2159,Yes,Yes,{3.0}
+2160,Yes,Yes,{0.0}
+2161,Do not know,Do not know,"{1.0, 2.0}"
+2162,Yes,Yes,{8.0}
+2163,Do not know,Do not know,"{1.0, 2.0}"
+2164,Yes,Yes,{7.0}
+2165,Do not know,Do not know,"{1.0, 2.0, 7.0}"
+2166,Do not know,Do not know,"{8.0, 3.0, 7.0}"
+2167,Yes,Yes,{4.0}
+2168,Do not know,Do not know,"{2.0, 7.0}"
+2169,Yes,Yes,{4.0}
+2170,Do not know,Do not know,"{9.0, 4.0, 5.0}"
+2171,Yes,Yes,{6.0}
+2172,Do not know,Do not know,"{0.0, 4.0, 5.0, 6.0, 9.0}"
+2173,Do not know,Do not know,"{1.0, 2.0}"
+2174,Yes,Yes,{7.0}
+2175,No,Do not know,"{8.0, 5.0}"
+2176,Do not know,Do not know,"{9.0, 3.0, 5.0}"
+2177,Yes,Yes,{0.0}
+2178,Do not know,Do not know,"{1.0, 3.0}"
+2179,Do not know,Do not know,"{1.0, 2.0, 7.0}"
+2180,Do not know,Do not know,"{1.0, 2.0, 7.0}"
+2181,Yes,Yes,{0.0}
+2182,Do not know,Do not know,"{8.0, 5.0}"
+2183,Do not know,Do not know,"{1.0, 3.0, 5.0}"
+2184,Do not know,Do not know,"{0.0, 1.0, 2.0, 4.0, 5.0, 6.0, 8.0, 9.0}"
+2185,Do not know,Do not know,"{9.0, 5.0}"
+2186,Do not know,Do not know,"{4.0, 5.0, 6.0}"
+2187,Yes,Yes,{7.0}
+2188,Do not know,Do not know,"{9.0, 4.0, 5.0}"
+2189,Yes,Yes,{8.0}
+2190,Do not know,Do not know,"{3.0, 5.0}"
+2191,Yes,Yes,{6.0}
+2192,Do not know,Do not know,"{3.0, 5.0}"
+2193,Yes,Yes,{9.0}
+2194,Yes,Yes,{0.0}
+2195,Yes,Yes,{4.0}
+2196,Yes,Yes,{8.0}
+2197,Do not know,Do not know,"{1.0, 3.0, 7.0}"
+2198,Do not know,Do not know,"{1.0, 2.0, 3.0, 4.0, 7.0}"
+2199,Do not know,Do not know,"{1.0, 3.0, 7.0}"
+2200,Do not know,Do not know,"{1.0, 2.0}"
+2201,Yes,Yes,{4.0}
+2202,Yes,Yes,{1.0}
+2203,Yes,Yes,{4.0}
+2204,Do not know,Do not know,"{1.0, 3.0, 5.0}"
+2205,Do not know,Do not know,"{9.0, 4.0}"
+2206,Yes,Yes,{9.0}
+2207,Yes,Yes,{4.0}
+2208,Yes,Yes,{6.0}
+2209,Yes,Yes,{0.0}
+2210,Yes,Yes,{6.0}
+2211,Do not know,Do not know,"{1.0, 2.0, 7.0}"
+2212,Do not know,Do not know,"{2.0, 7.0}"
+2213,Yes,Yes,{1.0}
+2214,Do not know,Do not know,"{1.0, 2.0, 7.0}"
+2215,Yes,Yes,{3.0}
+2216,Yes,Yes,{4.0}
+2217,Yes,Yes,{4.0}
+2218,Yes,Yes,{9.0}
+2219,Do not know,Do not know,"{1.0, 3.0, 7.0}"
+2220,Do not know,Do not know,"{1.0, 2.0}"
+2221,Yes,Yes,{0.0}
+2222,Do not know,Do not know,"{9.0, 3.0}"
+2223,Do not know,Do not know,"{1.0, 2.0, 7.0}"
+2224,Yes,Yes,{0.0}
+2225,Do not know,Do not know,"{1.0, 3.0}"
+2226,Yes,Yes,{6.0}
+2227,Do not know,Do not know,"{1.0, 5.0}"
+2228,Do not know,Do not know,"{1.0, 2.0}"
+2229,Yes,Yes,{8.0}
+2230,Do not know,Do not know,"{9.0, 3.0, 5.0}"
+2231,Do not know,Do not know,"{1.0, 2.0}"
+2232,Do not know,Do not know,"{1.0, 2.0, 7.0}"
+2233,Yes,Yes,{6.0}
+2234,Yes,Yes,{6.0}
+2235,Yes,Yes,{8.0}
+2236,Yes,Yes,{0.0}
+2237,Do not know,Do not know,"{9.0, 3.0, 5.0}"
+2238,Yes,Yes,{8.0}
+2239,Do not know,Do not know,"{1.0, 2.0, 3.0, 7.0}"
+2240,Do not know,Do not know,"{1.0, 2.0}"
+2241,Yes,Yes,{1.0}
+2242,Yes,Yes,{3.0}
+2243,Yes,Yes,{6.0}
+2244,Do not know,Do not know,"{1.0, 2.0}"
+2245,Yes,Yes,{6.0}
+2246,Yes,Yes,{9.0}
+2247,Do not know,Do not know,"{1.0, 2.0}"
+2248,Do not know,Do not know,"{8.0, 5.0}"
+2249,Do not know,Do not know,"{0.0, 6.0}"
+2250,Yes,Yes,{5.0}
+2251,Yes,Yes,{0.0}
+2252,Do not know,Do not know,"{1.0, 2.0}"
+2253,Yes,Yes,{0.0}
+2254,Yes,Yes,{8.0}
+2255,Yes,Yes,{6.0}
+2256,Do not know,Do not know,"{1.0, 2.0, 7.0}"
+2257,Do not know,Do not know,"{1.0, 2.0}"
+2258,Do not know,Do not know,"{1.0, 4.0, 7.0}"
+2259,Yes,Yes,{3.0}
+2260,Yes,Yes,{6.0}
+2261,Yes,Yes,{8.0}
+2262,Yes,Yes,{0.0}
+2263,Yes,Yes,{3.0}
+2264,Yes,Yes,{5.0}
+2265,Yes,Yes,{9.0}
+2266,Yes,Yes,{8.0}
+2267,Do not know,Do not know,"{1.0, 2.0}"
+2268,Yes,Yes,{5.0}
+2269,Yes,Yes,{0.0}
+2270,Yes,Yes,{3.0}
+2271,Do not know,Do not know,"{1.0, 2.0}"
+2272,Yes,Yes,{7.0}
+2273,Do not know,Do not know,"{9.0, 3.0, 5.0}"
+2274,Yes,Yes,{5.0}
+2275,Yes,Yes,{9.0}
+2276,Do not know,Do not know,"{9.0, 5.0}"
+2277,Yes,Yes,{5.0}
+2278,Do not know,Do not know,"{9.0, 3.0, 5.0}"
+2279,Yes,Yes,{8.0}
+2280,Yes,Yes,{0.0}
+2281,Do not know,Do not know,"{1.0, 2.0, 7.0}"
+2282,Yes,Yes,{9.0}
+2283,Yes,Yes,{4.0}
+2284,Do not know,Do not know,"{1.0, 2.0}"
+2285,Yes,Yes,{7.0}
+2286,Yes,Yes,{0.0}
+2287,Yes,Yes,{7.0}
+2288,Yes,Yes,{0.0}
+2289,Do not know,Do not know,"{1.0, 3.0, 5.0, 9.0}"
+2290,Do not know,Do not know,"{1.0, 2.0}"
+2291,Yes,Yes,{6.0}
+2292,Yes,Yes,{6.0}
+2293,Do not know,Do not know,"{1.0, 4.0, 7.0}"
+2294,Yes,Yes,{8.0}
+2295,Do not know,Do not know,"{9.0, 4.0, 5.0}"
+2296,Do not know,Do not know,"{4.0, 6.0}"
+2297,Yes,Yes,{8.0}
+2298,Do not know,Do not know,"{1.0, 2.0}"
+2299,Yes,Yes,{6.0}
+2300,Yes,Yes,{6.0}
+2301,Yes,Yes,{0.0}
+2302,Yes,Yes,{2.0}
+2303,Do not know,Do not know,"{1.0, 2.0, 7.0}"
+2304,Yes,Yes,{0.0}
+2305,Yes,Yes,{5.0}
+2306,Do not know,Do not know,"{1.0, 2.0}"
+2307,Yes,Yes,{1.0}
+2308,Do not know,Do not know,"{9.0, 4.0}"
+2309,Yes,Yes,{2.0}
+2310,Yes,Yes,{8.0}
+2311,Yes,Yes,{5.0}
+2312,Do not know,Do not know,"{9.0, 5.0}"
+2313,Yes,Yes,{1.0}
+2314,Yes,Yes,{3.0}
+2315,Yes,Yes,{6.0}
+2316,Yes,Yes,{8.0}
+2317,Do not know,Do not know,"{1.0, 3.0, 7.0}"
+2318,Do not know,Do not know,"{1.0, 3.0}"
+2319,Do not know,Do not know,"{1.0, 2.0, 7.0}"
+2320,Do not know,Do not know,"{1.0, 2.0}"
+2321,Yes,Yes,{4.0}
+2322,Yes,Yes,{9.0}
+2323,Yes,Yes,{8.0}
+2324,Yes,Yes,{4.0}
+2325,Yes,Yes,{8.0}
+2326,Do not know,Do not know,"{1.0, 3.0}"
+2327,Do not know,Do not know,"{1.0, 3.0, 5.0, 9.0}"
+2328,Do not know,Do not know,"{1.0, 2.0}"
+2329,Yes,Yes,{0.0}
+2330,Yes,Yes,{1.0}
+2331,Yes,Yes,{4.0}
+2332,Do not know,Do not know,"{9.0, 3.0, 5.0}"
+2333,Do not know,Do not know,"{1.0, 2.0}"
+2334,Do not know,Do not know,"{1.0, 2.0}"
+2335,Do not know,Do not know,"{1.0, 2.0}"
+2336,Do not know,Do not know,"{9.0, 5.0}"
+2337,Yes,Yes,{7.0}
+2338,Yes,Yes,{4.0}
+2339,Yes,Yes,{8.0}
+2340,Yes,Yes,{8.0}
+2341,Do not know,Do not know,"{2.0, 7.0}"
+2342,Yes,Yes,{0.0}
+2343,Yes,Yes,{8.0}
+2344,Yes,Yes,{0.0}
+2345,Yes,Yes,{6.0}
+2346,Do not know,Do not know,"{1.0, 3.0, 5.0, 9.0}"
+2347,Do not know,Do not know,"{1.0, 2.0, 7.0}"
+2348,Do not know,Do not know,"{1.0, 7.0}"
+2349,Yes,Yes,{8.0}
+2350,Yes,Yes,{1.0}
+2351,Do not know,Do not know,"{9.0, 5.0}"
+2352,Yes,Yes,{5.0}
+2353,Yes,Yes,{9.0}
+2354,Do not know,Do not know,"{9.0, 3.0, 5.0}"
+2355,Do not know,Do not know,"{1.0, 2.0}"
+2356,Do not know,Do not know,"{1.0, 2.0, 7.0}"
+2357,Yes,Yes,{7.0}
+2358,Do not know,Do not know,"{1.0, 5.0, 9.0}"
+2359,Yes,Yes,{6.0}
+2360,Do not know,Do not know,"{1.0, 3.0}"
+2361,Do not know,Do not know,"{9.0, 5.0}"
+2362,Do not know,Do not know,"{1.0, 2.0, 7.0}"
+2363,Do not know,Do not know,"{1.0, 2.0}"
+2364,Do not know,Do not know,"{9.0, 5.0}"
+2365,Yes,Yes,{0.0}
+2366,Do not know,Do not know,"{9.0, 4.0}"
+2367,Yes,Yes,{2.0}
+2368,Yes,Yes,{6.0}
+2369,Do not know,Do not know,"{1.0, 2.0, 7.0}"
+2370,Do not know,Do not know,"{1.0, 5.0, 9.0}"
+2371,Do not know,Do not know,"{8.0, 7.0}"
+2372,Yes,Yes,{4.0}
+2373,Do not know,Do not know,"{9.0, 5.0}"
+2374,Do not know,Do not know,"{9.0, 5.0}"
+2375,Yes,Yes,{4.0}
+2376,Do not know,Do not know,"{1.0, 3.0}"
+2377,Yes,Yes,{4.0}
+2378,Do not know,Do not know,"{9.0, 3.0, 4.0, 5.0}"
+2379,Yes,Yes,{9.0}
+2380,Yes,Yes,{3.0}
+2381,Yes,Yes,{4.0}
+2382,Yes,Yes,{1.0}
+2383,Do not know,Do not know,"{9.0, 4.0, 5.0}"
+2384,Do not know,Do not know,"{1.0, 3.0}"
+2385,Do not know,Do not know,"{1.0, 2.0, 7.0}"
+2386,Do not know,Do not know,"{9.0, 5.0}"
+2387,Do not know,Do not know,"{9.0, 5.0}"
+2388,Do not know,Do not know,"{1.0, 3.0, 7.0}"
+2389,Do not know,Do not know,"{9.0, 4.0, 5.0}"
+2390,Yes,Yes,{4.0}
+2391,Do not know,Do not know,"{1.0, 2.0, 7.0}"
+2392,Yes,Yes,{0.0}
+2393,Yes,Yes,{6.0}
+2394,Yes,Yes,{0.0}
+2395,Yes,Yes,{1.0}
+2396,Do not know,Do not know,"{2.0, 7.0}"
+2397,Yes,Yes,{0.0}
+2398,Yes,Yes,{5.0}
+2399,Yes,Yes,{7.0}
+2400,Do not know,Do not know,"{1.0, 2.0}"
+2401,Yes,Yes,{0.0}
+2402,Do not know,Do not know,"{1.0, 2.0}"
+2403,Yes,Yes,{8.0}
+2404,Yes,Yes,{0.0}
+2405,Yes,Yes,{0.0}
+2406,Yes,Yes,{3.0}
+2407,Do not know,Do not know,"{1.0, 2.0}"
+2408,Do not know,Do not know,"{1.0, 2.0, 7.0}"
+2409,Yes,Yes,{6.0}
+2410,Do not know,Do not know,"{1.0, 2.0, 3.0, 4.0, 7.0}"
+2411,Do not know,Do not know,"{1.0, 2.0}"
+2412,Yes,Yes,{3.0}
+2413,Do not know,Do not know,"{1.0, 2.0}"
+2414,Yes,Yes,{6.0}
+2415,Yes,Yes,{0.0}
+2416,Do not know,Do not know,"{1.0, 2.0}"
+2417,Yes,Yes,{3.0}
+2418,Yes,Yes,{0.0}
+2419,Do not know,Do not know,"{1.0, 2.0, 3.0, 4.0, 7.0, 9.0}"
+2420,Yes,Yes,{3.0}
+2421,Yes,Yes,{3.0}
+2422,Yes,Yes,{6.0}
+2423,Yes,Yes,{4.0}
+2424,Do not know,Do not know,"{8.0, 5.0, 7.0}"
+2425,Do not know,Do not know,"{1.0, 7.0}"
+2426,Do not know,Do not know,"{1.0, 2.0, 3.0, 4.0, 7.0}"
+2427,Do not know,Do not know,"{9.0, 5.0}"
+2428,Yes,Yes,{3.0}
+2429,Yes,Yes,{4.0}
+2430,Yes,Yes,{0.0}
+2431,Yes,Yes,{3.0}
+2432,Do not know,Do not know,"{1.0, 2.0, 7.0}"
+2433,Yes,Yes,{3.0}
+2434,Do not know,Do not know,"{1.0, 4.0, 5.0, 6.0, 9.0}"
+2435,Yes,Yes,{6.0}
+2436,Do not know,Do not know,"{9.0, 5.0}"
+2437,Do not know,Do not know,"{1.0, 3.0, 5.0, 9.0}"
+2438,Yes,Yes,{5.0}
+2439,Yes,Yes,{3.0}
+2440,Yes,Yes,{0.0}
+2441,Yes,Yes,{8.0}
+2442,Do not know,Do not know,"{1.0, 3.0, 7.0}"
+2443,Yes,Yes,{0.0}
+2444,Do not know,Do not know,"{5.0, 7.0}"
+2445,Do not know,Do not know,"{1.0, 3.0, 5.0}"
+2446,Yes,Yes,{0.0}
+2447,Yes,Yes,{4.0}
+2448,Do not know,Do not know,"{1.0, 2.0}"
+2449,Yes,Yes,{5.0}
+2450,Yes,Yes,{0.0}
+2451,Yes,Yes,{1.0}
+2452,Yes,Yes,{5.0}
+2453,Do not know,Do not know,"{1.0, 2.0}"
+2454,Yes,Yes,{8.0}
+2455,Yes,Yes,{5.0}
+2456,Do not know,Do not know,"{1.0, 2.0, 7.0}"
+2457,Yes,Yes,{1.0}
+2458,Yes,Yes,{6.0}
+2459,Do not know,Do not know,"{1.0, 2.0, 7.0}"
+2460,Yes,Yes,{6.0}
+2461,Yes,Yes,{0.0}
+2462,Yes,Yes,{7.0}
+2463,Do not know,Do not know,"{1.0, 2.0, 7.0}"
+2464,Yes,Yes,{3.0}
+2465,Yes,Yes,{5.0}
+2466,Yes,Yes,{6.0}
+2467,Do not know,Do not know,"{1.0, 2.0}"
+2468,Yes,Yes,{3.0}
+2469,Do not know,Do not know,"{1.0, 2.0, 7.0}"
+2470,Do not know,Do not know,"{9.0, 5.0}"
+2471,Yes,Yes,{0.0}
+2472,Yes,Yes,{0.0}
+2473,Yes,Yes,{4.0}
+2474,Do not know,Do not know,"{9.0, 4.0}"
+2475,Do not know,Do not know,"{1.0, 2.0, 7.0}"
+2476,Yes,Yes,{0.0}
+2477,Yes,Yes,{5.0}
+2478,Do not know,Do not know,"{1.0, 4.0, 5.0, 6.0, 9.0}"
+2479,Yes,Yes,{6.0}
+2480,Do not know,Do not know,"{9.0, 4.0, 5.0}"
+2481,Yes,Yes,{1.0}
+2482,Do not know,Do not know,"{3.0, 5.0}"
+2483,Yes,Yes,{6.0}
+2484,Yes,Yes,{1.0}
+2485,Yes,Yes,{4.0}
+2486,Do not know,Do not know,"{1.0, 2.0}"
+2487,Yes,Yes,{4.0}
+2488,Do not know,Do not know,"{1.0, 2.0, 7.0}"
+2489,Yes,Yes,{9.0}
+2490,Do not know,Do not know,"{1.0, 2.0, 7.0}"
+2491,Yes,Yes,{0.0}
+2492,Yes,Yes,{8.0}
+2493,Yes,Yes,{3.0}
+2494,Yes,Yes,{6.0}
+2495,Yes,Yes,{8.0}
+2496,Yes,Yes,{5.0}
+2497,Yes,Yes,{6.0}
+2498,Yes,Yes,{9.0}
+2499,Yes,Yes,{4.0}
+2500,Yes,Yes,{8.0}
+2501,Yes,Yes,{1.0}
+2502,Yes,Yes,{0.0}
+2503,Yes,Yes,{0.0}
+2504,Do not know,Do not know,"{1.0, 3.0, 5.0, 9.0}"
+2505,Do not know,Do not know,"{9.0, 3.0, 5.0}"
+2506,Yes,Yes,{8.0}
+2507,Yes,Yes,{0.0}
+2508,Yes,Yes,{8.0}
+2509,Do not know,Do not know,"{1.0, 2.0, 7.0}"
+2510,Yes,Yes,{0.0}
+2511,Yes,Yes,{5.0}
+2512,Do not know,Do not know,"{1.0, 2.0}"
+2513,Do not know,Do not know,"{1.0, 2.0, 7.0}"
+2514,Yes,Yes,{6.0}
+2515,Do not know,Do not know,"{1.0, 3.0}"
+2516,Do not know,Do not know,"{1.0, 2.0}"
+2517,Yes,Yes,{1.0}
+2518,Do not know,Do not know,"{9.0, 5.0}"
+2519,Yes,Yes,{8.0}
+2520,Yes,Yes,{4.0}
+2521,Do not know,Do not know,"{1.0, 2.0, 3.0, 5.0}"
+2522,Yes,Yes,{4.0}
+2523,Yes,Yes,{7.0}
+2524,Yes,Yes,{6.0}
+2525,Do not know,Do not know,"{1.0, 2.0, 3.0, 7.0}"
+2526,Yes,Yes,{6.0}
+2527,Do not know,Do not know,"{4.0, 6.0}"
+2528,Yes,Yes,{2.0}
+2529,Yes,Yes,{5.0}
+2530,Do not know,Do not know,"{1.0, 2.0, 7.0}"
+2531,Yes,Yes,{4.0}
+2532,Yes,Yes,{0.0}
+2533,Do not know,Do not know,"{1.0, 3.0, 7.0}"
+2534,Do not know,Do not know,"{1.0, 3.0, 5.0, 9.0}"
+2535,Do not know,Do not know,"{1.0, 2.0, 7.0}"
+2536,Yes,Yes,{0.0}
+2537,Do not know,Do not know,"{8.0, 5.0}"
+2538,Yes,Yes,{6.0}
+2539,Yes,Yes,{7.0}
+2540,Yes,Yes,{6.0}
+2541,Yes,Yes,{1.0}
+2542,Yes,Yes,{3.0}
+2543,Yes,Yes,{5.0}
+2544,Yes,Yes,{6.0}
+2545,Yes,Yes,{7.0}
+2546,Yes,Yes,{0.0}
+2547,Do not know,Do not know,"{1.0, 2.0}"
+2548,Yes,Yes,{6.0}
+2549,Yes,Yes,{3.0}
+2550,Yes,Yes,{6.0}
+2551,Yes,Yes,{4.0}
+2552,Yes,Yes,{4.0}
+2553,Yes,Yes,{7.0}
+2554,Yes,Yes,{8.0}
+2555,Yes,Yes,{9.0}
+2556,Yes,Yes,{1.0}
+2557,Do not know,Do not know,"{0.0, 1.0, 4.0, 6.0, 8.0}"
+2558,Yes,Yes,{4.0}
+2559,Do not know,Do not know,"{1.0, 2.0}"
+2560,Do not know,Do not know,"{1.0, 3.0}"
+2561,Yes,Yes,{1.0}
+2562,Yes,Yes,{0.0}
+2563,Yes,Yes,{7.0}
+2564,Yes,Yes,{6.0}
+2565,Yes,Yes,{6.0}
+2566,Do not know,Do not know,"{9.0, 5.0}"
+2567,Yes,Yes,{8.0}
+2568,Do not know,Do not know,"{1.0, 3.0}"
+2569,Yes,Yes,{7.0}
+2570,Yes,Yes,{6.0}
+2571,Do not know,Do not know,"{1.0, 2.0, 7.0}"
+2572,Yes,Yes,{1.0}
+2573,Yes,Yes,{4.0}
+2574,Yes,Yes,{4.0}
+2575,Yes,Yes,{5.0}
+2576,Yes,Yes,{7.0}
+2577,Do not know,Do not know,"{9.0, 4.0, 5.0}"
+2578,Do not know,Do not know,"{1.0, 2.0}"
+2579,Yes,Yes,{4.0}
+2580,Do not know,Do not know,"{1.0, 3.0, 7.0}"
+2581,Yes,Yes,{3.0}
+2582,Yes,Yes,{4.0}
+2583,Do not know,Do not know,"{1.0, 3.0, 5.0}"
+2584,Yes,Yes,{6.0}
+2585,Yes,Yes,{8.0}
+2586,Yes,Yes,{6.0}
+2587,Do not know,Do not know,"{1.0, 3.0, 5.0, 8.0, 9.0}"
+2588,Do not know,Do not know,"{1.0, 2.0}"
+2589,Do not know,Do not know,"{9.0, 5.0}"
+2590,Yes,Yes,{0.0}
+2591,Do not know,Do not know,"{1.0, 2.0}"
+2592,Do not know,Do not know,"{1.0, 2.0}"
+2593,Do not know,Do not know,"{9.0, 5.0}"
+2594,Do not know,Do not know,"{1.0, 2.0}"
+2595,Yes,Yes,{3.0}
+2596,Do not know,Do not know,"{9.0, 5.0}"
+2597,Do not know,Do not know,"{9.0, 4.0}"
+2598,Yes,Yes,{9.0}
+2599,Yes,Yes,{3.0}
+2600,Yes,Yes,{0.0}
+2601,Yes,Yes,{7.0}
+2602,Do not know,Do not know,"{1.0, 3.0, 5.0, 9.0}"
+2603,Yes,Yes,{6.0}
+2604,Yes,Yes,{1.0}
+2605,Yes,Yes,{6.0}
+2606,Yes,Yes,{5.0}
+2607,Do not know,Do not know,"{1.0, 2.0}"
+2608,Do not know,Do not know,"{1.0, 3.0}"
+2609,Do not know,Do not know,"{3.0, 5.0}"
+2610,Yes,Yes,{1.0}
+2611,Yes,Yes,{5.0}
+2612,Yes,Yes,{8.0}
+2613,Yes,Yes,{1.0}
+2614,Do not know,Do not know,"{9.0, 4.0}"
+2615,Yes,Yes,{0.0}
+2616,Yes,Yes,{8.0}
+2617,Do not know,Do not know,"{8.0, 5.0}"
+2618,Do not know,Do not know,"{1.0, 2.0, 7.0}"
+2619,Do not know,Do not know,"{1.0, 2.0, 7.0}"
+2620,Yes,Yes,{3.0}
+2621,Yes,Yes,{6.0}
+2622,Do not know,Do not know,"{1.0, 2.0, 7.0}"
+2623,Yes,Yes,{6.0}
+2624,Yes,Yes,{6.0}
+2625,Do not know,Do not know,"{0.0, 6.0}"
+2626,Yes,Yes,{6.0}
+2627,Do not know,Do not know,"{1.0, 2.0}"
+2628,Do not know,Do not know,"{1.0, 2.0, 3.0, 7.0, 9.0}"
+2629,Yes,Yes,{8.0}
+2630,Yes,Yes,{8.0}
+2631,Do not know,Do not know,"{9.0, 5.0}"
+2632,Yes,Yes,{0.0}
+2633,Do not know,Do not know,"{9.0, 3.0, 4.0, 5.0}"
+2634,Yes,Yes,{4.0}
+2635,Yes,Yes,{4.0}
+2636,Yes,Yes,{1.0}
+2637,Do not know,Do not know,"{1.0, 2.0}"
+2638,Yes,Yes,{8.0}
+2639,Yes,Yes,{8.0}
+2640,Do not know,Do not know,"{1.0, 2.0}"
+2641,Do not know,Do not know,"{0.0, 2.0, 4.0, 6.0, 8.0, 9.0}"
+2642,Do not know,Do not know,"{1.0, 3.0, 5.0, 9.0}"
+2643,Do not know,Do not know,"{1.0, 3.0, 7.0}"
+2644,Yes,Yes,{9.0}
+2645,Yes,Yes,{6.0}
+2646,Do not know,Do not know,"{1.0, 2.0, 7.0}"
+2647,Do not know,Do not know,"{8.0, 5.0}"
+2648,Yes,Yes,{5.0}
+2649,Yes,Yes,{5.0}
+2650,Yes,Yes,{5.0}
+2651,Do not know,Do not know,"{9.0, 5.0}"
+2652,Yes,Yes,{0.0}
+2653,Do not know,Do not know,"{4.0, 6.0}"
+2654,Do not know,Do not know,"{9.0, 3.0}"
+2655,Do not know,Do not know,"{1.0, 2.0}"
+2656,Yes,Yes,{9.0}
+2657,Do not know,Do not know,"{1.0, 3.0}"
+2658,Do not know,Do not know,"{1.0, 7.0}"
+2659,Do not know,Do not know,"{0.0, 6.0}"
+2660,Do not know,Do not know,"{1.0, 2.0, 3.0, 5.0, 9.0}"
+2661,Yes,Yes,{4.0}
+2662,Yes,Yes,{4.0}
+2663,Yes,Yes,{2.0}
+2664,Yes,Yes,{4.0}
+2665,Do not know,Do not know,"{9.0, 5.0}"
+2666,Yes,Yes,{0.0}
+2667,Yes,Yes,{6.0}
+2668,Do not know,Do not know,"{1.0, 4.0, 9.0, 7.0}"
+2669,Do not know,Do not know,"{1.0, 2.0}"
+2670,Yes,Yes,{5.0}
+2671,Yes,Yes,{5.0}
+2672,Do not know,Do not know,"{9.0, 5.0}"
+2673,Yes,Yes,{7.0}
+2674,Yes,Yes,{5.0}
+2675,Yes,Yes,{3.0}
+2676,Yes,Yes,{0.0}
+2677,Do not know,Do not know,"{1.0, 2.0, 7.0}"
+2678,Yes,Yes,{9.0}
+2679,Do not know,Do not know,"{9.0, 3.0, 5.0}"
+2680,Yes,Yes,{9.0}
+2681,Do not know,Do not know,"{9.0, 3.0, 5.0}"
+2682,Yes,Yes,{7.0}
+2683,Do not know,Do not know,"{1.0, 3.0}"
+2684,Do not know,Do not know,"{1.0, 3.0, 7.0}"
+2685,Do not know,Do not know,"{1.0, 3.0}"
+2686,Yes,Yes,{6.0}
+2687,Yes,Yes,{1.0}
+2688,Do not know,Do not know,"{1.0, 2.0, 7.0}"
+2689,Yes,Yes,{9.0}
+2690,Do not know,Do not know,"{1.0, 2.0, 3.0, 7.0}"
+2691,Do not know,Do not know,"{9.0, 3.0, 5.0}"
+2692,Yes,Yes,{0.0}
+2693,Yes,Yes,{7.0}
+2694,Do not know,Do not know,"{8.0, 7.0}"
+2695,Do not know,Do not know,"{9.0, 4.0}"
+2696,Yes,Yes,{7.0}
+2697,Do not know,Do not know,"{1.0, 2.0}"
+2698,Yes,Yes,{3.0}
+2699,Do not know,Do not know,"{1.0, 3.0, 7.0}"
+2700,Do not know,Do not know,"{1.0, 7.0}"
+2701,Do not know,Do not know,"{1.0, 2.0, 3.0, 4.0, 7.0}"
+2702,Do not know,Do not know,"{1.0, 4.0, 9.0, 7.0}"
+2703,Do not know,Do not know,"{1.0, 2.0, 3.0, 7.0}"
+2704,Do not know,Do not know,"{9.0, 3.0}"
+2705,Yes,Yes,{8.0}
+2706,Do not know,Do not know,"{1.0, 5.0}"
+2707,Yes,Yes,{5.0}
+2708,Do not know,Do not know,"{1.0, 7.0}"
+2709,Yes,Yes,{3.0}
+2710,Do not know,Do not know,"{1.0, 2.0}"
+2711,Yes,Yes,{4.0}
+2712,Yes,Yes,{9.0}
+2713,Yes,Yes,{7.0}
+2714,Yes,Yes,{4.0}
+2715,Yes,Yes,{1.0}
+2716,Do not know,Do not know,"{1.0, 2.0}"
+2717,Do not know,Do not know,"{1.0, 2.0}"
+2718,Do not know,Do not know,"{9.0, 3.0, 5.0}"
+2719,Yes,Yes,{9.0}
+2720,Do not know,Do not know,"{1.0, 2.0}"
+2721,Do not know,Do not know,"{3.0, 4.0, 5.0, 6.0, 9.0}"
+2722,Do not know,Do not know,"{1.0, 7.0}"
+2723,Do not know,Do not know,"{1.0, 2.0, 7.0}"
+2724,Yes,Yes,{4.0}
+2725,Yes,Yes,{0.0}
+2726,Do not know,Do not know,"{1.0, 2.0}"
+2727,Do not know,Do not know,"{1.0, 2.0, 3.0, 7.0, 9.0}"
+2728,Do not know,Do not know,"{9.0, 3.0, 5.0}"
+2729,Yes,Yes,{0.0}
+2730,Yes,Yes,{4.0}
+2731,Yes,Yes,{9.0}
+2732,Yes,Yes,{5.0}
+2733,Do not know,Do not know,"{1.0, 2.0, 7.0}"
+2734,Yes,Yes,{9.0}
+2735,Do not know,Do not know,"{1.0, 7.0}"
+2736,Yes,Yes,{7.0}
+2737,Yes,Yes,{9.0}
+2738,Do not know,Do not know,"{9.0, 4.0, 5.0}"
+2739,Do not know,Do not know,"{1.0, 5.0, 9.0}"
+2740,Yes,Yes,{6.0}
+2741,Yes,Yes,{0.0}
+2742,Yes,Yes,{6.0}
+2743,Yes,Yes,{1.0}
+2744,Yes,Yes,{6.0}
+2745,Do not know,Do not know,"{3.0, 5.0}"
+2746,Yes,Yes,{7.0}
+2747,Do not know,Do not know,"{9.0, 5.0}"
+2748,Yes,Yes,{0.0}
+2749,Yes,Yes,{6.0}
+2750,Do not know,Do not know,"{1.0, 2.0}"
+2751,Do not know,Do not know,"{1.0, 2.0, 7.0}"
+2752,Yes,Yes,{0.0}
+2753,Yes,Yes,{0.0}
+2754,Yes,Yes,{8.0}
+2755,Yes,Yes,{0.0}
+2756,Yes,Yes,{3.0}
+2757,Do not know,Do not know,"{9.0, 5.0}"
+2758,Do not know,Do not know,"{1.0, 3.0, 7.0}"
+2759,Yes,Yes,{6.0}
+2760,Do not know,Do not know,"{3.0, 5.0}"
+2761,Yes,Yes,{4.0}
+2762,Yes,Yes,{6.0}
+2763,Do not know,Do not know,"{1.0, 2.0}"
+2764,Yes,Yes,{0.0}
+2765,Yes,Yes,{0.0}
+2766,Yes,Yes,{0.0}
+2767,Yes,Yes,{6.0}
+2768,Do not know,Do not know,"{0.0, 2.0, 4.0, 5.0, 6.0, 8.0, 9.0}"
+2769,Yes,Yes,{5.0}
+2770,Yes,Yes,{1.0}
+2771,Do not know,Do not know,"{1.0, 2.0}"
+2772,Do not know,Do not know,"{9.0, 3.0}"
+2773,Do not know,Do not know,"{1.0, 2.0}"
+2774,Yes,Yes,{8.0}
+2775,Do not know,Do not know,"{9.0, 4.0}"
+2776,Do not know,Do not know,"{1.0, 2.0, 7.0}"
+2777,Do not know,Do not know,"{2.0, 7.0}"
+2778,Yes,Yes,{5.0}
+2779,Yes,Yes,{6.0}
+2780,Do not know,Do not know,"{9.0, 4.0}"
+2781,Yes,Yes,{4.0}
+2782,Do not know,Do not know,"{1.0, 2.0}"
+2783,Yes,Yes,{7.0}
+2784,Yes,Yes,{4.0}
+2785,Do not know,Do not know,"{9.0, 4.0}"
+2786,Yes,Yes,{0.0}
+2787,Yes,Yes,{8.0}
+2788,Do not know,Do not know,"{9.0, 3.0, 5.0}"
+2789,Yes,Yes,{9.0}
+2790,Do not know,Do not know,"{1.0, 2.0}"
+2791,Do not know,Do not know,"{1.0, 2.0, 7.0}"
+2792,Yes,Yes,{7.0}
+2793,Yes,Yes,{3.0}
+2794,Yes,Yes,{5.0}
+2795,Yes,Yes,{5.0}
+2796,Do not know,Do not know,"{1.0, 2.0, 7.0}"
+2797,Yes,Yes,{8.0}
+2798,Do not know,Do not know,"{1.0, 2.0, 7.0}"
+2799,Yes,Yes,{3.0}
+2800,Yes,Yes,{0.0}
+2801,Yes,Yes,{7.0}
+2802,Yes,Yes,{3.0}
+2803,Yes,Yes,{5.0}
+2804,Do not know,Do not know,"{5.0, 7.0}"
+2805,Do not know,Do not know,"{8.0, 7.0}"
+2806,Yes,Yes,{6.0}
+2807,Do not know,Do not know,"{1.0, 2.0}"
+2808,Do not know,Do not know,"{0.0, 2.0, 4.0, 5.0, 6.0, 8.0, 9.0}"
+2809,Do not know,Do not know,"{1.0, 2.0, 7.0}"
+2810,Yes,Yes,{4.0}
+2811,Do not know,Do not know,"{8.0, 5.0, 6.0}"
+2812,Yes,Yes,{8.0}
+2813,Do not know,Do not know,"{1.0, 3.0, 5.0, 9.0}"
+2814,Yes,Yes,{0.0}
+2815,Yes,Yes,{6.0}
+2816,Yes,Yes,{5.0}
+2817,Do not know,Do not know,"{1.0, 2.0, 4.0, 6.0}"
+2818,Do not know,Do not know,"{1.0, 5.0}"
+2819,Yes,Yes,{3.0}
+2820,Yes,Yes,{4.0}
+2821,Do not know,Do not know,"{9.0, 4.0, 5.0, 6.0}"
+2822,Do not know,Do not know,"{9.0, 4.0}"
+2823,Yes,Yes,{6.0}
+2824,Yes,Yes,{6.0}
+2825,Yes,Yes,{7.0}
+2826,Yes,Yes,{8.0}
+2827,Yes,Yes,{3.0}
+2828,Do not know,Do not know,"{1.0, 2.0}"
+2829,Do not know,Do not know,"{1.0, 2.0}"
+2830,Yes,Yes,{0.0}
+2831,Yes,Yes,{8.0}
+2832,Yes,Yes,{4.0}
+2833,Yes,Yes,{8.0}
+2834,Yes,Yes,{1.0}
+2835,Do not know,Do not know,"{1.0, 3.0, 4.0, 7.0, 9.0}"
+2836,Yes,Yes,{6.0}
+2837,Do not know,Do not know,"{9.0, 5.0}"
+2838,Yes,Yes,{0.0}
+2839,Yes,Yes,{9.0}
+2840,Yes,Yes,{8.0}
+2841,Yes,Yes,{0.0}
+2842,Do not know,Do not know,"{1.0, 3.0, 7.0}"
+2843,Do not know,Do not know,"{9.0, 4.0}"
+2844,Do not know,Do not know,"{1.0, 3.0, 5.0}"
+2845,Yes,Yes,{0.0}
+2846,Yes,Yes,{4.0}
+2847,Do not know,Do not know,"{1.0, 2.0, 7.0}"
+2848,Yes,Yes,{6.0}
+2849,Yes,Yes,{6.0}
+2850,Do not know,Do not know,"{1.0, 2.0}"
+2851,Yes,Yes,{0.0}
+2852,Do not know,Do not know,"{9.0, 5.0}"
+2853,Yes,Yes,{9.0}
+2854,Do not know,Do not know,"{9.0, 5.0}"
+2855,Yes,Yes,{9.0}
+2856,Yes,Yes,{6.0}
+2857,Yes,Yes,{3.0}
+2858,Do not know,Do not know,"{1.0, 2.0}"
+2859,Do not know,Do not know,"{1.0, 3.0, 4.0, 7.0, 9.0}"
+2860,Yes,Yes,{4.0}
+2861,Do not know,Do not know,"{1.0, 2.0, 7.0}"
+2862,Yes,Yes,{0.0}
+2863,Do not know,Do not know,"{1.0, 3.0, 5.0}"
+2864,Do not know,Do not know,"{1.0, 2.0}"
+2865,Do not know,Do not know,"{1.0, 4.0, 9.0, 7.0}"
+2866,Yes,Yes,{6.0}
+2867,Do not know,Do not know,"{1.0, 2.0, 7.0}"
+2868,Yes,Yes,{5.0}
+2869,Yes,Yes,{5.0}
+2870,Do not know,Do not know,"{1.0, 2.0}"
+2871,Yes,Yes,{9.0}
+2872,Yes,Yes,{0.0}
+2873,Do not know,Do not know,"{1.0, 2.0}"
+2874,Yes,Yes,{5.0}
+2875,Yes,Yes,{9.0}
+2876,Yes,Yes,{8.0}
+2877,Yes,Yes,{1.0}
+2878,Yes,Yes,{8.0}
+2879,Yes,Yes,{6.0}
+2880,Yes,Yes,{7.0}
+2881,Yes,Yes,{9.0}
+2882,Yes,Yes,{4.0}
+2883,Do not know,Do not know,"{1.0, 2.0}"
+2884,Yes,Yes,{4.0}
+2885,Do not know,Do not know,"{1.0, 2.0, 3.0, 4.0, 7.0, 9.0}"
+2886,Do not know,Do not know,"{1.0, 3.0, 5.0}"
+2887,Yes,Yes,{8.0}
+2888,Do not know,Do not know,"{1.0, 3.0, 5.0, 7.0}"
+2889,Do not know,Do not know,"{1.0, 2.0, 7.0}"
+2890,Do not know,Do not know,"{1.0, 2.0}"
+2891,Yes,Yes,{3.0}
+2892,Yes,Yes,{4.0}
+2893,Yes,Yes,{9.0}
+2894,Yes,Yes,{5.0}
+2895,Yes,Yes,{8.0}
+2896,Do not know,Do not know,"{9.0, 5.0}"
+2897,Yes,Yes,{6.0}
+2898,Yes,Yes,{6.0}
+2899,Yes,Yes,{8.0}
+2900,Do not know,Do not know,"{1.0, 2.0}"
+2901,Yes,Yes,{9.0}
+2902,Yes,Yes,{3.0}
+2903,Yes,Yes,{8.0}
+2904,Yes,Yes,{0.0}
+2905,Do not know,Do not know,"{0.0, 1.0, 2.0, 5.0, 6.0, 8.0, 9.0}"
+2906,Yes,Yes,{8.0}
+2907,Yes,Yes,{7.0}
+2908,Yes,Yes,{1.0}
+2909,Do not know,Do not know,"{1.0, 2.0}"
+2910,Yes,Yes,{9.0}
+2911,Yes,Yes,{9.0}
+2912,Yes,Yes,{8.0}
+2913,Yes,Yes,{7.0}
+2914,Yes,Yes,{0.0}
+2915,Do not know,Do not know,"{1.0, 3.0}"
+2916,Yes,Yes,{7.0}
+2917,Yes,Yes,{3.0}
+2918,Do not know,Do not know,"{1.0, 2.0, 7.0}"
+2919,Yes,Yes,{3.0}
+2920,Do not know,Do not know,"{1.0, 3.0, 5.0}"
+2921,Yes,Yes,{0.0}
+2922,Yes,Yes,{7.0}
+2923,Do not know,Do not know,"{1.0, 2.0}"
+2924,Do not know,Do not know,"{1.0, 3.0, 7.0}"
+2925,Yes,Yes,{8.0}
+2926,Yes,Yes,{5.0}
+2927,Yes,Yes,{0.0}
+2928,Yes,Yes,{5.0}
+2929,Yes,Yes,{3.0}
+2930,Yes,Yes,{9.0}
+2931,Yes,Yes,{3.0}
+2932,Yes,Yes,{6.0}
+2933,Do not know,Do not know,"{9.0, 5.0}"
+2934,Do not know,Do not know,"{9.0, 4.0, 5.0}"
+2935,Yes,Yes,{8.0}
+2936,Yes,Yes,{7.0}
+2937,Do not know,Do not know,"{1.0, 4.0, 7.0}"
+2938,Do not know,Do not know,"{9.0, 5.0}"
+2939,Yes,Yes,{1.0}
+2940,Yes,Yes,{0.0}
+2941,Yes,Yes,{6.0}
+2942,Do not know,Do not know,"{1.0, 2.0, 3.0, 4.0, 7.0}"
+2943,Do not know,Do not know,"{1.0, 3.0, 5.0}"
+2944,Yes,Yes,{4.0}
+2945,Yes,Yes,{3.0}
+2946,Do not know,Do not know,"{9.0, 3.0, 5.0}"
+2947,Do not know,Do not know,"{1.0, 2.0, 7.0}"
+2948,Yes,Yes,{0.0}
+2949,Do not know,Do not know,"{1.0, 2.0, 7.0}"
+2950,Do not know,Do not know,"{1.0, 2.0}"
+2951,Yes,Yes,{3.0}
+2952,Yes,Yes,{5.0}
+2953,Yes,Yes,{8.0}
+2954,Do not know,Do not know,"{9.0, 5.0}"
+2955,Do not know,Do not know,"{1.0, 3.0, 5.0}"
+2956,Do not know,Do not know,"{1.0, 2.0, 7.0}"
+2957,Do not know,Do not know,"{9.0, 4.0, 5.0}"
+2958,Do not know,Do not know,"{1.0, 3.0, 5.0, 9.0}"
+2959,Do not know,Do not know,"{9.0, 4.0}"
+2960,Yes,Yes,{9.0}
+2961,Do not know,Do not know,"{1.0, 2.0, 7.0}"
+2962,Do not know,Do not know,"{9.0, 5.0}"
+2963,Yes,Yes,{8.0}
+2964,Yes,Yes,{8.0}
+2965,Yes,Yes,{5.0}
+2966,Yes,Yes,{9.0}
+2967,Yes,Yes,{6.0}
+2968,Do not know,Do not know,"{1.0, 3.0}"
+2969,Yes,Yes,{1.0}
+2970,Yes,Yes,{8.0}
+2971,Yes,Yes,{7.0}
+2972,Yes,Yes,{9.0}
+2973,Yes,Yes,{7.0}
+2974,Yes,Yes,{8.0}
+2975,Yes,Yes,{6.0}
+2976,Do not know,Do not know,"{1.0, 2.0, 7.0}"
+2977,Do not know,Do not know,"{1.0, 2.0, 3.0, 7.0}"
+2978,Do not know,Do not know,"{1.0, 2.0, 7.0}"
+2979,Yes,Yes,{5.0}
+2980,Do not know,Do not know,"{1.0, 2.0}"
+2981,Yes,Yes,{9.0}
+2982,Yes,Yes,{0.0}
+2983,Yes,Yes,{1.0}
+2984,Do not know,Do not know,"{1.0, 3.0, 4.0, 7.0, 9.0}"
+2985,Yes,Yes,{9.0}
+2986,Yes,Yes,{6.0}
+2987,Yes,Yes,{8.0}
+2988,Do not know,Do not know,"{1.0, 2.0, 7.0}"
+2989,Yes,Yes,{5.0}
+2990,Yes,Yes,{7.0}
+2991,Yes,Yes,{9.0}
+2992,Yes,Yes,{6.0}
+2993,Do not know,Do not know,"{8.0, 7.0}"
+2994,Do not know,Do not know,"{1.0, 2.0, 7.0}"
+2995,Do not know,Do not know,"{1.0, 2.0}"
+2996,Yes,Yes,{5.0}
+2997,Yes,Yes,{8.0}
+2998,Do not know,Do not know,"{8.0, 5.0, 7.0}"
+2999,Yes,Yes,{6.0}
+3000,Yes,Yes,{0.0}
+3001,Yes,Yes,{0.0}
+3002,Yes,Yes,{9.0}
+3003,Yes,Yes,{8.0}
+3004,Yes,Yes,{4.0}
+3005,Yes,Yes,{3.0}
+3006,Yes,Yes,{4.0}
+3007,Yes,Yes,{9.0}
+3008,Do not know,Do not know,"{1.0, 2.0}"
+3009,Yes,Yes,{4.0}
+3010,Yes,Yes,{5.0}
+3011,Yes,Yes,{5.0}
+3012,Yes,Yes,{8.0}
+3013,Yes,Yes,{0.0}
+3014,Do not know,Do not know,"{1.0, 3.0}"
+3015,Yes,Yes,{0.0}
+3016,Yes,Yes,{6.0}
+3017,Yes,Yes,{5.0}
+3018,Yes,Yes,{4.0}
+3019,Yes,Yes,{8.0}
+3020,Yes,Yes,{4.0}
+3021,Do not know,Do not know,"{1.0, 2.0, 7.0}"
+3022,Yes,Yes,{3.0}
+3023,Yes,Yes,{4.0}
+3024,Yes,Yes,{6.0}
+3025,Yes,Yes,{6.0}
+3026,Do not know,Do not know,"{1.0, 2.0}"
+3027,Do not know,Do not know,"{1.0, 3.0}"
+3028,Do not know,Do not know,"{9.0, 3.0, 5.0}"
+3029,Yes,Yes,{9.0}
+3030,Yes,Yes,{4.0}
+3031,Yes,Yes,{8.0}
+3032,Yes,Yes,{0.0}
+3033,Yes,Yes,{8.0}
+3034,Yes,Yes,{6.0}
+3035,Yes,Yes,{7.0}
+3036,Do not know,Do not know,"{1.0, 3.0, 5.0, 9.0}"
+3037,Yes,Yes,{7.0}
+3038,Do not know,Do not know,"{9.0, 5.0}"
+3039,Do not know,Do not know,"{9.0, 5.0}"
+3040,Yes,Yes,{3.0}
+3041,Do not know,Do not know,"{1.0, 2.0}"
+3042,Yes,Yes,{4.0}
+3043,Yes,Yes,{0.0}
+3044,Yes,Yes,{6.0}
+3045,Yes,Yes,{9.0}
+3046,Yes,Yes,{8.0}
+3047,Yes,Yes,{3.0}
+3048,Do not know,Do not know,"{9.0, 5.0}"
+3049,Do not know,Do not know,"{3.0, 5.0}"
+3050,Yes,Yes,{7.0}
+3051,Yes,Yes,{9.0}
+3052,Do not know,Do not know,"{8.0, 5.0}"
+3053,Yes,Yes,{7.0}
+3054,Do not know,Do not know,"{1.0, 2.0, 7.0}"
+3055,Yes,Yes,{4.0}
+3056,Yes,Yes,{8.0}
+3057,Yes,Yes,{6.0}
+3058,Yes,Yes,{3.0}
+3059,Yes,Yes,{5.0}
+3060,Yes,Yes,{3.0}
+3061,Yes,Yes,{8.0}
+3062,Yes,Yes,{3.0}
+3063,Do not know,Do not know,"{1.0, 3.0}"
+3064,Yes,Yes,{5.0}
+3065,Yes,Yes,{4.0}
+3066,Do not know,Do not know,"{1.0, 2.0, 7.0}"
+3067,Do not know,Do not know,"{9.0, 5.0}"
+3068,Yes,Yes,{0.0}
+3069,Yes,Yes,{1.0}
+3070,Yes,Yes,{1.0}
+3071,Do not know,Do not know,"{1.0, 2.0, 7.0}"
+3072,Yes,Yes,{0.0}
+3073,Do not know,Do not know,"{9.0, 5.0}"
+3074,Do not know,Do not know,"{1.0, 2.0}"
+3075,Yes,Yes,{0.0}
+3076,Yes,Yes,{6.0}
+3077,Yes,Yes,{8.0}
+3078,Yes,Yes,{9.0}
+3079,Do not know,Do not know,"{9.0, 3.0}"
+3080,Do not know,Do not know,"{9.0, 5.0}"
+3081,Yes,Yes,{6.0}
+3082,Yes,Yes,{8.0}
+3083,Yes,Yes,{5.0}
+3084,Yes,Yes,{6.0}
+3085,Yes,Yes,{6.0}
+3086,Yes,Yes,{3.0}
+3087,Yes,Yes,{0.0}
+3088,Do not know,Do not know,"{1.0, 2.0, 7.0}"
+3089,Do not know,Do not know,"{1.0, 3.0}"
+3090,Do not know,Do not know,"{2.0, 7.0}"
+3091,Yes,Yes,{4.0}
+3092,Yes,Yes,{8.0}
+3093,Yes,Yes,{3.0}
+3094,Yes,Yes,{4.0}
+3095,Yes,Yes,{6.0}
+3096,Yes,Yes,{0.0}
+3097,Yes,Yes,{8.0}
+3098,Do not know,Do not know,"{1.0, 2.0}"
+3099,Yes,Yes,{0.0}
+3100,Yes,Yes,{6.0}
+3101,Do not know,Do not know,"{1.0, 2.0}"
+3102,Yes,Yes,{9.0}
+3103,Do not know,Do not know,"{1.0, 5.0}"
+3104,Yes,Yes,{0.0}
+3105,Yes,Yes,{8.0}
+3106,Yes,Yes,{3.0}
+3107,Yes,Yes,{4.0}
+3108,Do not know,Do not know,"{1.0, 3.0, 9.0}"
+3109,Do not know,Do not know,"{1.0, 2.0, 7.0}"
+3110,Do not know,Do not know,"{9.0, 5.0}"
+3111,Do not know,Do not know,"{9.0, 5.0}"
+3112,Yes,Yes,{7.0}
+3113,Do not know,Do not know,"{1.0, 2.0, 7.0}"
+3114,Yes,Yes,{5.0}
+3115,Yes,Yes,{9.0}
+3116,Yes,Yes,{6.0}
+3117,Do not know,Do not know,"{1.0, 6.0}"
+3118,Do not know,Do not know,"{3.0, 5.0}"
+3119,Do not know,Do not know,"{1.0, 2.0}"
+3120,Yes,Yes,{0.0}
+3121,Yes,Yes,{9.0}
+3122,Yes,Yes,{0.0}
+3123,Yes,Yes,{4.0}
+3124,Do not know,Do not know,"{1.0, 2.0}"
+3125,Do not know,Do not know,"{1.0, 2.0, 3.0, 4.0, 7.0, 9.0}"
+3126,Yes,Yes,{0.0}
+3127,Yes,Yes,{7.0}
+3128,Yes,Yes,{6.0}
+3129,Yes,Yes,{1.0}
+3130,Do not know,Do not know,"{1.0, 2.0}"
+3131,Yes,Yes,{4.0}
+3132,Yes,Yes,{9.0}
+3133,Yes,Yes,{8.0}
+3134,Do not know,Do not know,"{1.0, 3.0, 5.0, 9.0}"
+3135,Yes,Yes,{8.0}
+3136,Yes,Yes,{7.0}
+3137,Yes,Yes,{8.0}
+3138,Do not know,Do not know,"{5.0, 6.0}"
+3139,Yes,Yes,{4.0}
+3140,Yes,Yes,{0.0}
+3141,Do not know,Do not know,"{1.0, 2.0}"
+3142,Yes,Yes,{3.0}
+3143,Do not know,Do not know,"{1.0, 2.0}"
+3144,Yes,Yes,{7.0}
+3145,Do not know,Do not know,"{1.0, 3.0}"
+3146,Yes,Yes,{8.0}
+3147,Yes,Yes,{8.0}
+3148,Yes,Yes,{4.0}
+3149,Yes,Yes,{4.0}
+3150,Yes,Yes,{8.0}
+3151,Do not know,Do not know,"{9.0, 4.0, 5.0}"
+3152,Do not know,Do not know,"{9.0, 5.0}"
+3153,Yes,Yes,{1.0}
+3154,Yes,Yes,{1.0}
+3155,Do not know,Do not know,"{1.0, 2.0, 7.0}"
+3156,Yes,Yes,{9.0}
+3157,Yes,Yes,{1.0}
+3158,Do not know,Do not know,"{1.0, 2.0}"
+3159,Yes,Yes,{6.0}
+3160,Yes,Yes,{6.0}
+3161,Yes,Yes,{9.0}
+3162,Do not know,Do not know,"{9.0, 4.0}"
+3163,Yes,Yes,{0.0}
+3164,Yes,Yes,{9.0}
+3165,Do not know,Do not know,"{9.0, 5.0}"
+3166,Yes,Yes,{7.0}
+3167,Yes,Yes,{9.0}
+3168,Do not know,Do not know,"{9.0, 3.0, 5.0}"
+3169,Do not know,Do not know,"{1.0, 2.0}"
+3170,Yes,Yes,{6.0}
+3171,Do not know,Do not know,"{1.0, 2.0, 7.0}"
+3172,Do not know,Do not know,"{1.0, 5.0, 9.0}"
+3173,Do not know,Do not know,"{1.0, 2.0, 7.0}"
+3174,Yes,Yes,{1.0}
+3175,Yes,Yes,{0.0}
+3176,Yes,Yes,{4.0}
+3177,Yes,Yes,{7.0}
+3178,Yes,Yes,{4.0}
+3179,Do not know,Do not know,"{3.0, 5.0}"
+3180,Yes,Yes,{0.0}
+3181,Do not know,Do not know,"{1.0, 2.0}"
+3182,Yes,Yes,{7.0}
+3183,Yes,Yes,{3.0}
+3184,Yes,Yes,{4.0}
+3185,Do not know,Do not know,"{1.0, 3.0}"
+3186,Yes,Yes,{0.0}
+3187,Do not know,Do not know,"{8.0, 2.0, 5.0, 7.0}"
+3188,Yes,Yes,{5.0}
+3189,Yes,Yes,{8.0}
+3190,Yes,Yes,{4.0}
+3191,Do not know,Do not know,"{1.0, 2.0}"
+3192,Do not know,Do not know,"{9.0, 5.0}"
+3193,Yes,Yes,{7.0}
+3194,Do not know,Do not know,"{1.0, 2.0}"
+3195,Yes,Yes,{8.0}
+3196,Do not know,Do not know,"{1.0, 2.0}"
+3197,Yes,Yes,{8.0}
+3198,Yes,Yes,{0.0}
+3199,Yes,Yes,{4.0}
+3200,Yes,Yes,{7.0}
+3201,Yes,Yes,{0.0}
+3202,Yes,Yes,{4.0}
+3203,Do not know,Do not know,"{9.0, 5.0}"
+3204,Yes,Yes,{8.0}
+3205,Yes,Yes,{0.0}
+3206,Do not know,Do not know,"{1.0, 3.0}"
+3207,Yes,Yes,{8.0}
+3208,Do not know,Do not know,"{1.0, 2.0, 7.0}"
+3209,Do not know,Do not know,"{1.0, 3.0, 5.0}"
+3210,Yes,Yes,{6.0}
+3211,Yes,Yes,{4.0}
+3212,Yes,Yes,{5.0}
+3213,Yes,Yes,{0.0}
+3214,Yes,Yes,{0.0}
+3215,Yes,Yes,{0.0}
+3216,Yes,Yes,{9.0}
+3217,Yes,Yes,{4.0}
+3218,Yes,Yes,{7.0}
+3219,Yes,Yes,{6.0}
+3220,Do not know,Do not know,"{1.0, 2.0}"
+3221,Do not know,Do not know,"{1.0, 2.0}"
+3222,Yes,Yes,{1.0}
+3223,Yes,Yes,{4.0}
+3224,Do not know,Do not know,"{8.0, 5.0}"
+3225,Yes,Yes,{0.0}
+3226,Yes,Yes,{3.0}
+3227,Yes,Yes,{8.0}
+3228,Yes,Yes,{3.0}
+3229,Do not know,Do not know,"{1.0, 2.0, 7.0}"
+3230,Yes,Yes,{7.0}
+3231,Yes,Yes,{0.0}
+3232,Yes,Yes,{0.0}
+3233,Yes,Yes,{8.0}
+3234,Do not know,Do not know,"{1.0, 2.0}"
+3235,Do not know,Do not know,"{1.0, 2.0, 7.0}"
+3236,Yes,Yes,{5.0}
+3237,Yes,Yes,{4.0}
+3238,Yes,Yes,{6.0}
+3239,Yes,Yes,{4.0}
+3240,Do not know,Do not know,"{9.0, 4.0}"
+3241,Do not know,Do not know,"{1.0, 3.0, 7.0}"
+3242,Yes,Yes,{9.0}
+3243,Do not know,Do not know,"{1.0, 3.0, 9.0, 7.0}"
+3244,Yes,Yes,{0.0}
+3245,Yes,Yes,{1.0}
+3246,Do not know,Do not know,"{0.0, 8.0}"
+3247,Do not know,Do not know,"{1.0, 2.0}"
+3248,Do not know,Do not know,"{8.0, 5.0, 7.0}"
+3249,Yes,Yes,{1.0}
+3250,Yes,Yes,{8.0}
+3251,Yes,Yes,{4.0}
+3252,Do not know,Do not know,"{9.0, 4.0}"
+3253,Yes,Yes,{6.0}
+3254,Do not know,Do not know,"{3.0, 5.0}"
+3255,Yes,Yes,{6.0}
+3256,Yes,Yes,{8.0}
+3257,Yes,Yes,{5.0}
+3258,Do not know,Do not know,"{1.0, 2.0, 7.0}"
+3259,Do not know,Do not know,"{1.0, 2.0}"
+3260,Yes,Yes,{4.0}
+3261,Yes,Yes,{5.0}
+3262,Do not know,Do not know,"{1.0, 2.0, 7.0}"
+3263,Do not know,Do not know,"{1.0, 3.0, 5.0}"
+3264,Yes,Yes,{3.0}
+3265,Yes,Yes,{3.0}
+3266,Do not know,Do not know,"{1.0, 2.0, 7.0}"
+3267,Yes,Yes,{6.0}
+3268,Do not know,Do not know,"{1.0, 7.0}"
+3269,Do not know,Do not know,"{1.0, 2.0}"
+3270,Yes,Yes,{7.0}
+3271,Do not know,Do not know,"{9.0, 4.0, 5.0}"
+3272,Yes,Yes,{5.0}
+3273,Do not know,Do not know,"{9.0, 5.0}"
+3274,Yes,Yes,{8.0}
+3275,Yes,Yes,{6.0}
+3276,Do not know,Do not know,"{1.0, 3.0, 4.0, 5.0, 6.0, 9.0}"
+3277,Yes,Yes,{0.0}
+3278,Yes,Yes,{6.0}
+3279,Yes,Yes,{7.0}
+3280,Do not know,Do not know,"{1.0, 3.0, 5.0, 7.0}"
+3281,Yes,Yes,{1.0}
+3282,Do not know,Do not know,"{3.0, 5.0}"
+3283,Do not know,Do not know,"{1.0, 2.0, 7.0}"
+3284,Do not know,Do not know,"{1.0, 6.0}"
+3285,Do not know,Do not know,"{1.0, 2.0}"
+3286,Do not know,Do not know,"{1.0, 2.0}"
+3287,Yes,Yes,{8.0}
+3288,Do not know,Do not know,"{1.0, 7.0}"
+3289,Yes,Yes,{3.0}
+3290,Yes,Yes,{3.0}
+3291,Do not know,Do not know,"{9.0, 3.0, 5.0}"
+3292,Yes,Yes,{7.0}
+3293,Do not know,Do not know,"{1.0, 2.0}"
+3294,Yes,Yes,{4.0}
+3295,Yes,Yes,{3.0}
+3296,Yes,Yes,{0.0}
+3297,Do not know,Do not know,"{8.0, 5.0, 7.0}"
+3298,Yes,Yes,{4.0}
+3299,Yes,Yes,{7.0}
+3300,Do not know,Do not know,"{1.0, 2.0}"
+3301,Do not know,Do not know,"{1.0, 3.0, 5.0, 9.0}"
+3302,Do not know,Do not know,"{1.0, 2.0, 7.0}"
+3303,Do not know,Do not know,"{1.0, 2.0}"
+3304,Yes,Yes,{7.0}
+3305,Yes,Yes,{0.0}
+3306,Yes,Yes,{3.0}
+3307,Do not know,Do not know,"{1.0, 2.0, 7.0}"
+3308,Do not know,Do not know,"{1.0, 4.0, 7.0}"
+3309,Do not know,Do not know,"{1.0, 3.0}"
+3310,Do not know,Do not know,"{1.0, 2.0}"
+3311,Yes,Yes,{1.0}
+3312,Do not know,Do not know,"{1.0, 3.0}"
+3313,Yes,Yes,{8.0}
+3314,Yes,Yes,{4.0}
+3315,Do not know,Do not know,"{1.0, 2.0}"
+3316,Do not know,Do not know,"{1.0, 2.0}"
+3317,Yes,Yes,{0.0}
+3318,Yes,Yes,{8.0}
+3319,Do not know,Do not know,"{1.0, 2.0}"
+3320,Do not know,Do not know,"{1.0, 2.0}"
+3321,Do not know,Do not know,"{1.0, 2.0}"
+3322,Yes,Yes,{2.0}
+3323,Yes,Yes,{0.0}
+3324,Yes,Yes,{8.0}
+3325,Yes,Yes,{3.0}
+3326,Yes,Yes,{1.0}
+3327,Yes,Yes,{2.0}
+3328,Yes,Yes,{0.0}
+3329,Do not know,Do not know,"{1.0, 2.0}"
+3330,Do not know,Do not know,"{1.0, 2.0}"
+3331,Yes,Yes,{8.0}
+3332,Do not know,Do not know,"{1.0, 2.0}"
+3333,Do not know,Do not know,"{1.0, 2.0}"
+3334,Do not know,Do not know,"{1.0, 2.0}"
+3335,Do not know,Do not know,"{9.0, 4.0, 5.0}"
+3336,Yes,Yes,{6.0}
+3337,Do not know,Do not know,"{1.0, 2.0}"
+3338,Yes,Yes,{4.0}
+3339,Yes,Yes,{6.0}
+3340,Yes,Yes,{5.0}
+3341,Do not know,Do not know,"{9.0, 5.0}"
+3342,Do not know,Do not know,"{1.0, 2.0, 7.0}"
+3343,Yes,Yes,{7.0}
+3344,Do not know,Do not know,"{1.0, 3.0, 5.0, 9.0}"
+3345,Do not know,Do not know,"{2.0, 7.0}"
+3346,Yes,Yes,{7.0}
+3347,Do not know,Do not know,"{1.0, 3.0, 5.0}"
+3348,Yes,Yes,{5.0}
+3349,Yes,Yes,{5.0}
+3350,Do not know,Do not know,"{2.0, 4.0, 6.0, 7.0, 8.0}"
+3351,Do not know,Do not know,"{1.0, 2.0, 3.0, 4.0, 7.0, 9.0}"
+3352,Do not know,Do not know,"{1.0, 4.0, 9.0, 7.0}"
+3353,Do not know,Do not know,"{9.0, 3.0, 4.0, 5.0}"
+3354,Yes,Yes,{4.0}
+3355,Yes,Yes,{4.0}
+3356,Yes,Yes,{7.0}
+3357,Do not know,Do not know,"{1.0, 3.0, 5.0, 9.0}"
+3358,Yes,Yes,{4.0}
+3359,Yes,Yes,{1.0}
+3360,Yes,Yes,{6.0}
+3361,Do not know,Do not know,"{1.0, 3.0, 5.0, 9.0}"
+3362,Yes,Yes,{6.0}
+3363,Do not know,Do not know,"{1.0, 2.0, 7.0}"
+3364,Yes,Yes,{7.0}
+3365,Do not know,Do not know,"{1.0, 2.0, 7.0}"
+3366,Do not know,Do not know,"{1.0, 2.0}"
+3367,Do not know,Do not know,"{1.0, 2.0}"
+3368,No,Do not know,"{1.0, 5.0, 6.0, 9.0}"
+3369,Yes,Yes,{3.0}
+3370,Do not know,Do not know,"{0.0, 6.0}"
+3371,Do not know,Do not know,"{9.0, 5.0}"
+3372,Yes,Yes,{1.0}
+3373,Do not know,Do not know,"{3.0, 5.0}"
+3374,Yes,Yes,{5.0}
+3375,Do not know,Do not know,"{8.0, 5.0}"
+3376,Yes,Yes,{6.0}
+3377,Do not know,Do not know,"{3.0, 5.0}"
+3378,Yes,Yes,{7.0}
+3379,Do not know,Do not know,"{1.0, 2.0}"
+3380,Do not know,Do not know,"{1.0, 2.0}"
+3381,Do not know,Do not know,"{1.0, 3.0, 5.0, 9.0}"
+3382,Yes,Yes,{4.0}
+3383,Do not know,Do not know,"{1.0, 2.0, 7.0}"
+3384,Do not know,Do not know,"{9.0, 3.0, 5.0}"
+3385,Do not know,Do not know,"{1.0, 2.0}"
+3386,Yes,Yes,{1.0}
+3387,Yes,Yes,{3.0}
+3388,Yes,Yes,{8.0}
+3389,Yes,Yes,{6.0}
+3390,Do not know,Do not know,"{9.0, 4.0}"
+3391,Do not know,Do not know,"{1.0, 2.0}"
+3392,Yes,Yes,{5.0}
+3393,Do not know,Do not know,"{1.0, 3.0, 7.0}"
+3394,Do not know,Do not know,"{1.0, 2.0}"
+3395,Do not know,Do not know,"{9.0, 4.0}"
+3396,Yes,Yes,{7.0}
+3397,Yes,Yes,{8.0}
+3398,Yes,Yes,{1.0}
+3399,Do not know,Do not know,"{1.0, 2.0}"
+3400,Do not know,Do not know,"{8.0, 5.0}"
+3401,Yes,Yes,{3.0}
+3402,Yes,Yes,{3.0}
+3403,Do not know,Do not know,"{1.0, 2.0, 7.0}"
+3404,Yes,Yes,{6.0}
+3405,Do not know,Do not know,"{1.0, 2.0}"
+3406,Do not know,Do not know,"{9.0, 4.0}"
+3407,Do not know,Do not know,"{1.0, 7.0}"
+3408,Do not know,Do not know,"{1.0, 7.0}"
+3409,Yes,Yes,{8.0}
+3410,Yes,Yes,{8.0}
+3411,Yes,Yes,{3.0}
+3412,Yes,Yes,{3.0}
+3413,Do not know,Do not know,"{1.0, 3.0, 7.0}"
+3414,Yes,Yes,{9.0}
+3415,Yes,Yes,{3.0}
+3416,Yes,Yes,{7.0}
+3417,Yes,Yes,{7.0}
+3418,Yes,Yes,{7.0}
+3419,Yes,Yes,{4.0}
+3420,Do not know,Do not know,"{1.0, 2.0}"
+3421,Yes,Yes,{4.0}
+3422,Do not know,Do not know,"{1.0, 2.0}"
+3423,Yes,Yes,{9.0}
+3424,Yes,Yes,{8.0}
+3425,Do not know,Do not know,"{1.0, 2.0}"
+3426,Do not know,Do not know,"{1.0, 2.0}"
+3427,Do not know,Do not know,"{1.0, 3.0, 5.0, 9.0}"
+3428,Do not know,Do not know,"{1.0, 2.0}"
+3429,Yes,Yes,{8.0}
+3430,Yes,Yes,{8.0}
+3431,Do not know,Do not know,"{1.0, 2.0}"
+3432,Yes,Yes,{6.0}
+3433,Yes,Yes,{9.0}
+3434,Do not know,Do not know,"{1.0, 2.0, 3.0, 4.0, 7.0}"
+3435,Do not know,Do not know,"{1.0, 2.0}"
+3436,Yes,Yes,{8.0}
+3437,Yes,Yes,{4.0}
+3438,Do not know,Do not know,"{1.0, 2.0}"
+3439,Yes,Yes,{1.0}
+3440,Do not know,Do not know,"{9.0, 4.0}"
+3441,Yes,Yes,{1.0}
+3442,Yes,Yes,{4.0}
+3443,Do not know,Do not know,"{9.0, 3.0, 5.0}"
+3444,Yes,Yes,{5.0}
+3445,Yes,Yes,{5.0}
+3446,Do not know,Do not know,"{4.0, 6.0}"
+3447,Yes,Yes,{4.0}
+3448,Yes,Yes,{0.0}
+3449,Yes,Yes,{6.0}
+3450,Do not know,Do not know,"{1.0, 2.0}"
+3451,Yes,Yes,{6.0}
+3452,Yes,Yes,{8.0}
+3453,Do not know,Do not know,"{9.0, 5.0}"
+3454,Yes,Yes,{4.0}
+3455,Do not know,Do not know,"{8.0, 3.0, 7.0}"
+3456,Yes,Yes,{6.0}
+3457,Yes,Yes,{8.0}
+3458,Yes,Yes,{3.0}
+3459,Yes,Yes,{9.0}
+3460,Yes,Yes,{9.0}
+3461,Yes,Yes,{5.0}
+3462,Do not know,Do not know,"{0.0, 6.0}"
+3463,Do not know,Do not know,"{9.0, 4.0}"
+3464,Yes,Yes,{1.0}
+3465,Yes,Yes,{7.0}
+3466,Yes,Yes,{8.0}
+3467,Yes,Yes,{3.0}
+3468,Yes,Yes,{9.0}
+3469,Yes,Yes,{8.0}
+3470,Do not know,Do not know,"{1.0, 2.0}"
+3471,Yes,Yes,{3.0}
+3472,Yes,Yes,{6.0}
+3473,Do not know,Do not know,"{8.0, 5.0}"
+3474,Do not know,Do not know,"{1.0, 2.0, 7.0}"
+3475,Do not know,Do not know,"{1.0, 2.0}"
+3476,Yes,Yes,{7.0}
+3477,Yes,Yes,{0.0}
+3478,Do not know,Do not know,"{1.0, 2.0}"
+3479,Yes,Yes,{9.0}
+3480,Yes,Yes,{4.0}
+3481,Yes,Yes,{4.0}
+3482,Do not know,Do not know,"{9.0, 4.0}"
+3483,Yes,Yes,{3.0}
+3484,Yes,Yes,{0.0}
+3485,Yes,Yes,{0.0}
+3486,Yes,Yes,{9.0}
+3487,Yes,Yes,{6.0}
+3488,Do not know,Do not know,"{1.0, 2.0, 3.0, 7.0, 9.0}"
+3489,Do not know,Do not know,"{1.0, 2.0, 7.0}"
+3490,Do not know,Do not know,"{1.0, 2.0, 7.0}"
+3491,Do not know,Do not know,"{9.0, 3.0, 5.0}"
+3492,Do not know,Do not know,"{8.0, 5.0}"
+3493,Yes,Yes,{4.0}
+3494,Do not know,Do not know,"{1.0, 2.0, 7.0}"
+3495,Yes,Yes,{0.0}
+3496,Yes,Yes,{0.0}
+3497,Yes,Yes,{4.0}
