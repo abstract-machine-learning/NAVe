@@ -357,7 +357,6 @@ if __name__ == "__main__":
         path = settings_parser.get('DEFAULT', 'config_dir') + '/' + filename_init + '*.ini'
         for file in glob.glob(path):
             files.append(file)
-        print(files)
 
         if len(files) == 0:
             Error('No files starting with \'{}\' were found in \'{}\''.format(argv[1][:-3], settings_parser.get('DEFAULT', 'config_dir')))
