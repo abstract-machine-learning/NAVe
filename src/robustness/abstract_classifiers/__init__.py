@@ -12,8 +12,10 @@
 
 from .abstract_classifier import AbstractClassifier
 from .interval_classifier import IntervalClassifier
+from .raf_classifier import RafClassifier
 
 __all__ = [
     'AbstractClassifier',
     'IntervalClassifier',
+    'RafClassifier',
 ]

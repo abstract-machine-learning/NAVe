@@ -12,8 +12,10 @@
 
 from .abstract_domain import AbstractDomain
 from .interval import Interval
+from .raf import Raf
 
 __all__ = [
     'AbstractDomain',
-    'Interval'
+    'Interval',
+    'Raf'
 ]

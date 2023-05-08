@@ -304,6 +304,15 @@ def read_params(input_file_path: String) -> Map[String, Dataset | Integer | Stri
     if distance_metric != 'manhattan' and distance_metric != 'euclidean':
         Error('Attribute \'distance_metric\' in \'{}\' can only be \'manhattan\' or \'euclidean\''.format(input_file_path))
 
+    #-----------------------------------------------------------------------------------------------------------------
+    # abstract domain
+
+    abstraction = get_string('abstraction', required=False)
+    if not abstraction:
+        abstraction = 'interval'
+    if abstraction != 'interval' and abstraction != 'raf':
+        Error('Attribute \'abstraction\' in \'{}\' can only be \'interval\' or \'raf\''.format(input_file_path))
+
     return {
         'classifier': classifier,
         'training_set': training_set,
@@ -313,5 +322,6 @@ def read_params(input_file_path: String) -> Map[String, Dataset | Integer | Stri
         'k_values': k_values,
         'distance_metric': distance_metric,
         'skip_ties': get_boolean('skip_ties', empty_is_true=False, required=False),
-        'save_in': get_string('save_in', required=False)
+        'save_in': get_string('save_in', required=False),
+        'abstraction': abstraction,
     }

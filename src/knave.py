@@ -24,14 +24,14 @@ from tqdm import tqdm
 from typing import Any, Tuple
 
 from robustness import ConcreteClassifier, Integer, Literal, Map, Real, Set, String, Vector
-from robustness.abstract_classifiers import IntervalClassifier
+from robustness.abstract_classifiers import IntervalClassifier, RafClassifier
 from robustness.utils import read_params, Error
 
 write_log = False
 
 def get_classification(
     test_point: Vector[Real],
-    classifier: ConcreteClassifier | IntervalClassifier,
+    classifier: ConcreteClassifier | IntervalClassifier | RafClassifier,
     params: Map[String, Any],
 ) -> Tuple[Map[Integer, Set[Literal]], Real]:
     '''
@@ -204,9 +204,11 @@ def perform_abstract_classification(
         robust_no_cnt.append(0)
         robust_do_not_know_cnt.append(0)
 
-    interval_classifier = IntervalClassifier()
-    interval_classifier.fit(params['training_set'])
-    interval_classifier.set_log(write_log)
+    abstract_classifier = IntervalClassifier()
+    if params['abstraction'] == 'raf':
+        abstract_classifier = RafClassifier()
+    abstract_classifier.fit(params['training_set'])
+    abstract_classifier.set_log(write_log)
 
     if params['skip_ties']:
         concrete_classifier = ConcreteClassifier()
@@ -234,7 +236,7 @@ def perform_abstract_classification(
                 break
             continue
 
-        most_voted_labels, exec_time = get_classification(test_point, interval_classifier, params)
+        most_voted_labels, exec_time = get_classification(test_point, abstract_classifier, params)
         runtime += exec_time
         classified_points += 1
 
@@ -307,10 +309,10 @@ def main(input_file_path: String) -> None:
     '''
     params = read_params(input_file_path)
 
-    results_dir_path = join(
+    results_dir_path = join(join(
         settings_parser.get('DEFAULT', 'results_dir'),
         params['save_in'] if params['save_in'] != '' else '{:%Y-%m-%d-%H-%M-%S}'.format(datetime.now())
-    )
+    ), params['abstraction'])
 
     if not exists(results_dir_path):
         makedirs(results_dir_path)
