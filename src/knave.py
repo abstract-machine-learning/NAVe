@@ -312,7 +312,7 @@ def main(input_file_path: String) -> None:
     results_dir_path = join(join(
         settings_parser.get('DEFAULT', 'results_dir'),
         params['save_in'] if params['save_in'] != '' else '{:%Y-%m-%d-%H-%M-%S}'.format(datetime.now())
-    ), params['abstraction'])
+    ), params['distance_metric'], params['abstraction'])
 
     if not exists(results_dir_path):
         makedirs(results_dir_path)
