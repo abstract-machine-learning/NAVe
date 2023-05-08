@@ -15,6 +15,7 @@
 
 from configparser import ConfigParser
 from datetime import datetime
+import glob
 from os import listdir, makedirs
 from os.path import exists, join
 from pandas import DataFrame
@@ -26,6 +27,8 @@ from typing import Any, Tuple
 from robustness import ConcreteClassifier, Integer, Literal, Map, Real, Set, String, Vector
 from robustness.abstract_classifiers import IntervalClassifier, RafClassifier
 from robustness.utils import read_params, Error
+
+import sys
 
 write_log = False
 
@@ -351,17 +354,17 @@ if __name__ == "__main__":
     if '...' in argv[1]:
         filename_init = argv[1][:argv[1].index('...')]
         files = []
-        for filename in listdir(settings_parser.get('DEFAULT', 'config_dir')):
-            if filename.startswith(filename_init):
-                files.append(filename)
+        path = settings_parser.get('DEFAULT', 'config_dir') + '/' + filename_init + '*.ini'
+        for file in glob.glob(path):
+            files.append(file)
+        print(files)
 
         if len(files) == 0:
             Error('No files starting with \'{}\' were found in \'{}\''.format(argv[1][:-3], settings_parser.get('DEFAULT', 'config_dir')))
 
         for i, filename in enumerate(files):
-            input_file_path = join(settings_parser.get('DEFAULT', 'config_dir'), filename)
             print('\nFile \'{}\' [{}/{}]'.format(filename, i + 1, len(files)))
-            main(input_file_path)
+            main(filename)
 
     else:
         if exists(join(settings_parser.get('DEFAULT', 'config_dir'), argv[1])):
