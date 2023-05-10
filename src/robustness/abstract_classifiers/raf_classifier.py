@@ -16,6 +16,7 @@
 
 from __future__ import annotations
 from math import ceil
+import numbers
 from typing import Tuple, Type
 
 from .abstract_classifier import AbstractClassifier
@@ -142,8 +143,12 @@ class RafClassifier(AbstractClassifier):
         raf_adv_region = []
         for i in range(0, len(adv_region)):
             box = adv_region[i]
-            c = 0.5 * (box.lb + box.ub)
-            a = 0.5 * (box.ub - box.lb)
+            if isinstance(box, numbers.Number):
+                c = box
+                a = 0.0
+            else:
+                c = 0.5 * (box.lb + box.ub)
+                a = 0.5 * (box.ub - box.lb)
             raf = Raf(c, None, 0, len(adv_region))
             raf.linear[i] = a
             raf_adv_region.append(raf)
