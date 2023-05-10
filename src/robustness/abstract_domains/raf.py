@@ -23,7 +23,7 @@ from .abstract_domain import AbstractDomain
 from robustness import Boolean, Integer, Number, String
 
 class Raf(AbstractDomain):
-    '''Represent the RAF abstract domain'''
+    '''Represents the RAF abstract domain'''
 
     def __init__(self,
         center: Number = 0.0,
@@ -45,6 +45,13 @@ class Raf(AbstractDomain):
     
     def upperbound(self):
         return self.center + np.sum(np.absolute(self.linear)) + self.noise
+
+    def is_number(self):
+        return np.count_nonzero(self.linear) == 0 and self.noise == 0.0
+
+    def is_single_variable(self):
+        has_noise = 1 if self.noise != 0.0 else 0
+        return np.count_nonzero(self.linear) + has_noise <= 1
     
     @staticmethod
     def intersect(
@@ -169,6 +176,21 @@ class Raf(AbstractDomain):
             return self
         elif self.upperbound() < 0.0:
             return -self
+        elif self.is_single_variable() and True:
+            c = self.center
+            index = 0
+            a = self.linear[index]
+            for i in range(0, len(self.linear)):
+                if self.linear[i] != 0:
+                    index = i
+                    a = self.linear[i]
+                    break
+            m = 0.5 * (abs(c + a) - abs(c - a))
+            q = (c * (abs(c + a) - abs(c - a)) + a * (abs(c + a) + abs(c - a))) / (4 * a)
+            epsilon = (-c * (abs(c + a) - abs(c - a)) + a * (abs(c + a) + abs(c - a))) / (4 * a)
+            raf = Raf(q, np.zeros(len(self.linear)), epsilon)
+            raf.linear[index] = m
+            return raf
         n = self.size() + 2
 
         # RAF as hyperplane
