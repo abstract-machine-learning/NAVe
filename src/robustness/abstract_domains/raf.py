@@ -29,27 +29,37 @@ class Raf(AbstractDomain):
         center: Number = 0.0,
         linear = None,
         noise: Number = 0.0,
-        dimensions: int = 0
+        dimensions: int = 0,
+        single_variable = -1
     ) -> None:
         if linear is None:
             linear = np.zeros(dimensions)
         self.center = center
         self.linear = linear
         self.noise = abs(noise)
+        self.single_variable = single_variable
     
     def size(self):
         return self.linear.shape[0]
     
     def lowerbound(self):
+        if self.is_single_variable():
+            noise = self.linear[self.single_variable] if self.single_variable < self.size() else self.noise
+            return self.center - noise
         return self.center - np.sum(np.absolute(self.linear)) - self.noise
     
     def upperbound(self):
+        if self.is_single_variable():
+            noise = self.linear[self.single_variable] if self.single_variable < self.size() else self.noise
+            return self.center + noise
         return self.center + np.sum(np.absolute(self.linear)) + self.noise
 
     def is_number(self):
         return np.count_nonzero(self.linear) == 0 and self.noise == 0.0
 
     def is_single_variable(self):
+        if self.single_variable >= 0:
+            return True
         has_noise = 1 if self.noise != 0.0 else 0
         return np.count_nonzero(self.linear) + has_noise <= 1
     
@@ -101,9 +111,20 @@ class Raf(AbstractDomain):
     def to_python_type(self) -> Vector[Number]:
         return [self.center, self.linear, self.noise]
 
+    def single_square(self):
+        linear = np.zeros(self.size())
+        if self.single_variable < self.size():
+            linear[self.single_variable] = 2 * self.center * self.linear[self.single_variable]
+            noise = self.linear[self.single_variable] ** 2
+        else:
+            noise = 2 * self.center * self.noise + self.noise ** 2
+        return Raf(self.center ** 2, linear, noise)
+
     def square(self):
-        noise = self.noise**2 + 2 * self.center * self.noise
-        for i in range(1, self.size()):
+        if self.is_single_variable():
+            return self.single_square()
+        noise = abs(self.noise**2 + 2 * self.center * self.noise)
+        for i in range(0, self.size()):
             noise += self.linear[i]**2
             noise += abs(2 * self.linear[i] * self.noise)
             for j in range(i + 1, self.size()):
@@ -127,9 +148,10 @@ class Raf(AbstractDomain):
             return Raf(
                 self.center + other.center,
                 np.add(self.linear, other.linear),
-                abs(self.noise) + abs(other.noise)
+                abs(self.noise) + abs(other.noise),
+                single_variable=self.single_variable if self.single_variable == other.single_variable else -1
             )
-        return Raf(self.center + other, self.linear, self.noise)
+        return Raf(self.center + other, self.linear, self.noise, single_variable=self.single_variable)
 
     def __sub__(self,
         other: Type[Raf] | Number
@@ -138,9 +160,10 @@ class Raf(AbstractDomain):
             return Raf(
                 self.center - other.center,
                 np.subtract(self.linear, other.linear),
-                abs(self.noise) + abs(other.noise)
+                abs(self.noise) + abs(other.noise),
+                single_variable=self.single_variable if self.single_variable == other.single_variable else -1
             )
-        return Raf(self.center - other, self.linear, self.noise)
+        return Raf(self.center - other, self.linear, self.noise, single_variable=self.single_variable)
     
     def __mul__(self,
         other: Type[Raf] | Number
@@ -176,15 +199,13 @@ class Raf(AbstractDomain):
             return self
         elif self.upperbound() < 0.0:
             return -self
-        elif self.is_single_variable() and True:
+        elif self.is_single_variable():
             c = self.center
             index = 0
-            a = self.linear[index]
-            for i in range(0, len(self.linear)):
-                if self.linear[i] != 0:
-                    index = i
-                    a = self.linear[i]
-                    break
+            a = self.noise
+            if self.single_variable < self.size():
+                index = self.single_variable
+                a = self.linear[self.single_variable]
             m = 0.5 * (abs(c + a) - abs(c - a))
             q = (c * (abs(c + a) - abs(c - a)) + a * (abs(c + a) + abs(c - a))) / (4 * a)
             epsilon = (-c * (abs(c + a) - abs(c - a)) + a * (abs(c + a) + abs(c - a))) / (4 * a)
@@ -200,7 +221,6 @@ class Raf(AbstractDomain):
             p.coefficients[i] = self.linear[i]
         p.coefficients[self.size()] = self.noise
         p.coefficients[self.size() + 1] = -1
-        #print(p)
 
         # Finds n points
         points = np.zeros((n, n))
@@ -218,48 +238,32 @@ class Raf(AbstractDomain):
         for i in range(0, self.size()):
             points[i + 2][i] = 1
             points[i + 2][self.size() + 1] = abs(p(points[i + 2]))
-        #print(points)
 
         # Finds hyperplane for those points (upperbound)
         X = np.matrix(points)
         k = np.ones((n, 1))
         A = np.matrix.dot(np.linalg.inv(X), k)
         h_top = Hyperplane(np.squeeze(np.asarray(A)), -1.0)
-        #print(h_top)
 
         # find one intersection between raf (as hyperplane) and x_d+2 = 0
-        # init X = 0 of size n - 1 (avoid x_d+2)
-        # init nabla = gradient of hp (avoid x_d+2)
-        # if x * nabla + k < 0:
-        #  X += nabla / n
-        # else
-        #  X -n nabla / n
-        # todo: make me sound :)
         x = np.zeros(n)
         nabla = np.array([p.coefficients[i] for i in range(0, n)])
         nabla[n - 1] = 0
         for i in range(1, 100):
-            #print(f"    {np.dot(x, nabla) + p.constant}")
             if np.dot(x, nabla) == -p.constant:
                 break
             elif np.dot(x, nabla) > -p.constant:
                 x -= nabla / i
             else:
                 x += nabla / i
-        #print(x)
 
         # find parallel hyperplane passing through intersection: this is the lowebound
         h_bottom = Hyperplane(h_top.coefficients, h_top.constant - h_top(x))
-        #print(h_bottom)
 
         # find middle hyperplane
-        # todo: fix the messup
         h = Hyperplane(h_top.coefficients, 0.5 * (h_top.constant + h_bottom.constant))
         delta = abs(0.5 * (h_top.constant - h_bottom.constant) / -h.coefficients[n-1])
-        #print("H: ", h)
         h_c = h / -h.coefficients[n - 1]
-        #print("H corrected: ", h_c)
-        #print("delta: ", delta)
 
         return Raf(h_c.constant, h_c.coefficients[0:n-2], abs(h_c.coefficients[n - 2]) + delta)
     

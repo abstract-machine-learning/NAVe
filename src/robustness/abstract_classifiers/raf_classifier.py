@@ -151,6 +151,7 @@ class RafClassifier(AbstractClassifier):
                 a = 0.5 * (box.ub - box.lb)
             raf = Raf(c, None, 0, len(adv_region))
             raf.linear[i] = a
+            raf.single_variable = i
             raf_adv_region.append(raf)
         distances = self.__compute_abstract_distances(raf_adv_region, distance_metric)
 
