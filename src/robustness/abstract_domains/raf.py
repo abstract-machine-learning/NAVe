@@ -89,7 +89,7 @@ class Raf(AbstractDomain):
     ) -> Boolean:
         if issubclass(type(other), Raf):
             return (self - other).upperbound() <= 0.0
-        return self.ub <= other
+        return self.upperbound() <= other
 
     def strictly_dominates(self,
         other: Type[Raf] | Number
@@ -103,7 +103,7 @@ class Raf(AbstractDomain):
     ) -> Boolean:
         if issubclass(type(other), Raf):
             return (self - other).upperbound() < 0.0
-        return self.ub < other
+        return self.upperbound() < other
     
     def to_string(self) -> String:
         return f"<{self.center}, {self.linear}, {self.noise}>: [{self.lowerbound()}, {self.upperbound()}]"
@@ -136,7 +136,7 @@ class Raf(AbstractDomain):
     ) -> Boolean:
         if issubclass(type(other), Raf):
             return self.lowerbound() < other.upperbound() or (self.lowerbound() == other.lowerbound() and self.upperbound() < other.upperbound())
-        return self.lb < other
+        return self.lowerbound() < other
     
     def __neg__(self):
         return Raf(-self.center, -self.linear, abs(self.noise))
