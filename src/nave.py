@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 # =============================================================================
-# File: knave.py
+# File: nave.py
 # Updated: 05/11/2022
 # =============================================================================
 '''Main program for the kNN abstract verifier'''
@@ -373,3 +373,4 @@ if __name__ == "__main__":
 
         else:
             Error('File \'{}\' does not exist in \'{}\''.format(argv[1], settings_parser.get('DEFAULT', 'config_dir')))
+

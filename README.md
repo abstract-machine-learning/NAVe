@@ -35,19 +35,19 @@ This will install the following dependencies:
 To run *k*NAVe:
 ```[bash]
 cd src
-python3 knave.py <config_file.ini>
+python3 nave.py <config_file.ini>
 ```
 where `config_file.ini` is located in the `config` folder, or alternatively:
 ```[bash]
 cd src
-python3 knave.py <config_file.ini> log
+python3 nave.py <config_file.ini> log
 ```
 to obtain also a log file in the `logs` folder. For more information on usage and configuration file, run `help.py` without arguments.
 
 Note: You can use `...` to match multiple files. For example:
 ```[bash]
-python3 knave.py ...
-python3 knave.py str...
+python3 nave.py ...
+python3 nave.py str...
 ```
 match, respectively, all files and files starting with `str` in the `config` folder.
 

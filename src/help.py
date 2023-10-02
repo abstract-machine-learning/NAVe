@@ -40,13 +40,13 @@ while True:
         text = title + (
             '\n\nTo run kNAVe:\n' +
             '\n  cd src' +
-            '\n  python3 knave.py <config_file.ini>' +
+            '\n  python3 nave.py <config_file.ini>' +
             '\n  # or' + 
-            '\n  python3 knave.py <config_file.ini> log' +
+            '\n  python3 nave.py <config_file.ini> log' +
             '\n  # to obtain also a log file in \'{}\'\n'.format(settings_parser.get('DEFAULT', 'logs_dir')) +
             '\nNote: You can use \'...\' to match multiple files. For example:' +
-            '\n  python3 knave.py ...    # match all files in \'{}\''.format(settings_parser.get('DEFAULT', 'config_dir')) +
-            '\n  python3 knave.py str... # match all files in \'{}\' starting with \'str\''.format(settings_parser.get('DEFAULT', 'config_dir'))
+            '\n  python3 nave.py ...    # match all files in \'{}\''.format(settings_parser.get('DEFAULT', 'config_dir')) +
+            '\n  python3 nave.py str... # match all files in \'{}\' starting with \'str\''.format(settings_parser.get('DEFAULT', 'config_dir'))
         )
         while True:
             options = [
