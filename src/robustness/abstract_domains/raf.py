@@ -135,7 +135,7 @@ class Raf(AbstractDomain):
         other: Type[Raf] | Number
     ) -> Boolean:
         if issubclass(type(other), Raf):
-            return self.lowerbound() < other.upperbound() or (self.lowerbound() == other.lowerbound() and self.upperbound() < other.upperbound())
+            return self.lowerbound() < other.lowerbound() or (self.lowerbound() == other.lowerbound() and self.upperbound() < other.upperbound())
         return self.lowerbound() < other
     
     def __neg__(self):
